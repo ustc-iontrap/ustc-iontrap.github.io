@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>USTC IonQNet Group</title><link>https://ustc-iontrap.github.io/</link><description/><atom:link href="https://ustc-iontrap.github.io/feeds/all-en.rss.xml" rel="self"/><lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0800</lastBuildDate><item><title>High optical access (HOA) trap</title><link>https://ustc-iontrap.github.io/gallery/high-optical-access-trap.html</link><description>A miniature blade trap in an all-glass cell, with high-NA optical access from four directions for precise addressing, imaging, readout and optical-tweezer control.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-03:/gallery/high-optical-access-trap.html</guid><category>gallery</category></item><item><title>Optical-tweezer ion gates</title><link>https://ustc-iontrap.github.io/gallery/optical-tweezer-ion-gates.html</link><description>Tightly focused light opens new ways to address trapped ions, generate entangling gates and control their collective motion.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-03:/gallery/optical-tweezer-ion-gates.html</guid><category>gallery</category></item><item><title>Yun-Feng Huang</title><link>https://ustc-iontrap.github.io/Members/Yun-Feng_Huang.html</link><description>&lt;h2 id="profile"&gt;Profile&lt;/h2&gt;
+&lt;p&gt;Yun-Feng Huang is a Researcher in the Department of Optics and
+Optical Engineering at the University of Science and Technology of
+China. His research interests include quantum communication, photonic
+quantum information processing, and trapped-ion quantum information
+processing.&lt;/p&gt;
+&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1998-2003, Ph.D. program, Department of Physics, University of
+Science and …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 01 Apr 2026 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-04-01:/Members/Yun-Feng_Huang.html</guid><category>People</category></item><item><title>Chen-Xu Wang</title><link>https://ustc-iontrap.github.io/Members/Chen-Xu_Wang.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2021.9-now, University of Science and Technology of China,
+Department of Optics and Optical Engineering, Doctor&lt;/li&gt;
+&lt;li&gt;2017.8-2021.6, Ocean University of China, Faculty of Information
+Science and Engineering, Bachelor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Quantum information with trapped ions. Quantum simulation, quantum
+network, distributed quantum computation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/Members/Chen-Xu_Wang.html</guid><category>People</category></item><item><title>Quantum Interface Concept</title><link>https://ustc-iontrap.github.io/gallery/quantum-interface-concept.html</link><description>Connecting stationary matter qubits through optical quantum channels.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:23:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/gallery/quantum-interface-concept.html</guid><category>gallery</category></item><item><title>Hybrid Quantum Network</title><link>https://ustc-iontrap.github.io/gallery/hybrid-quantum-network.html</link><description>Connecting trapped-ion processors and solid-state quantum memories through quantum frequency conversion.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:21:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/gallery/hybrid-quantum-network.html</guid><category>gallery</category></item><item><title>Cavity QED Interface</title><link>https://ustc-iontrap.github.io/gallery/cavity-qed-interface.html</link><description>From gold-coated fiber mirrors to needle-trap integration: building high-bandwidth, high-efficiency ion–photon interfaces.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/gallery/cavity-qed-interface.html</guid><category>gallery</category></item><item><title>"Transverse Polarization Gradient Entangling Gates for Trapped-Ion Quantum Computation" is published in Physical Review Letters</title><link>https://ustc-iontrap.github.io/transverse-polarization-gradient-entangling-gates-trapped-ion.html</link><description>&lt;p&gt;Our work “Transverse Polarization Gradient Entangling Gates for
+Trapped-Ion Quantum Computation” has been published in &lt;strong&gt;Physical
+Review Letters&lt;/strong&gt; as an &lt;strong&gt;Editors’ Suggestion&lt;/strong&gt; on
+December 24, 2025.&lt;/p&gt;
+&lt;p&gt;We realized high-fidelity entangling gates for trapped ions based on
+the polarization gradient of tightly focused light. This scheme
+simplifies the current entangling gate …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Thu, 25 Dec 2025 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2025-12-25:/transverse-polarization-gradient-entangling-gates-trapped-ion.html</guid><category>News</category></item><item><title>"A neural network assisted ¹⁷¹Yb⁺ quantum magnetometer" is published in npj Quantum Information</title><link>https://ustc-iontrap.github.io/neural-network-assisted-yb-quantum-magnetometer.html</link><description>&lt;p&gt;Our work “A neural network assisted &lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt;
+quantum magnetometer” has been published in &lt;strong&gt;npj Quantum
+Information&lt;/strong&gt;. We demonstrate the power of combining machine
+learning with quantum sensing by integrating neural networks into the
+data processing stage of a trapped-ion magnetometer, significantly
+extending its operational regime.&lt;/p&gt;
+&lt;h3 id="the-challenge"&gt;The Challenge&lt;/h3&gt;
+&lt;p&gt;A versatile …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Thu, 22 Dec 2022 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2022-12-22:/neural-network-assisted-yb-quantum-magnetometer.html</guid><category>News</category></item><item><title>"Super-resolved Imaging of a Single Cold Atom on a Nanosecond Timescale" is published in Physical Review Letters</title><link>https://ustc-iontrap.github.io/super-resolved-imaging-single-cold-atom-nanosecond.html</link><description>&lt;p&gt;Our work “Super-resolved Imaging of a Single Cold Atom on a
+Nanosecond Timescale” has been published in &lt;strong&gt;Physical Review
+Letters&lt;/strong&gt;. We demonstrate a groundbreaking method to image a
+single trapped ion with unprecedented spatial and temporal resolution,
+breaking through the optical diffraction limit.&lt;/p&gt;
+&lt;h3 id="breaking-the-diffraction-limit"&gt;Breaking the Diffraction
+Limit&lt;/h3&gt;
+&lt;p&gt;High-resolution optical detection …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Fri, 24 Dec 2021 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2021-12-24:/super-resolved-imaging-single-cold-atom-nanosecond.html</guid><category>News</category></item><item><title>"Riemann zeros from Floquet engineering a trapped-ion qubit" is published in npj Quantum Information</title><link>https://ustc-iontrap.github.io/riemann-zeros-floquet-engineering-trapped-ion.html</link><description>&lt;p&gt;Our work “Riemann zeros from Floquet engineering a trapped-ion qubit”
+was published in &lt;strong&gt;npj Quantum Information&lt;/strong&gt; on July 14,
+2021. This work bridges quantum physics and number theory by
+experimentally measuring the zeros of the Riemann zeta function using a
+trapped-ion quantum system.&lt;/p&gt;
+&lt;h3 id="background"&gt;Background&lt;/h3&gt;
+&lt;p&gt;The Riemann Hypothesis, proposed by Bernhard …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Thu, 01 Jul 2021 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2021-07-01:/riemann-zeros-floquet-engineering-trapped-ion.html</guid><category>News</category></item><item><title>"Quantum thermodynamics in adiabatic open systems and its trapped-ion experimental realization" is published in npj Quantum Information</title><link>https://ustc-iontrap.github.io/quantum-thermodynamics-adiabatic-open-systems-trapped-ion.html</link><description>&lt;p&gt;Our work “Quantum thermodynamics in adiabatic open systems and its
+trapped-ion experimental realization” has been published in &lt;strong&gt;npj
+Quantum Information&lt;/strong&gt;. In collaboration with our Brazilian
+colleagues, we established general formulas for quantum thermodynamics
+in adiabatic open systems, bridging quantum adiabatic processes and
+thermodynamic adiabatic processes, and verified our theory
+experimentally …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Fri, 18 Sep 2020 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2020-09-18:/quantum-thermodynamics-adiabatic-open-systems-trapped-ion.html</guid><category>News</category></item><item><title>"Experimentally testing quantum critical dynamics beyond the Kibble-Zurek mechanism" is published in Communications Physics</title><link>https://ustc-iontrap.github.io/experimentally-testing-quantum-critical-dynamics-beyond-kibble-zurek.html</link><description>&lt;p&gt;Our work “Experimentally testing quantum critical dynamics beyond the
+Kibble-Zurek mechanism” has been published in &lt;strong&gt;Communications
+Physics&lt;/strong&gt; (Nature). Building on our earlier Kibble-Zurek
+experiment, we go beyond the standard KZM to probe the &lt;strong&gt;full
+probability distribution&lt;/strong&gt; of topological defects formed during a
+quantum phase transition.&lt;/p&gt;
+&lt;h3 id="beyond-the-mean-full-counting-statistics"&gt;Beyond the Mean: Full
+Counting …&lt;/h3&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Fri, 14 Feb 2020 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2020-02-14:/experimentally-testing-quantum-critical-dynamics-beyond-kibble-zurek.html</guid><category>News</category></item><item><title>"Experimental demonstration of suppressing residual geometric dephasing" is published in Science Bulletin</title><link>https://ustc-iontrap.github.io/experimental-demonstration-suppressing-residual-geometric-dephasing.html</link><description>&lt;p&gt;Our work “Experimental demonstration of suppressing residual
+geometric dephasing” has been published in &lt;strong&gt;Science
+Bulletin&lt;/strong&gt;. We experimentally demonstrate effective suppression
+of residual geometric dephasing — a key obstacle for high-fidelity
+geometric quantum gates — using modified dynamical decoupling schemes on
+a single trapped &lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt; ion.&lt;/p&gt;
+&lt;h3 id="the-problem-residual-geometric-dephasing"&gt;The Problem: Residual
+Geometric Dephasing&lt;/h3&gt;
+&lt;p&gt;The …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Fri, 20 Sep 2019 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2019-09-20:/experimental-demonstration-suppressing-residual-geometric-dephasing.html</guid><category>News</category></item><item><title>Mingzhong Ai</title><link>https://ustc-iontrap.github.io/Members/Ming-Zhong_Ai.html</link><description>&lt;h2 id="personal-data"&gt;Personal data&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Address: Key Laboratory of Quantum Information, CAS, USTC, Jinzhai
+Road #96, Hefei, Anhui, P. R. China, 230026&lt;/li&gt;
+&lt;li&gt;Phone: (+86) 18214880012&lt;/li&gt;
+&lt;li&gt;E-mail: amz@mail.ustc.edu.cn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D. (enrolled September 2016), Key Lab of Quantum Information,
+Department of Optics and Optical Engineering, University of Science and
+Technology …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 09 May 2018 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2018-05-09:/Members/Ming-Zhong_Ai.html</guid><category>People</category></item><item><title>"An Ultraviolet Fiber Fabry–Pérot Cavity for Florescence Collection of Trapped Ions" is published</title><link>https://ustc-iontrap.github.io/an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html</link><description>&lt;p&gt;Our work “An Ultraviolet Fiber Fabry–Pérot Cavity for Florescence
+Collection of Trapped Ions” has been published in &lt;strong&gt;Chinese
+Physics Letters&lt;/strong&gt;. We demonstrate a fiber Fabry–Pérot cavity
+(FFPC) operating in the ultraviolet range at 369 nm, specifically
+designed for enhancing fluorescence collection from trapped
+&lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt; ions — a key …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sun, 22 Jan 2017 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2017-01-22:/an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html</guid><category>News</category></item><item><title>"Experimental Trapped-ion Quantum Simulation of the Kibble-Zurek dynamics in momentum space" is published</title><link>https://ustc-iontrap.github.io/experimental-trapped-ion-quantum-simulation-of-the-kibble-zurek-dynamics-in-momentum-space-is-published.html</link><description>&lt;p&gt;Our work &lt;em&gt;Experimental Trapped-ion Quantum Simulation of the
+Kibble-Zurek dynamics in momentum space&lt;/em&gt; was published in
+&lt;strong&gt;Scientific Reports&lt;/strong&gt;. This was our group’s first
+trapped-ion experiment, following the development of the platform that
+began in 2013. We thank our collaborators Le Luo and Adolfo del Campo
+for their contributions to …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Thu, 22 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-22:/experimental-trapped-ion-quantum-simulation-of-the-kibble-zurek-dynamics-in-momentum-space-is-published.html</guid><category>News</category></item><item><title>Ran He</title><link>https://ustc-iontrap.github.io/Members/Ran_He.html</link><description>&lt;ul&gt;
+&lt;li&gt;PhD alumnus&lt;/li&gt;
+&lt;li&gt;office:316&lt;/li&gt;
+&lt;li&gt;email:heran@mail.ustc.edu.cn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;
+&lt;p&gt;I received my bachelor’s degree from Dalian University of Technology
+(DUT). During a summer visit to USTC, I became interested in trapping
+single ions and manipulating their quantum states with lasers, and
+subsequently joined the ion-trap group as …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 21 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-21:/Members/Ran_He.html</guid><category>People</category></item><item><title>Chang-Kang Hu</title><link>https://ustc-iontrap.github.io/Members/Chang-Kang_Hu.html</link><description>&lt;figure&gt;
+&lt;img src="../images/people/hckcontacts.png" alt="Chang-Kang Hu" /&gt;
+&lt;figcaption aria-hidden="true"&gt;Chang-Kang Hu&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Mon, 19 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-19:/Members/Chang-Kang_Hu.html</guid><category>People</category></item><item><title>Jin-Ming Cui</title><link>https://ustc-iontrap.github.io/Members/Jin-Ming_Cui.html</link><description>&lt;h2 id="personal-information"&gt;Personal Information&lt;/h2&gt;
+&lt;p&gt;&lt;img src="../images/people/personal_card_cui.svg" width="350" /&gt;&lt;/p&gt;
+&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2008.9-2013.6, University of Science and Technology of China,
+Department of Optics and Optical Engineering, Doctor&lt;/li&gt;
+&lt;li&gt;2004.8-2008.6, University of Science and Technology of China,
+Department of Physics, Bachelor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Quantum information with trapped ions. Quantum simulation, cavity
+QED, quantum network, distributed quantum computation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Mon, 19 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-19:/Members/Jin-Ming_Cui.html</guid><category>People</category></item><item><title>Wei-Min Lv</title><link>https://ustc-iontrap.github.io/Members/Wei-Min_Lv.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2013.9-2016.6, University of Science and Technology of China,
+Department of Optics and Optical Engineering, PhD&lt;/li&gt;
+&lt;li&gt;2009.8-2013.6, Hefei University of Technology, School of Instrument
+Science and Opto-electronic Engineering, Bachelor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="contact"&gt;Contact&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tel: +86 13866664268&lt;/li&gt;
+&lt;li&gt;Email: weimin@mail.ustc.edu.cn&lt;/li&gt;
+&lt;li&gt;Address: Key Laboratory of Quantum Information, CAS …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Mon, 19 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-19:/Members/Wei-Min_Lv.html</guid><category>People</category></item></channel></rss>

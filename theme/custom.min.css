@@ -1,0 +1,532 @@
+/* USTC Blue Theme Color Overrides */
+:root,
+[data-bs-theme="light"] {
+    --bs-primary: #003a8c;
+    --bs-secondary: #5b8dd9;
+    --bs-primary-rgb: 0, 58, 140;
+    --bs-secondary-rgb: 91, 141, 217;
+    --bs-link-color: #003a8c;
+    --bs-link-color-rgb: 0, 58, 140;
+    --bs-link-hover-color: #002d6d;
+    --bs-link-hover-color-rgb: 0, 45, 109;
+    --bs-primary-text-emphasis: #001736;
+    --bs-primary-bg-subtle: #ccd9ed;
+    --bs-primary-border-subtle: #99b3db;
+}
+
+[data-bs-theme="dark"] {
+    --bs-primary-text-emphasis: #6699cc;
+    --bs-primary-bg-subtle: #000e1c;
+    --bs-primary-border-subtle: #002354;
+}
+
+/* Override button colors */
+.btn-primary {
+    --bs-btn-bg: #003a8c;
+    --bs-btn-border-color: #003a8c;
+    --bs-btn-hover-bg: #002d6d;
+    --bs-btn-hover-border-color: #002866;
+    --bs-btn-active-bg: #002866;
+    --bs-btn-active-border-color: #00245c;
+    --bs-btn-disabled-bg: #003a8c;
+    --bs-btn-disabled-border-color: #003a8c;
+}
+
+/* Override navbar background */
+.navbar.bg-primary {
+    background-color: #003a8c !important;
+}
+
+/* Override form focus colors */
+.form-control:focus,
+.form-select:focus,
+.form-check-input:focus {
+    border-color: #003a8c;
+    box-shadow: 0 0 0 0.25rem rgba(0, 58, 140, 0.25);
+}
+
+.form-check-input:checked {
+    background-color: #003a8c;
+    border-color: #003a8c;
+}
+
+/* Override badge colors */
+.badge.bg-primary {
+    background-color: #003a8c !important;
+}
+
+.badge.bg-info {
+    background-color: #005bac !important;
+}
+
+/* Override nav-pills active state */
+.nav-pills {
+    --bs-nav-pills-link-active-bg: #003a8c;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+    background-color: #003a8c !important;
+}
+
+/* Override nav-tabs */
+.nav-tabs {
+    --bs-nav-tabs-link-hover-border-color: #003a8c;
+}
+
+/* Override dropdown colors */
+.dropdown-menu {
+    --bs-dropdown-link-hover-bg: #003a8c;
+    --bs-dropdown-link-active-bg: #003a8c;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+    background-color: #003a8c;
+    color: #fff;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+    background-color: #003a8c;
+}
+
+/* Override pagination */
+.pagination {
+    --bs-pagination-active-bg: #003a8c;
+    --bs-pagination-active-border-color: #003a8c;
+}
+
+.page-link:hover {
+    color: #003a8c;
+}
+
+.page-item.active .page-link {
+    background-color: #003a8c;
+    border-color: #003a8c;
+}
+
+/* Override progress bar */
+.progress {
+    --bs-progress-bar-bg: #003a8c;
+}
+
+/* Override accordion */
+.accordion {
+    --bs-accordion-btn-focus-border-color: #003a8c;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #003a8c;
+    background-color: #ccd9ed;
+}
+
+/* Override outline buttons */
+.btn-outline-primary {
+    --bs-btn-color: #003a8c;
+    --bs-btn-border-color: #003a8c;
+    --bs-btn-hover-bg: #003a8c;
+    --bs-btn-hover-border-color: #003a8c;
+    --bs-btn-active-bg: #003a8c;
+    --bs-btn-active-border-color: #003a8c;
+    --bs-btn-disabled-color: #003a8c;
+    --bs-btn-disabled-border-color: #003a8c;
+}
+
+/* Override list-group */
+.list-group-item.active {
+    background-color: #003a8c;
+    border-color: #003a8c;
+}
+
+/* Override links */
+a {
+    color: #003a8c;
+}
+
+a:hover {
+    color: #002d6d;
+}
+
+/* Language Switcher Styles */
+.navbar-nav .nav-item.dropdown #langDropdown {
+    padding: 0.5rem 0.75rem;
+}
+
+.navbar-nav .nav-item.dropdown #langDropdown .bi-globe {
+    font-size: 1.1rem;
+    margin-right: 0.25rem;
+}
+
+.dropdown-menu[aria-labelledby="langDropdown"] {
+    min-width: 120px;
+}
+
+.dropdown-menu[aria-labelledby="langDropdown"] .dropdown-item {
+    padding: 0.5rem 1rem;
+}
+
+.dropdown-menu[aria-labelledby="langDropdown"] .dropdown-item:hover {
+    background-color: #003a8c;
+    color: #fff;
+}
+
+.dropdown-menu[aria-labelledby="langDropdown"] .dropdown-item.active {
+    background-color: #003a8c;
+}
+
+/* Language flag icons - using text fallback */
+.lang-icon {
+    display: inline-block;
+    width: 20px;
+    height: 14px;
+    margin-right: 8px;
+    vertical-align: middle;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.lang-icon-en {
+    background-color: #012169;
+    position: relative;
+}
+
+.lang-icon-zh {
+    background-color: #de2910;
+    position: relative;
+}
+
+/* Publication page styles */
+
+.pub-category-title {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.pub-category-title h4 {
+    margin: 0;
+    font-weight: 600;
+}
+
+.pub-year-header {
+    background: linear-gradient(135deg, #5b8dd9 0%, #7aa3e0 100%) !important;
+    color: #fff !important;
+    border: none !important;
+    padding: 0.4rem 1rem !important;
+    margin-top: 0.8rem;
+}
+
+.pub-year-text {
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.sec_publish .list-group {
+    margin-bottom: 0;
+}
+
+.sec_publish .list-group-item.btn-secondary {
+    background-color: #f8f9fa;
+    border-left: 3px solid #5b8dd9;
+    margin-bottom: 2px;
+}
+
+.sec_publish .list-group-item.btn-secondary:hover {
+    background-color: #e9ecef;
+}
+
+body {
+    padding-top: 120px;
+}
+iframe {
+    overflow: hidden;
+    border: none;
+}
+.navbar .bi {
+    margin-right: 0.25rem;
+    font-size: 1rem;
+}
+#home .navbar,
+#help .navbar {
+    background: linear-gradient(145deg, #003a8c 0%, #005bac 80%);
+}
+#home .navbar-brand .nav-link,
+#help .navbar-brand .nav-link {
+    display: inline-block;
+    margin-right: -30px;
+}
+#home {
+    padding-top: 0;
+}
+#home .btn {
+    padding: 0.5rem 0.9rem;
+}
+.bs-docs-section {
+    margin-top: 4em;
+}
+.bs-docs-section .page-header h1 {
+    padding: 2rem 0;
+    font-size: 3rem;
+}
+.dropdown-menu.show[aria-labelledby="themes"] {
+    display: flex;
+    flex-wrap: wrap;
+    width: 420px;
+}
+.dropdown-menu.show[aria-labelledby="themes"] .dropdown-item {
+    width: 33.333333%;
+}
+.dropdown-menu.show[aria-labelledby="themes"] .dropdown-item:first-child {
+    width: 100%;
+}
+.bs-component {
+    position: relative;
+}
+.bs-component + .bs-component {
+    margin-top: 1rem;
+}
+.bs-component .card {
+    margin-bottom: 1rem;
+}
+.bs-component .modal {
+    position: relative;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    z-index: 1;
+    display: block;
+}
+.bs-component .modal-dialog {
+    width: 90%;
+}
+.bs-component .popover {
+    position: relative;
+    display: inline-block;
+    width: 220px;
+    margin: 20px;
+}
+.source-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    display: none;
+    font-weight: 700;
+}
+.source-button i {
+    pointer-events: none;
+}
+.source-button:hover {
+    cursor: pointer;
+}
+.bs-component:hover .source-button {
+    display: block;
+}
+#source-modal pre {
+    max-height: calc(100vh - 11rem);
+}
+.progress {
+    margin-bottom: 10px;
+}
+#footer {
+    margin: 5em 0;
+}
+#footer li {
+    float: left;
+    margin-right: 1.5em;
+    margin-bottom: 1.5em;
+}
+#footer p {
+    margin-bottom: 0;
+    clear: left;
+}
+.splash {
+    position: relative;
+    padding: 12em 0 6em;
+    color: #fff;
+    text-align: center;
+    background-color: #003a8c;
+    background-image:
+        url("../img/splash.svg"),
+        linear-gradient(145deg, #003a8c 0%, #005bac 80%);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.splash .logo {
+    width: 160px;
+}
+.splash h1 {
+    font-size: 3em;
+    color: #fff;
+}
+.splash #social {
+    margin: 2em 0 3em;
+}
+.splash .alert {
+    margin: 2em 0;
+    border: none;
+}
+.splash .sponsor a {
+    color: #fff;
+}
+.section-tout {
+    padding: 6em 0 1em;
+    text-align: center;
+    background-color: #eaf1f1;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+.section-tout .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 1rem;
+    font-size: 2rem;
+    line-height: 1;
+    color: rgba(255, 255, 255, 0.9);
+    background: linear-gradient(145deg, #003a8c 0%, #005bac 80%);
+    border-radius: 50%;
+}
+.section-tout p {
+    margin-bottom: 5em;
+}
+.section-preview {
+    padding: 4em 0;
+}
+.section-preview .preview {
+    margin-bottom: 4em;
+    background-color: #eaf1f1;
+}
+.section-preview .preview .image {
+    position: relative;
+}
+.section-preview .preview .image img {
+    width: 100%;
+    height: auto;
+}
+.section-preview .preview .options {
+    padding: 2em;
+    text-align: center;
+    border-top: 1px solid rgba(0, 0, 0, 0.125);
+}
+.section-preview .preview .options p {
+    margin-bottom: 2em;
+}
+.section-preview .dropdown-menu {
+    text-align: left;
+}
+.section-preview .lead {
+    margin-bottom: 2em;
+}
+.sponsor a {
+    text-decoration: none;
+}
+.sponsor #carbonads {
+    max-width: 240px;
+    margin: 0 auto;
+}
+.sponsor .carbon-text {
+    display: block;
+    margin-top: 1em;
+    font-size: 12px;
+}
+.sponsor .carbon-poweredby {
+    float: right;
+    margin-top: 1em;
+    font-size: 10px;
+}
+[data-bs-theme="dark"] .section-tout {
+    background-color: #111;
+}
+[data-bs-theme="dark"] .section-preview .preview {
+    background-color: #2b3036;
+}
+@media (max-width: 767px) {
+    .splash {
+        padding-top: 8em;
+    }
+    .splash .logo {
+        width: 100px;
+    }
+    .splash h1 {
+        font-size: 2em;
+    }
+    #banner {
+        margin-bottom: 2em;
+        text-align: center;
+    }
+}
+@media (min-width: 992px) {
+    .navbar-transparent {
+        background: none !important;
+    }
+}
+.bs-component > .btn,
+.bs-component > .btn-toolbar > .btn-group,
+.bs-component > .btn-group,
+#home .section-preview .card .btn-group {
+    margin-bottom: 0.25rem;
+}
+
+/* my settings */
+
+/*  the second nav bar, below the first nav bar */
+nav.navbar2 {
+    position: fixed;
+    top: 70px;
+    width: 100%;
+    z-index: 10;
+}
+
+.fixed-top-2 {
+    margin-top: 56px;
+}
+
+body {
+    padding-top: 105px;
+}
+
+.dropdown .dropdown-menu {
+    border-radius: 0;
+}
+
+/* Medium devices (tablets, 768px and up)
+The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        margin-top: 0;
+        border-radius: 0;
+    }
+}
+
+/* for publish page */
+.sec_publish {
+    padding-top: 40px;
+}
+
+.anchor_pub {
+    position: absolute;
+    transform: translateY(-50vh);
+}
+
+a {
+    text-decoration: none;
+} /*remove the underline of a link*/
+
+.news-img {
+    /* transform: scale(0.85, 0.85); */
+    filter: drop-shadow(3px 3px 5px black);
+}
+
+/*  for code box setting */
+pre[class*="language-"],
+code[class*="language-"] {
+    white-space: break-spaces;
+}

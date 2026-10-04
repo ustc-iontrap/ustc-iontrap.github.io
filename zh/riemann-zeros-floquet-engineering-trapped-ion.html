@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="zh" data-bs-theme='light'>
+  <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" >
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" >
+	<meta name="description" content="USTC IonQNet Group" >
+	<meta name="author" content="qng" />
+	<link
+		rel="icon"
+		type="image/svg+xml"
+		href="../images/brand-concepts/ustc-ion-trap/plum-blade.svg"
+		/>
+ 
+	<link rel="alternate" type="application/atom+xml" title="USTC IonQNet Group Atom Feed" href="../feeds/all.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="USTC IonQNet Group RSS Feed" href="../feeds/all.rss.xml" />
+	<link rel="alternate" hreflang="zh" type="application/atom+xml" title="USTC IonQNet Group 中文 Atom Feed" href="../feeds/all-zh.atom.xml" />
+	<link rel="alternate" hreflang="zh" type="application/rss+xml" title="USTC IonQNet Group 中文 RSS Feed" href="../feeds/all-zh.rss.xml" />
+	<link rel="alternate" type="application/atom+xml" title="News Atom Feed" href="../feeds/news.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="News RSS Feed" href="../feeds/news.rss.xml" />
+ 
+	    <title>利用离子量子比特的 Floquet 工程测量黎曼零点，成果发表于 npj Quantum Information · USTC IonQNet Group</title>
+
+
+	<!-- Bootstrap core CSS -->
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="../theme/bootstrap.css" >
+	<link rel="stylesheet" href="../theme/bootstrap-icons.css" >
+	<link rel="stylesheet" href="../theme/prism-okaidia.css" >
+	<link rel="stylesheet" href="../theme/prism-toolbar.css" >
+	<link rel="stylesheet" href="../theme/custom.min.css" >
+
+ 
+ 
+
+ 
+	<link rel="stylesheet" href="../srcs/brand.css" />
+
+  </head>
+
+  <body>
+	<!-- Top link ================================================ -->
+	<span id="Top"></span>
+	<!-- Navbar 2 ================================================ -->
+	<!-- Navbar ================================================== -->
+ 
+
+<nav class="navbar navbar-expand-lg fixed-top bg-primary" data-bs-theme="dark" aria-label="主导航">
+  <div class="container">
+    <a class="navbar-brand site-brand" href="../zh/index.html" aria-label="USTC IonQNet Group">
+      <img class="site-brand__mark" src="../images/brand-concepts/ustc-ion-trap/ustc-ionqnet-seal.svg" alt="USTC IonQNet Group logo" />
+      <span class="site-brand__name" aria-hidden="true">
+<span class="site-brand__line">USTC</span><span class="site-brand__line">IonQNet</span><span class="site-brand__line">Group</span>      </span>
+    </a>
+    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+	  data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+	  aria-label="展开或收起导航">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="navbarResponsive">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/index.html" >首页</a>
+        </li>
+
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-2" aria-expanded="false">研究方向</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-2">
+            <a class="dropdown-item" href="../zh/pages/research.html" >研究介绍</a>
+			<div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="../zh/pages/researches/trapped-ion-qip.html" >离子阱量子计算节点</a>
+            <a class="dropdown-item" href="../zh/pages/researches/quantum-network-cavity-qed.html" >腔 QED 量子网络</a>
+            <a class="dropdown-item" href="../zh/pages/researches/hybrid-quantum-network.html" >混合量子网络</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/pages/people.html" >成员</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/pages/publications.html" >研究论文</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/category/news.html" >新闻</a>
+        </li>
+
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-6" aria-expanded="false">联系我们</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-6">
+            <a class="dropdown-item" href="../zh/pages/contact.html" >地址</a>
+            <a class="dropdown-item" href="../zh/pages/join-us.html" >加入我们</a>
+            <a class="dropdown-item" href="https://github.com/ustc-iontrap"     target="_blank" rel="noopener noreferrer"
+>Github</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-7" aria-expanded="false">归档</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-7">
+            <a class="dropdown-item" href="../categories.html" >分类</a>
+          </div>
+        </li>
+      </ul>
+
+      <ul class="nav navbar-nav ml-auto">
+      </ul>
+
+      <!-- Language Switcher -->
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" id="langDropdown"
+             data-bs-toggle="dropdown" aria-expanded="false">
+            <i class="bi bi-globe2" aria-hidden="true"></i>
+            中文
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="langDropdown" data-bs-theme="light">
+              <li><a class="dropdown-item" href="../riemann-zeros-floquet-engineering-trapped-ion.html" lang="en" hreflang="en">English</a></li>
+              <li><a class="dropdown-item active" href="../zh/riemann-zeros-floquet-engineering-trapped-ion.html" lang="zh" hreflang="zh" aria-current="page">中文</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+	<!-- Header  ================================================== -->
+
+	<!-- Content ================================================== -->
+	<div class="container site-main-shell news-detail-page">
+
+    <div class="bs-docs-section">
+      <div class="row">
+            <div class="page-header">
+        <h1><a href="../zh/riemann-zeros-floquet-engineering-trapped-ion.html">利用离子量子比特的 Floquet 工程测量黎曼零点，成果发表于 npj Quantum Information</a></h1>
+    </div>
+
+      </div>
+    </div>
+
+    <div class="bs-docs-section">
+
+        <span id="article_info">
+    <a class="label label-primary"
+      href="../category/news.html">News</a>
+    <!--<span class="glyphicon glyphicon-calendar"></span>-->
+      <b> · </b>
+      <a href="../archives.html#Year2021">2021</a>-<a href="../archives.html#Year2021Month07">07</a>-<a href="../archives.html#Year2021Month07">01</a>
+
+    <!--<span class="glyphicon glyphicon-user"></span>-->
+      <b> · </b>
+    <a href="../author/qng.html">qng</a>
+  </span>
+
+      <hr/>
+
+      <div id="article_content">
+        <p>我们的工作“Riemann zeros from Floquet engineering a trapped-ion
+qubit”于 2021 年 7 月 14 日发表于 <strong>npj Quantum
+Information</strong>。该工作利用离子阱量子系统在实验中测量黎曼 ζ
+函数的零点，连接了量子物理与数论研究。</p>
+<h3 id="研究背景">研究背景</h3>
+<p>Bernhard Riemann 于 1859 年提出黎曼猜想：黎曼 ζ
+函数的所有非平凡零点，其实部均为
+1/2。黎曼猜想是七个千禧年难题之一，其证明将促进人们理解质数分布。与之相关的
+Hilbert–Pólya
+猜想提出，可能存在一个量子系统，其哈密顿量的本征值与黎曼零点一一对应。</p>
+<h3 id="我们的方法">我们的方法</h3>
+<p>我们在国际上首次提出了准静态哈密顿量方法。通过设计周期驱动函数来调制离子量子比特，实现量子态的准静态演化。当驱动参数对应黎曼零点时，所构造系统的准能级发生简并，量子态在驱动周期的整数倍时刻保持不变，即发生<strong>相干隧穿抑制</strong>。这一过程由
+Floquet
+理论描述，周期驱动系统的准能量受到驱动参数调控。通过扫描驱动幅度，可以高精度地测量黎曼零点的位置。</p>
+<h3 id="实验结果">实验结果</h3>
+<p>利用自主研制、具有长相干时间的离子阱系统，我们实现了 30
+个周期的高保真驱动，成功测量了<strong>前 80
+个非平凡黎曼零点</strong>，相比此前该领域的工作提升了近<strong>两个数量级</strong>。实验结果为研究
+Hilbert–Pólya
+猜想，以及理解黎曼猜想与量子系统之间的联系提供了重要依据。</p>
+<p>审稿人评价：“我推荐发表这篇论文，原因包括：实现该方案所需的高度实验独创性，理论与实验描述清晰，以及测得的零点数量多、精度高。”</p>
+<div class="figure" style="max-width: 600px;">
+<img src="/images/news/riemann_zeros_2021/fig1.jpg" style="max-width: 600px;" title="实验流程" alt="离子阱系统中的 Floquet 动力学测量">
+<p class="caption">
+图 1. 测量离子阱系统中 Floquet
+动力学的实验流程。（a）由任意波形发生器（AWG）产生的微波场对量子比特进行周期驱动。（b）Bloch
+球上，量子比特初始化为 |0⟩，在 n 个驱动周期后演化为
+U(nT)|0⟩；动力学冻结的位置揭示黎曼零点。
+</p>
+</div>
+<p>论文第一作者为本实验室贺冉博士。该工作得到科技部、国家自然科学基金委、中国科学院和安徽省的支持。</p>
+<p>论文链接：<a
+href="https://doi.org/10.1038/s41534-021-00446-7">https://doi.org/10.1038/s41534-021-00446-7</a></p>
+
+      </div>
+
+      <hr/>
+
+          <nav class="d-flex justify-content-between gap-3 my-4" aria-label="新闻翻页">
+              <a href="../zh/super-resolved-imaging-single-cold-atom-nanosecond.html">&laquo; 较新新闻</a>
+              <a href="../zh/quantum-thermodynamics-adiabatic-open-systems-trapped-ion.html">较早新闻 &raquo;</a>
+          </nav>
+
+    </div>
+
+	  <!-- Footer  ================================================== -->
+   <footer id="footer">
+    <div class="row">
+      <div class="col-lg-12">
+        <ul class="list-unstyled">
+          <li class="float-end"><a href="#Top">返回顶部</a></li>
+          <li><a href="http://www.ustc.edu.cn">USTC</a></li>
+          <li><a href="http://lqcc.ustc.edu.cn">LQCC</a></li>
+          <li><a href="https://github.com/ustc-iontrap">GitHub</a></li>
+          <li><a href="../feeds/all-zh.atom.xml" type="application/atom+xml"><i class="bi bi-rss-fill"></i> Atom</a></li>
+          <li><a href="../feeds/all-zh.rss.xml" type="application/rss+xml">RSS</a></li>
+        </ul>
+        <p>维护：<a href="mailto:jmcui000@gmail.com">Jin-Ming Cui</a>.</p>
+      </div>
+    </div>
+  </footer>
+
+	</div>
+
+	<script src="../theme/bootstrap.bundle.min.js"></script>
+	<script src="../theme/prism.js"></script>
+	<script src="../theme/custom.js"></script>
+	<script src="../theme/prism-autoloader.js"></script>
+	<script src="../theme/prism-toolbar.js"></script>
+	<script src="../theme/prism-copy-to-clipboard.js"></script>
+<script>
+  (function () {
+    let site;
+    let endpoint;
+    try {
+      site = new URL("https://ustc-iontrap.github.io");
+      endpoint = new URL("https://ustc-iontrap.goatcounter.com/count");
+    } catch (_) {
+      return;
+    }
+
+    // Published HTML may also be served locally for debugging.
+    const host = window.location.hostname.toLowerCase().replace(/\.$/, '');
+    const localHost = /^(localhost|0\.0\.0\.0|\[::1\])$/.test(host)
+      || /\.(localhost|local)$/.test(host)
+      || /^(127\.|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2[0-9]|3[01])\.)/.test(host)
+      || /^\[(::|f[cd][0-9a-f]{2}:.*|fe[89ab][0-9a-f]:.*)\]$/.test(host);
+    if (localHost || !/^https?:$/.test(window.location.protocol)
+        || window.location.origin !== site.origin || endpoint.protocol !== 'https:') {
+      return;
+    }
+
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://gc.zgo.at/count.js';
+    script.setAttribute('data-goatcounter', endpoint.href);
+    script.setAttribute('data-goatcounter-settings', '{"allow_local": false}');
+    document.body.appendChild(script);
+  })();
+</script>
+  </body>
+</html>

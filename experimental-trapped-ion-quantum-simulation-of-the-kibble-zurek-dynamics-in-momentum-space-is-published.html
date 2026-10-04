@@ -1,139 +1,145 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    <meta name="description" content="USTC Trapped Ions Group">
-    <meta name="author" content="qng">
+<html lang="en" data-bs-theme='light'>
+  <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" >
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" >
+	<meta name="description" content="USTC IonQNet Group" >
+	<meta name="author" content="qng" />
+	<link
+		rel="icon"
+		type="image/svg+xml"
+		href="./images/brand-concepts/ustc-ion-trap/plum-blade.svg"
+		/>
+ 
+	<link rel="alternate" type="application/atom+xml" title="USTC IonQNet Group Atom Feed" href="./feeds/all.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="USTC IonQNet Group RSS Feed" href="./feeds/all.rss.xml" />
+	<link rel="alternate" hreflang="en" type="application/atom+xml" title="USTC IonQNet Group English Atom Feed" href="./feeds/all-en.atom.xml" />
+	<link rel="alternate" hreflang="en" type="application/rss+xml" title="USTC IonQNet Group English RSS Feed" href="./feeds/all-en.rss.xml" />
+	<link rel="alternate" type="application/atom+xml" title="News Atom Feed" href="./feeds/news.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="News RSS Feed" href="./feeds/news.rss.xml" />
+ 
+	    <title>"Experimental Trapped-ion Quantum Simulation of the Kibble-Zurek dynamics in momentum space" is published · USTC IonQNet Group</title>
 
-        <title>"Experimental Trapped-ion Quantum Simulation of the Kibble-Zurek dynamics in momentum space" is published · USTC Trapped Ions Group</title>
 
+	<!-- Bootstrap core CSS -->
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="./theme/bootstrap.css" >
+	<link rel="stylesheet" href="./theme/bootstrap-icons.css" >
+	<link rel="stylesheet" href="./theme/prism-okaidia.css" >
+	<link rel="stylesheet" href="./theme/prism-toolbar.css" >
+	<link rel="stylesheet" href="./theme/custom.min.css" >
 
-    <!-- Bootstrap core CSS -->
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+ 
+ 
 
-    <link rel="stylesheet" href="http://bootswatch.com/flatly/bootstrap.min.css" type="text/css">
+ 
+	<link rel="stylesheet" href="./srcs/brand.css" />
 
-    <link rel="stylesheet" href="./theme/css/main.css">
+  </head>
 
-    <link rel="stylesheet" href="./theme/css/solarized-light.css">
+  <body>
+	<!-- Top link ================================================ -->
+	<span id="Top"></span>
+	<!-- Navbar 2 ================================================ -->
+	<!-- Navbar ================================================== -->
+ 
 
+<nav class="navbar navbar-expand-lg fixed-top bg-primary" data-bs-theme="dark" aria-label="Main navigation">
+  <div class="container">
+    <a class="navbar-brand site-brand" href="./index.html" aria-label="USTC IonQNet Group">
+      <img class="site-brand__mark" src="./images/brand-concepts/ustc-ion-trap/ustc-ionqnet-seal.svg" alt="USTC IonQNet Group logo" />
+      <span class="site-brand__name" aria-hidden="true">
+<span class="site-brand__line">USTC</span><span class="site-brand__line">IonQNet</span><span class="site-brand__line">Group</span>      </span>
+    </a>
+    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+	  data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+	  aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="navbarResponsive">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="./index.html" >Home</a>
+        </li>
 
-    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-2" aria-expanded="false">Research</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-2">
+            <a class="dropdown-item" href="./pages/research.html" >Research introduction</a>
+			<div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="./pages/researches/trapped-ion-qip.html" >Trapped-ion quantum computing node</a>
+            <a class="dropdown-item" href="./pages/researches/quantum-network-cavity-qed.html" >Quantum network with cavity QED</a>
+            <a class="dropdown-item" href="./pages/researches/hybrid-quantum-network.html" >Hybrid quantum network</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./pages/people.html" >Members</a>
+        </li>
 
-    <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <li class="nav-item">
+          <a class="nav-link" href="./pages/publications.html" >Publications</a>
+        </li>
 
-    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+        <li class="nav-item">
+          <a class="nav-link" href="./category/news.html" >News</a>
+        </li>
 
-</head>
-
-<body>
-  <div class="container" id="wrap">
-      <nav id="navbar" class="navbar navbar-default" role="navigation">
-    <div class="container">
-
-      <!--navbar-header-->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href=".">USTC Trapped Ions Group</a>
-      </div> <!--navbar-header-->
-
-      <!-- Search Box -->
-
-      <!--Menuitems, collapable-->
-      <div class="collapse navbar-collapse" id="navbar-collapse">
-        <ul class="nav navbar-nav navbar-right" id="menuitem-list">
-                <li >
-                  <a href="" >Home</a>
-                </li>
-
-              <li class="btn-group">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Research<b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu" role="menu">
-                  <li >
-                    <a href="./pages/research_QSimulation.html" >Quantum simulation</a>
-                  </li>
-                  <li >
-                    <a href="./pages/research_QED.html" >Quantum network based cavity QED</a>
-                  </li>
-                  <li >
-                    <a href="./pages/research_hyb_net.html" >Hybrid quantum network</a>
-                  </li>
-                </ul>
-              </li>
-                <li >
-                  <a href="./pages/publications.html" >Publications</a>
-                </li>
-
-                <li >
-                  <a href="./pages/people.html" >Members</a>
-                </li>
-
-                <li >
-                  <a href="./category/news.html" >News</a>
-                </li>
-
-              <li class="btn-group">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Archives<b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu" role="menu">
-                  <li >
-                    <a href="./tags.html" >Tags</a>
-                  </li>
-                  <li >
-                    <a href="./categories.html" >Categories</a>
-                  </li>
-                  <li >
-                    <a href="./archives.html" >Chronological</a>
-                  </li>
-                </ul>
-              </li>
-              <li class="btn-group">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact<b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu" role="menu">
-                  <li >
-                    <a href="./pages/contact.html" >Address</a>
-                  </li>
-                  <li >
-                    <a href="http://url-to-github-page"     target="_blank"
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-6" aria-expanded="false">Contact</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-6">
+            <a class="dropdown-item" href="./pages/contact.html" >Address</a>
+            <a class="dropdown-item" href="./pages/join-us.html" >Join Us</a>
+            <a class="dropdown-item" href="https://github.com/ustc-iontrap"     target="_blank" rel="noopener noreferrer"
 >Github</a>
-                  </li>
-                  <li >
-                    <a href="http://url-to-facebook-page"     target="_blank"
->Facebook</a>
-                  </li>
-                </ul>
-              </li>
-        </ul>
-      </div><!-- /.navbar-collapse -->
+          </div>
+        </li>
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-7" aria-expanded="false">Archives</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-7">
+            <a class="dropdown-item" href="./categories.html" >Categories</a>
+          </div>
+        </li>
+      </ul>
 
-    </div> <!--container-->
-  </nav>
+      <ul class="nav navbar-nav ml-auto">
+      </ul>
+
+      <!-- Language Switcher -->
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" id="langDropdown"
+             data-bs-toggle="dropdown" aria-expanded="false">
+            <i class="bi bi-globe2" aria-hidden="true"></i>
+            EN
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="langDropdown" data-bs-theme="light">
+              <li><a class="dropdown-item active" href="./experimental-trapped-ion-quantum-simulation-of-the-kibble-zurek-dynamics-in-momentum-space-is-published.html" lang="en" hreflang="en" aria-current="page">English</a></li>
+              <li><a class="dropdown-item" href="./zh/experimental-trapped-ion-quantum-simulation-of-the-kibble-zurek-dynamics-in-momentum-space-is-published.html" lang="zh" hreflang="zh">中文</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
 
-    <div class="container">
-      <div class="col-md-2">
-      </div>
+	<!-- Header  ================================================== -->
 
-      <div class="col-md-8">
-        <div class="row">
-              <div class="page-header">
+	<!-- Content ================================================== -->
+	<div class="container site-main-shell news-detail-page">
+
+    <div class="bs-docs-section">
+      <div class="row">
+            <div class="page-header">
         <h1><a href="./experimental-trapped-ion-quantum-simulation-of-the-kibble-zurek-dynamics-in-momentum-space-is-published.html">"Experimental Trapped-ion Quantum Simulation of the Kibble-Zurek dynamics in momentum space" is published</a></h1>
     </div>
 
-        </div>
+      </div>
+    </div>
 
-        <div class="row">
+    <div class="bs-docs-section">
 
-    <span id="article_info">
+        <span id="article_info">
     <a class="label label-primary"
       href="./category/news.html">News</a>
     <!--<span class="glyphicon glyphicon-calendar"></span>-->
@@ -145,71 +151,105 @@
     <a href="./author/qng.html">qng</a>
   </span>
 
-  <hr/>
+      <hr/>
 
-  <div id="article_content">
-    <html><body><p>We published a quantum simulation work on Scientific report as "Experimental Trapped-ion Quantum Simulation of the Kibble-Zurek dynamics in momentum space". This is the first experiment work on trapped ion in our group. We start to build the ion trap experiment in 2013, and many efforts have been done  build the platform.  We would like to thank to our collaborators Le Luo and Adolf de Campo, who give us help on both experiment and theory.  Congratulations！</p>
-<p>Find the article in this link : <a href="http://www.nature.com/articles/srep33381">http://www.nature.com/articles/srep33381</a></p>
-<h3 id="about-the-work">About the work</h3>
-<p>The study of nonequilibrium dynamics of quantum systems forms a vast field of research of relevance to a wide variety of disciplines ranging from cosmology to condensed matter, as well as quantum simulation and computation, to name just a few prominent examples.</p>
-<div class="figure half left" style="max-width: 400px; min-width: 5.5em;">
-<img alt="[Image. Experimental setup" border="1" src="./images/news/scientific_report2016/SetUp.jpg" style="max-width: 400px; max-height: 310px;" title="Experimental setup"/>
-<p class="caption"> Fig.1. Experimental setup using an ion-trap.  ( A ) Configuration of six needles of the trap used in experiment. (B) Yb+ energy spectrum: the hyperfine energy levels (|0&gt; and |1&gt;) of the ground state are used as the qubit. (C) Microwave control scheme of the driving field around 12.642 GHz: the frequency is generated by mixing microwaves between 9.64 GHz and 3 GHz, while 3 GHz microwave is IQ modulated by a dual channel AFG around 2 MHz. </p>
+      <div id="article_content">
+        <html><body><p>Our work <em>Experimental Trapped-ion Quantum Simulation of the
+Kibble-Zurek dynamics in momentum space</em> was published in
+<strong>Scientific Reports</strong>. This was our group’s first
+trapped-ion experiment, following the development of the platform that
+began in 2013. We thank our collaborators Le Luo and Adolfo del Campo
+for their contributions to the experiment and theory.</p>
+<h3 id="simulating-a-quantum-phase-transition">Simulating a quantum
+phase transition</h3>
+<p>The Kibble–Zurek mechanism predicts how defects form when a system is
+driven through a continuous phase transition. Testing this scaling in a
+quantum system requires controlled state preparation, tunable dynamics
+and accurate measurements of the resulting excitations.</p>
+<p>We used a single trapped ion to simulate a transverse-field Ising
+chain in momentum space. Each momentum mode is represented by a
+two-level system, allowing its excitation probability to be measured
+separately. Combining these measurements reconstructs the defect density
+of the simulated chain.</p>
+<p>The experiment observed the predicted power-law scaling as the system
+crossed the quantum critical point at different rates, providing an
+experimental test of the Kibble–Zurek mechanism in the quantum
+regime.</p>
+<div class="figure" style="max-width: 600px;">
+<img alt="Six-needle ion trap, ytterbium-ion qubit levels and microwave control setup" src="/images/news/scientific_report2016/SetUp.jpg" style="max-width: 600px;" title="Experimental setup"/>
+<p class="caption">
+Fig. 1. Experimental platform: the six-needle ion trap, the hyperfine
+levels used as a qubit, and the microwave control system that drives the
+simulated dynamics.
+</p>
 </div>
-<p>T. W. B. Kibble’s most cited contribution to science dates back to 1980 and ignited an explosion of interest in the field. He predicted in a cosmological setting that breaking of symmetry is governed by causality, and that topological defect formation is to be expected with the crossing of a continuous phase transition, which is ineluctably nonadiabatic. It was W. H. Zurek who refined these arguments soon after and turned the study of universal critical dynamics into an experimentally testable discipline. He predicted that the density of defects after crossing a continuous phase transition in a condensed matter system scales as a universal power law with the quench rate, where the power-law exponent is given by the equilibrium critical exponents and the dimensionality of the system. To this date, the Kibble-Zurek mechanism remains the predilect paradigm to account for the dynamics of a continuous phase transition.</p>
-<p>The last three decades have deeply sharpened our understanding of the universal dynamics and broken symmetries. Yet, two recent thorough reviews written by Kibble, Zurek and one of us (AdC) pointed out that a conclusive experimental test remains elusive to this date [J. Phys.: Condens. Matter 25, 404210 (2013), Int. J. Mod. Phys. A 29, 1430018 (2014)]. This uneasy state of affairs can be understood after appreciating the formidable challenges and requisites involved in experimental studies: exquisite control of the system parameters over a large range of values to test the power-law behavior of the density of defects, knowledge of the correlation length and dynamic critical exponents, clean and large samples without relevant disorder, inhomogeneity or finite-size effects, reliable measurement of topological defects, etc.<br/>
-Remarkably enough, and with no exception, previous experimental studies are either restricted to the classical regime [Nat. Phys. 9, 656–660 (2013), Nat. Commun. 4, 2291 (2013)], or none firm supporting of the KZ theory in quantum regime is given [PRL 106 235304 (2011)], PRL 107, 140402 (2011)]. The prospects for experimental tests in quantum systems are shadowed by the additional requirement of ground state cooling that appears as an insurmountable obstacle with current quantum technologies.</p>
-<p>In this work,  we embrace Feynman’s idea of quantum simulation to experimentally test the universal critical dynamics of a quantum spin chain using a trapped ion in momentum space. This allows us to study the universal dynamics of a clean, homogenous, large sample initialized in its quantum ground state. We focus on the paradigmatic transverse field Ising chain, the cornerstone to understand quantum phase transitions.  We report the experimental evidence of universal scaling of the density of excitations after crossing at a finite rate the quantum critical point of the paramagnetic-ferromagnetic phase transition. The accurate measurement of the resulting density of excitations allows us to experimentally verify the applicability of the Kibble-Zurek mechanism in the quantum regime.  </p></body></html>
-  </div>
-
-  <hr/>
-
-      <ul class="pager">
-        <li class="previous">
-          <a href="./an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html">
-          &laquo; Newer</a>
-        </li>
-        <li class="next">
-          <a href="./hybrid-quantum-network-in-lqcc.html">
-          Older &raquo;</a>
-        </li>
-      </ul>
-
-
-        </div>
-
-        <div class="row">
-        </div>
-
+<p>Paper link: <a href="https://doi.org/10.1038/srep33381">Scientific
+Reports 6, 33381 (2016)</a></p>
+</body></html>
       </div>
 
-      <div class="col-md-2">
-      </div>
+      <hr/>
+
+          <nav class="d-flex justify-content-between gap-3 my-4" aria-label="News navigation">
+              <a href="./an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html">&laquo; Newer news</a>
+          </nav>
+
     </div>
 
-
-  </div>
-
-    <nav id="footer" class="navbar navbar-default">
-    <div class="container">
-        <p id="footer-text" class="navbar-text text-center">
-          <span id="engine">
-            Compiled using
-            <a href="https://docs.getpelican.com">Pelican</a>
-          </span>
-          <span id="theme">
-            with theme
-            <a href="https://github.com/yuex/pelican-chameleon">Chameleon</a>
-          </span>
-          <span id="bootstrap">
-            on top of
-            <a href="https://getbootstrap.com/">Bootstrap</a>
-          </span>
-        </p>
+	  <!-- Footer  ================================================== -->
+   <footer id="footer">
+    <div class="row">
+      <div class="col-lg-12">
+        <ul class="list-unstyled">
+          <li class="float-end"><a href="#Top">Back to top</a></li>
+          <li><a href="http://www.ustc.edu.cn">USTC</a></li>
+          <li><a href="http://lqcc.ustc.edu.cn">LQCC</a></li>
+          <li><a href="https://github.com/ustc-iontrap">GitHub</a></li>
+          <li><a href="./feeds/all-en.atom.xml" type="application/atom+xml"><i class="bi bi-rss-fill"></i> Atom</a></li>
+          <li><a href="./feeds/all-en.rss.xml" type="application/rss+xml">RSS</a></li>
+        </ul>
+        <p>Made by <a href="mailto:jmcui000@gmail.com">Jin-Ming Cui</a>.</p>
       </div>
     </div>
-  </nav>
+  </footer>
 
+	</div>
 
-</body>
+	<script src="./theme/bootstrap.bundle.min.js"></script>
+	<script src="./theme/prism.js"></script>
+	<script src="./theme/custom.js"></script>
+	<script src="./theme/prism-autoloader.js"></script>
+	<script src="./theme/prism-toolbar.js"></script>
+	<script src="./theme/prism-copy-to-clipboard.js"></script>
+<script>
+  (function () {
+    let site;
+    let endpoint;
+    try {
+      site = new URL("https://ustc-iontrap.github.io");
+      endpoint = new URL("https://ustc-iontrap.goatcounter.com/count");
+    } catch (_) {
+      return;
+    }
+
+    // Published HTML may also be served locally for debugging.
+    const host = window.location.hostname.toLowerCase().replace(/\.$/, '');
+    const localHost = /^(localhost|0\.0\.0\.0|\[::1\])$/.test(host)
+      || /\.(localhost|local)$/.test(host)
+      || /^(127\.|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2[0-9]|3[01])\.)/.test(host)
+      || /^\[(::|f[cd][0-9a-f]{2}:.*|fe[89ab][0-9a-f]:.*)\]$/.test(host);
+    if (localHost || !/^https?:$/.test(window.location.protocol)
+        || window.location.origin !== site.origin || endpoint.protocol !== 'https:') {
+      return;
+    }
+
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://gc.zgo.at/count.js';
+    script.setAttribute('data-goatcounter', endpoint.href);
+    script.setAttribute('data-goatcounter-settings', '{"allow_local": false}');
+    document.body.appendChild(script);
+  })();
+</script>
+  </body>
 </html>

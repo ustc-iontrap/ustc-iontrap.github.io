@@ -1,206 +1,355 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    <meta name="description" content="USTC Trapped Ions Group">
-    <meta name="author" content="qng">
+<html lang="en" data-bs-theme='light'>
+  <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" >
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" >
+	<meta name="description" content="USTC IonQNet Group" >
+	<meta name="author" content="qng" />
+	<link
+		rel="icon"
+		type="image/svg+xml"
+		href="../images/brand-concepts/ustc-ion-trap/plum-blade.svg"
+		/>
+ 
+	<link rel="alternate" type="application/atom+xml" title="USTC IonQNet Group Atom Feed" href="../feeds/all.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="USTC IonQNet Group RSS Feed" href="../feeds/all.rss.xml" />
+	<link rel="alternate" hreflang="en" type="application/atom+xml" title="USTC IonQNet Group English Atom Feed" href="../feeds/all-en.atom.xml" />
+	<link rel="alternate" hreflang="en" type="application/rss+xml" title="USTC IonQNet Group English RSS Feed" href="../feeds/all-en.rss.xml" />
+ 
+	    <title>Contact · USTC IonQNet Group</title>
 
-        <title>Contact · USTC Trapped Ions Group</title>
 
+	<!-- Bootstrap core CSS -->
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="../theme/bootstrap.css" >
+	<link rel="stylesheet" href="../theme/bootstrap-icons.css" >
+	<link rel="stylesheet" href="../theme/prism-okaidia.css" >
+	<link rel="stylesheet" href="../theme/prism-toolbar.css" >
+	<link rel="stylesheet" href="../theme/custom.min.css" >
 
-    <!-- Bootstrap core CSS -->
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+ 
+ 
 
-    <link rel="stylesheet" href="http://bootswatch.com/flatly/bootstrap.min.css" type="text/css">
+ 
+	<link rel="stylesheet" href="../srcs/brand.css" />
 
-    <link rel="stylesheet" href="../theme/css/main.css">
+  </head>
 
-    <link rel="stylesheet" href="../theme/css/solarized-light.css">
+  <body>
+	<!-- Top link ================================================ -->
+	<span id="Top"></span>
+	<!-- Navbar 2 ================================================ -->
+	<!-- Navbar ================================================== -->
+ 
 
+<nav class="navbar navbar-expand-lg fixed-top bg-primary" data-bs-theme="dark" aria-label="Main navigation">
+  <div class="container">
+    <a class="navbar-brand site-brand" href="../index.html" aria-label="USTC IonQNet Group">
+      <img class="site-brand__mark" src="../images/brand-concepts/ustc-ion-trap/ustc-ionqnet-seal.svg" alt="USTC IonQNet Group logo" />
+      <span class="site-brand__name" aria-hidden="true">
+<span class="site-brand__line">USTC</span><span class="site-brand__line">IonQNet</span><span class="site-brand__line">Group</span>      </span>
+    </a>
+    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+	  data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+	  aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="navbarResponsive">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="../index.html" >Home</a>
+        </li>
 
-    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-2" aria-expanded="false">Research</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-2">
+            <a class="dropdown-item" href="../pages/research.html" >Research introduction</a>
+			<div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="../pages/researches/trapped-ion-qip.html" >Trapped-ion quantum computing node</a>
+            <a class="dropdown-item" href="../pages/researches/quantum-network-cavity-qed.html" >Quantum network with cavity QED</a>
+            <a class="dropdown-item" href="../pages/researches/hybrid-quantum-network.html" >Hybrid quantum network</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../pages/people.html" >Members</a>
+        </li>
 
-    <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <li class="nav-item">
+          <a class="nav-link" href="../pages/publications.html" >Publications</a>
+        </li>
 
-    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+        <li class="nav-item">
+          <a class="nav-link" href="../category/news.html" >News</a>
+        </li>
 
-</head>
-
-<body>
-  <div class="container" id="wrap">
-      <nav id="navbar" class="navbar navbar-default" role="navigation">
-    <div class="container">
-
-      <!--navbar-header-->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="..">USTC Trapped Ions Group</a>
-      </div> <!--navbar-header-->
-
-      <!-- Search Box -->
-
-      <!--Menuitems, collapable-->
-      <div class="collapse navbar-collapse" id="navbar-collapse">
-        <ul class="nav navbar-nav navbar-right" id="menuitem-list">
-                <li >
-                  <a href="" >Home</a>
-                </li>
-
-              <li class="btn-group">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Research<b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu" role="menu">
-                  <li >
-                    <a href="../pages/research_QSimulation.html" >Quantum simulation</a>
-                  </li>
-                  <li >
-                    <a href="../pages/research_QED.html" >Quantum network based cavity QED</a>
-                  </li>
-                  <li >
-                    <a href="../pages/research_hyb_net.html" >Hybrid quantum network</a>
-                  </li>
-                </ul>
-              </li>
-                <li >
-                  <a href="../pages/publications.html" >Publications</a>
-                </li>
-
-                <li >
-                  <a href="../pages/people.html" >Members</a>
-                </li>
-
-                <li >
-                  <a href="../category/news.html" >News</a>
-                </li>
-
-              <li class="btn-group">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Archives<b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu" role="menu">
-                  <li >
-                    <a href="../tags.html" >Tags</a>
-                  </li>
-                  <li >
-                    <a href="../categories.html" >Categories</a>
-                  </li>
-                  <li >
-                    <a href="../archives.html" >Chronological</a>
-                  </li>
-                </ul>
-              </li>
-              <li class="btn-group active">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact<b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu" role="menu">
-                  <li class="active">
-                    <a href="../pages/contact.html" >Address</a>
-                  </li>
-                  <li >
-                    <a href="http://url-to-github-page"     target="_blank"
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent active" type="button" data-bs-toggle="dropdown" id="navbar-menu-6" aria-expanded="false">Contact</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-6">
+            <a class="dropdown-item active" href="../pages/contact.html" aria-current="page" >Address</a>
+            <a class="dropdown-item" href="../pages/join-us.html" >Join Us</a>
+            <a class="dropdown-item" href="https://github.com/ustc-iontrap"     target="_blank" rel="noopener noreferrer"
 >Github</a>
-                  </li>
-                  <li >
-                    <a href="http://url-to-facebook-page"     target="_blank"
->Facebook</a>
-                  </li>
-                </ul>
-              </li>
-        </ul>
-      </div><!-- /.navbar-collapse -->
+          </div>
+        </li>
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-7" aria-expanded="false">Archives</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-7">
+            <a class="dropdown-item" href="../categories.html" >Categories</a>
+          </div>
+        </li>
+      </ul>
 
-    </div> <!--container-->
-  </nav>
+      <ul class="nav navbar-nav ml-auto">
+      </ul>
+
+      <!-- Language Switcher -->
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" id="langDropdown"
+             data-bs-toggle="dropdown" aria-expanded="false">
+            <i class="bi bi-globe2" aria-hidden="true"></i>
+            EN
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="langDropdown" data-bs-theme="light">
+              <li><a class="dropdown-item active" href="../pages/contact.html" lang="en" hreflang="en" aria-current="page">English</a></li>
+              <li><a class="dropdown-item" href="../zh/pages/contact.html" lang="zh" hreflang="zh">中文</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
 
-    <div class="container">
-      <div class="col-md-2">
-      </div>
+	<!-- Header  ================================================== -->
 
-      <div class="col-md-8">
-        <div class="row">
-              <div class="page-header">
+	<!-- Content ================================================== -->
+	<div class="container site-main-shell contact-page">
+
+	  <div class="bs-docs-section">
+		<div class="row">
+     <div class="page-header">
         <h1><a href="../pages/contact.html">Contact</a></h1>
     </div>
 
-        </div>
+		</div>
+	  </div>
 
-        <div class="row">
+	  <div class="bs-docs-section">
 <div id="page-content">
-  <html><body><h2 id="contact-information">Contact information:</h2>
-<div class="row">
-<div class="col-md-4">
-<div class="boxed-content">
-<h2 class="section-title" id="address">Address</h2>
+  <html><body><p class="contact-intro">
+Visit us at the University of Science and Technology of China, East
+Campus in Hefei.
+</p>
+<section aria-labelledby="contact-join-title" class="contact-join-banner">
+<div>
+<p class="contact-eyebrow">
+JOIN US
+</p>
+<h2 id="contact-join-title">
+Undergraduate research &amp; postdoctoral opportunities
+</h2>
+<p>
+We welcome USTC undergraduates in years 1–4 and postdoctoral applicants
+interested in trapped-ion quantum information research.
+</p>
+</div>
+<a class="contact-action contact-action-primary" href="/pages/join-us.html">Explore
+opportunities <i aria-hidden="true" class="bi bi-arrow-right"></i></a>
+</section>
+<div class="contact-details">
+<article class="contact-info-card">
+<div class="contact-info-heading">
+<span aria-hidden="true" class="contact-icon"><i class="bi bi-geo-alt"></i></span>
+<h2>
+Address
+</h2>
+</div>
 <address>
-<p>University of Science and Technology of China</p>
-<p>Key Laboratory of Quantum Information, CAS </p>
-<p>HeFei, Anhui province 230026, P.R.China </p>
+<p>
+University of Science and Technology of China
+</p>
+<p>
+Key Laboratory of Quantum Information, CAS
+</p>
+<p>
+Hefei, Anhui 230026, China
+</p>
 </address>
+</article>
+<article class="contact-info-card">
+<div class="contact-info-heading">
+<span aria-hidden="true" class="contact-icon"><i class="bi bi-telephone"></i></span>
+<h2>
+Contact details
+</h2>
 </div>
+<dl class="contact-phone-list">
+<dt>
+Office
+</dt>
+<dd>
+<a href="tel:+8655163600808">+(86) 551 63600808</a>
+</dd>
+<dt>
+Fax
+</dt>
+<dd>
++(86) 551 63606828
+</dd>
+</dl>
+</article>
 </div>
-<div class="col-md-4">
-<div class="boxed-content">
-<h2 class="section-title" id="telephone">Telephone</h2>
-<p><strong>Office:</strong> +(86) 551 63600808</p>
-<p><strong>Fax:</strong> +(86) 551 63606828</p>
+<section aria-labelledby="campus-title" class="contact-location">
+<div class="contact-section-heading">
+<p class="contact-eyebrow">
+ON CAMPUS
+</p>
+<h2 id="campus-title">
+Campus location
+</h2>
+<p>
+Use the campus map to find the laboratory and nearby landmarks.
+</p>
 </div>
+<div class="contact-campus-layout">
+<figure class="campus-location-map">
+<a href="/images/contact/ustc-east-campus-buildings-corrected.png" rel="noopener noreferrer" target="_blank"><img alt="USTC East Campus map with the laboratory, Atour Hotel, City Home, Jiangnanchun, north and south gates, and the physical, earth and space sciences buildings" decoding="async" height="1323" loading="lazy" src="/images/contact/ustc-east-campus-map.webp" width="1189"/></a>
+<figcaption>
+USTC East Campus
+</figcaption>
+</figure>
+<aside class="contact-campus-guide">
+<h3>
+Find the laboratory
+</h3>
+<p>
+The red star marks our laboratory in the northern part of the East
+Campus.
+</p>
+<ul class="contact-map-legend">
+<li>
+<span aria-hidden="true" class="contact-map-marker contact-map-marker-star">★</span>Laboratory
+</li>
+<li>
+<span aria-hidden="true" class="contact-map-marker contact-map-marker-hotel">◇</span>Nearby hotels
+</li>
+</ul>
+<p class="contact-map-actions">
+<a class="contact-action contact-action-primary" href="/images/contact/ustc-east-campus-buildings-corrected.png" rel="noopener noreferrer" target="_blank">Open
+full-size map</a>
+<a class="contact-action" href="https://map.ustc.edu.cn/" rel="noopener noreferrer" target="_blank">Official
+campus map</a>
+</p>
+</aside>
 </div>
-<div class="col-md-4">
-<div class="boxed-content">
-<h2 class="section-title" id="email">Email</h2>
-<p><strong>Office:</strong> <a href="mailto:hyf@usec.edu.cn"></a>Yun-Feng Huang</p>
-<p><strong>Support:</strong> <a href="mailto:support@companyname.com">support@companyname.com</a></p>
+</section>
+<section aria-labelledby="navigation-title" class="contact-navigation">
+<div class="contact-section-heading">
+<p class="contact-eyebrow">
+GETTING HERE
+</p>
+<h2 id="navigation-title">
+Directions &amp; maps
+</h2>
+<p>
+We recommend AMap for map access and directions in mainland China.
+</p>
 </div>
+<article class="contact-provider contact-provider-primary">
+<div class="contact-provider-header">
+<div>
+<p class="contact-provider-label">
+Recommended in mainland China
+</p>
+<h3>
+AMap (高德地图)
+</h3>
 </div>
+<p><a class="contact-action contact-action-primary" href="https://www.amap.com/place/B02271860S" rel="noopener noreferrer" target="_blank">Open
+in AMap</a></p>
 </div>
-<h2 id="location">Location</h2>
-<p>We are located on the east campus of USTC.</p>
-<p><img alt="Adress" src="../images/AdressPic.png"/></p>
-<script src="http://maps.google.com/maps/api/js?sensor=false&amp;language=en" type="text/javascript">
+<div class="contact-map-frame">
+<iframe allowfullscreen="" height="100%" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.amap.com/ssr/embed/place?id=B02271860S&amp;name=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%E9%87%8D%E7%82%B9%E5%AE%9E%E9%AA%8C%E5%AE%A4&amp;lng=117.272264&amp;lat=31.840809&amp;address=%E5%AE%89%E5%BE%BD%E7%9C%81%E5%90%88%E8%82%A5%E5%B8%82%E9%87%91%E5%AF%A8%E8%B7%AF96%E5%8F%B7%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E4%B8%9C%E6%A0%A1%E5%8C%BA%E5%86%85&amp;zoom=17&amp;source=poi_detail&amp;platform=pc" title="Key Laboratory of Quantum Information — AMap" width="100%">
+</iframe>
+</div>
+</article>
+<details class="contact-provider contact-provider-secondary">
+<summary>
+<span class="contact-provider-name">Google Maps</span><span class="contact-provider-hint">Show / hide map</span>
+</summary>
+<div class="contact-provider-content">
+<div class="contact-map-frame">
+<iframe allowfullscreen="" height="100%" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q=31.840809,117.272264&amp;z=16&amp;output=embed&amp;hl=en" title="USTC East Campus Map" width="100%">
+</iframe>
+</div>
+<p class="contact-provider-footer">
+<a class="contact-action" href="https://maps.google.com/?q=31.840809,117.272264" rel="noopener noreferrer" target="_blank">Open
+in Google Maps</a><span class="contact-coordinates">Coordinates:
+31.840809, 117.272264</span>
+</p>
+</div>
+</details>
+</section>
+</body></html>
+
+</div>
+	  </div>
+
+	  <!-- Footer  ================================================== -->
+   <footer id="footer">
+    <div class="row">
+      <div class="col-lg-12">
+        <ul class="list-unstyled">
+          <li class="float-end"><a href="#Top">Back to top</a></li>
+          <li><a href="http://www.ustc.edu.cn">USTC</a></li>
+          <li><a href="http://lqcc.ustc.edu.cn">LQCC</a></li>
+          <li><a href="https://github.com/ustc-iontrap">GitHub</a></li>
+          <li><a href="../feeds/all-en.atom.xml" type="application/atom+xml"><i class="bi bi-rss-fill"></i> Atom</a></li>
+          <li><a href="../feeds/all-en.rss.xml" type="application/rss+xml">RSS</a></li>
+        </ul>
+        <p>Made by <a href="mailto:jmcui000@gmail.com">Jin-Ming Cui</a>.</p>
+      </div>
+    </div>
+  </footer>
+
+	</div>
+
+	<script src="../theme/bootstrap.bundle.min.js"></script>
+	<script src="../theme/prism.js"></script>
+	<script src="../theme/custom.js"></script>
+	<script src="../theme/prism-autoloader.js"></script>
+	<script src="../theme/prism-toolbar.js"></script>
+	<script src="../theme/prism-copy-to-clipboard.js"></script>
+<script>
+  (function () {
+    let site;
+    let endpoint;
+    try {
+      site = new URL("https://ustc-iontrap.github.io");
+      endpoint = new URL("https://ustc-iontrap.goatcounter.com/count");
+    } catch (_) {
+      return;
+    }
+
+    // Published HTML may also be served locally for debugging.
+    const host = window.location.hostname.toLowerCase().replace(/\.$/, '');
+    const localHost = /^(localhost|0\.0\.0\.0|\[::1\])$/.test(host)
+      || /\.(localhost|local)$/.test(host)
+      || /^(127\.|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2[0-9]|3[01])\.)/.test(host)
+      || /^\[(::|f[cd][0-9a-f]{2}:.*|fe[89ab][0-9a-f]:.*)\]$/.test(host);
+    if (localHost || !/^https?:$/.test(window.location.protocol)
+        || window.location.origin !== site.origin || endpoint.protocol !== 'https:') {
+      return;
+    }
+
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://gc.zgo.at/count.js';
+    script.setAttribute('data-goatcounter', endpoint.href);
+    script.setAttribute('data-goatcounter-settings', '{"allow_local": false}');
+    document.body.appendChild(script);
+  })();
 </script>
-<div class="map" data-latitude="31.840839" data-longitude="117.272530"></div></body></html>
-</div>
-        </div>
-
-        <div class="row">
-        </div>
-
-      </div>
-
-      <div class="col-md-2">
-      </div>
-    </div>
-
-
-  </div>
-
-    <nav id="footer" class="navbar navbar-default">
-    <div class="container">
-        <p id="footer-text" class="navbar-text text-center">
-          <span id="engine">
-            Compiled using
-            <a href="https://docs.getpelican.com">Pelican</a>
-          </span>
-          <span id="theme">
-            with theme
-            <a href="https://github.com/yuex/pelican-chameleon">Chameleon</a>
-          </span>
-          <span id="bootstrap">
-            on top of
-            <a href="https://getbootstrap.com/">Bootstrap</a>
-          </span>
-        </p>
-      </div>
-    </div>
-  </nav>
-
-
-</body>
+  </body>
 </html>

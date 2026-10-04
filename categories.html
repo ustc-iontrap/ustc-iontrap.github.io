@@ -1,251 +1,351 @@
 
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    <meta name="description" content="USTC Trapped Ions Group">
-    <meta name="author" content="qng">
+<html lang="en" data-bs-theme='light'>
+  <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" >
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" >
+	<meta name="description" content="USTC IonQNet Group" >
+	<meta name="author" content="qng" />
+	<link
+		rel="icon"
+		type="image/svg+xml"
+		href="./images/brand-concepts/ustc-ion-trap/plum-blade.svg"
+		/>
+ 
+	<link rel="alternate" type="application/atom+xml" title="USTC IonQNet Group Atom Feed" href="./feeds/all.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="USTC IonQNet Group RSS Feed" href="./feeds/all.rss.xml" />
+	<link rel="alternate" hreflang="en" type="application/atom+xml" title="USTC IonQNet Group English Atom Feed" href="./feeds/all-en.atom.xml" />
+	<link rel="alternate" hreflang="en" type="application/rss+xml" title="USTC IonQNet Group English RSS Feed" href="./feeds/all-en.rss.xml" />
+ 
+	    <title>Categories · USTC IonQNet Group</title>
 
-        <title>Categories · USTC Trapped Ions Group</title>
 
+	<!-- Bootstrap core CSS -->
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="./theme/bootstrap.css" >
+	<link rel="stylesheet" href="./theme/bootstrap-icons.css" >
+	<link rel="stylesheet" href="./theme/prism-okaidia.css" >
+	<link rel="stylesheet" href="./theme/prism-toolbar.css" >
+	<link rel="stylesheet" href="./theme/custom.min.css" >
 
-    <!-- Bootstrap core CSS -->
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+ 
+ 
 
-    <link rel="stylesheet" href="http://bootswatch.com/flatly/bootstrap.min.css" type="text/css">
+ 
+	<link rel="stylesheet" href="./srcs/brand.css" />
 
-    <link rel="stylesheet" href="./theme/css/main.css">
+  </head>
 
-    <link rel="stylesheet" href="./theme/css/solarized-light.css">
+  <body>
+	<!-- Top link ================================================ -->
+	<span id="Top"></span>
+	<!-- Navbar 2 ================================================ -->
+	<!-- Navbar ================================================== -->
+ 
 
+<nav class="navbar navbar-expand-lg fixed-top bg-primary" data-bs-theme="dark" aria-label="Main navigation">
+  <div class="container">
+    <a class="navbar-brand site-brand" href="./index.html" aria-label="USTC IonQNet Group">
+      <img class="site-brand__mark" src="./images/brand-concepts/ustc-ion-trap/ustc-ionqnet-seal.svg" alt="USTC IonQNet Group logo" />
+      <span class="site-brand__name" aria-hidden="true">
+<span class="site-brand__line">USTC</span><span class="site-brand__line">IonQNet</span><span class="site-brand__line">Group</span>      </span>
+    </a>
+    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+	  data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+	  aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="navbarResponsive">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="./index.html" >Home</a>
+        </li>
 
-    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-2" aria-expanded="false">Research</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-2">
+            <a class="dropdown-item" href="./pages/research.html" >Research introduction</a>
+			<div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="./pages/researches/trapped-ion-qip.html" >Trapped-ion quantum computing node</a>
+            <a class="dropdown-item" href="./pages/researches/quantum-network-cavity-qed.html" >Quantum network with cavity QED</a>
+            <a class="dropdown-item" href="./pages/researches/hybrid-quantum-network.html" >Hybrid quantum network</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./pages/people.html" >Members</a>
+        </li>
 
-    <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <li class="nav-item">
+          <a class="nav-link" href="./pages/publications.html" >Publications</a>
+        </li>
 
-    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+        <li class="nav-item">
+          <a class="nav-link" href="./category/news.html" >News</a>
+        </li>
 
-</head>
-
-<body>
-  <div class="container" id="wrap">
-      <nav id="navbar" class="navbar navbar-default" role="navigation">
-    <div class="container">
-
-      <!--navbar-header-->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href=".">USTC Trapped Ions Group</a>
-      </div> <!--navbar-header-->
-
-      <!-- Search Box -->
-
-      <!--Menuitems, collapable-->
-      <div class="collapse navbar-collapse" id="navbar-collapse">
-        <ul class="nav navbar-nav navbar-right" id="menuitem-list">
-                <li >
-                  <a href="" >Home</a>
-                </li>
-
-              <li class="btn-group">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Research<b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu" role="menu">
-                  <li >
-                    <a href="./pages/research_QSimulation.html" >Quantum simulation</a>
-                  </li>
-                  <li >
-                    <a href="./pages/research_QED.html" >Quantum network based cavity QED</a>
-                  </li>
-                  <li >
-                    <a href="./pages/research_hyb_net.html" >Hybrid quantum network</a>
-                  </li>
-                </ul>
-              </li>
-                <li >
-                  <a href="./pages/publications.html" >Publications</a>
-                </li>
-
-                <li >
-                  <a href="./pages/people.html" >Members</a>
-                </li>
-
-                <li >
-                  <a href="./category/news.html" >News</a>
-                </li>
-
-              <li class="btn-group active">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Archives<b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu" role="menu">
-                  <li >
-                    <a href="./tags.html" >Tags</a>
-                  </li>
-                  <li class="active">
-                    <a href="./categories.html" >Categories</a>
-                  </li>
-                  <li >
-                    <a href="./archives.html" >Chronological</a>
-                  </li>
-                </ul>
-              </li>
-              <li class="btn-group">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact<b class="caret"></b>
-                </a>
-                <ul class="dropdown-menu" role="menu">
-                  <li >
-                    <a href="./pages/contact.html" >Address</a>
-                  </li>
-                  <li >
-                    <a href="http://url-to-github-page"     target="_blank"
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-6" aria-expanded="false">Contact</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-6">
+            <a class="dropdown-item" href="./pages/contact.html" >Address</a>
+            <a class="dropdown-item" href="./pages/join-us.html" >Join Us</a>
+            <a class="dropdown-item" href="https://github.com/ustc-iontrap"     target="_blank" rel="noopener noreferrer"
 >Github</a>
-                  </li>
-                  <li >
-                    <a href="http://url-to-facebook-page"     target="_blank"
->Facebook</a>
-                  </li>
-                </ul>
-              </li>
-        </ul>
-      </div><!-- /.navbar-collapse -->
+          </div>
+        </li>
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent active" type="button" data-bs-toggle="dropdown" id="navbar-menu-7" aria-expanded="false">Archives</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-7">
+            <a class="dropdown-item active" href="./categories.html" aria-current="page" >Categories</a>
+          </div>
+        </li>
+      </ul>
 
-    </div> <!--container-->
-  </nav>
+      <ul class="nav navbar-nav ml-auto">
+      </ul>
+
+      <!-- Language Switcher -->
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" id="langDropdown"
+             data-bs-toggle="dropdown" aria-expanded="false">
+            <i class="bi bi-globe2" aria-hidden="true"></i>
+            EN
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="langDropdown" data-bs-theme="light">
+              <li><a class="dropdown-item active" href="./index.html" lang="en" hreflang="en">English</a></li>
+              <li><a class="dropdown-item" href="./zh/index.html" lang="zh" hreflang="zh">中文</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
 
-    <div class="container">
-      <div class="col-md-2">
-      </div>
+	<!-- Header  ================================================== -->
 
-      <div class="col-md-8">
-        <div class="row">
-              <div class="page-header">
+	<!-- Content ================================================== -->
+	<div class="container site-main-shell">
+
+<div class="bs-docs-section">
+  <div class="row">
+     <div class="page-header">
         <h1><a href="./categories.html">Categories</a></h1>
     </div>
 
-        </div>
+  </div>
+  <div class="row">
+	<p>
+	    <a class="btn btn-outline-primary rounded-pill" href="#tag-gallery">gallery 5</a>
+    <a class="btn btn-outline-primary rounded-pill" href="#tag-News">News 9</a>
+    <a class="btn btn-outline-primary rounded-pill" href="#tag-People">People 7</a>
 
-        <div class="row">
-    <p>
-          <a class="label label-primary"
-      href="#News">News 4</a>
-    <a class="label label-primary"
-      href="#Research">Research 2</a>
+	</p>
+  </div>
+</div>
 
-    </p>
+<div class="bs-docs-section">
+  <div class="row">
+	<div class="col-lg-12">
+	  <div class="accordion" id="accordionCategories">
 
-  <div class="panel-group" id="accordion">
+		
+  <div class="accordion-item" id="tag-gallery">
+	<div class="accordion-header d-flex justify-content-between align-items-center" id="heading-gallery">
+	  <h3 class="mb-0 px-3 py-3 flex-grow-1" id="gallery">
+		<a href="./category/gallery.html">gallery</a>
+	  </h3>
+	  <div class="accordion-header__meta">
+	    <span class="badge bg-primary rounded-pill">5</span>
+	  </div>
+	  <button class="accordion-button flex-shrink-0" style="width: 3.25rem;" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-gallery" aria-expanded="true" aria-controls="collapse-gallery" aria-label="Expand or collapse gallery"></button>
+	</div>
 
-      
-  <div class="panel panel-primary">
-    <div class="panel-heading panel-title">
-      <a id="News" href="./category/news.html">News</a>
-        <a class="accordion-toggle" data-toggle="collapse"
-          title="toggle folding"
-          href="#Newscollapse">
-          <span class="badge pull-right">4</span>
-        </a>
-    </div>
-
-    <div class="panel-body hidden"></div>
-
-    <ul class="list-group">
-      <div class="panel-collapse collapse in" id="Newscollapse">
-        <a href="./note.html">
-          <li class="list-group-item">
-通知</li>
-        </a>
-        <a href="./an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html">
-          <li class="list-group-item">
-"An Ultraviolet Fiber Fabry–Pérot Cavity for Florescence Collection of Trapped Ions" is published</li>
-        </a>
-        <a href="./experimental-trapped-ion-quantum-simulation-of-the-kibble-zurek-dynamics-in-momentum-space-is-published.html">
-          <li class="list-group-item">
-"Experimental Trapped-ion Quantum Simulation of the Kibble-Zurek dynamics in momentum space" is published</li>
-        </a>
-        <a href="./welcome-for-new-members.html">
-          <li class="list-group-item">
-Welcome for new members</li>
-        </a>
-      </div>
-    </ul>
-
+	<div id="collapse-gallery" class="accordion-collapse collapse show" aria-labelledby="heading-gallery" data-bs-parent="#accordionCategories">
+	  <div class="accordion-body">
+		<ul class="list-group">
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./gallery/high-optical-access-trap.html">High optical access (HOA) trap</a>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./gallery/optical-tweezer-ion-gates.html">Optical-tweezer ion gates</a>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./gallery/quantum-interface-concept.html">Quantum Interface Concept</a>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./gallery/hybrid-quantum-network.html">Hybrid Quantum Network</a>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./gallery/cavity-qed-interface.html">Cavity QED Interface</a>
+		  </li>
+		</ul>
+	  </div>
+	</div>
   </div>
 
 
 
-      
-  <div class="panel panel-primary">
-    <div class="panel-heading panel-title">
-      <a id="Research" href="./category/research.html">Research</a>
-        <a class="accordion-toggle" data-toggle="collapse"
-          title="toggle folding"
-          href="#Researchcollapse">
-          <span class="badge pull-right">2</span>
-        </a>
-    </div>
+		
+  <div class="accordion-item" id="tag-News">
+	<div class="accordion-header d-flex justify-content-between align-items-center" id="heading-News">
+	  <h3 class="mb-0 px-3 py-3 flex-grow-1" id="News">
+		<a href="./category/news.html">News</a>
+	  </h3>
+	  <div class="accordion-header__meta">
+	    <span class="badge bg-primary rounded-pill">9</span>
+	  </div>
+	  <button class="accordion-button flex-shrink-0" style="width: 3.25rem;" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-News" aria-expanded="true" aria-controls="collapse-News" aria-label="Expand or collapse News"></button>
+	</div>
 
-    <div class="panel-body hidden"></div>
-
-    <ul class="list-group">
-      <div class="panel-collapse collapse in" id="Researchcollapse">
-        <a href="./hybrid-quantum-network-in-lqcc.html">
-          <li class="list-group-item">
-Hybrid Quantum network in LQCC</li>
-        </a>
-        <a href="./quantum-network-based-cavity-qed.html">
-          <li class="list-group-item">
-Quantum network based cavity QED</li>
-        </a>
-      </div>
-    </ul>
-
+	<div id="collapse-News" class="accordion-collapse collapse show" aria-labelledby="heading-News" data-bs-parent="#accordionCategories">
+	  <div class="accordion-body">
+		<ul class="list-group">
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./transverse-polarization-gradient-entangling-gates-trapped-ion.html">"Transverse Polarization Gradient Entangling Gates for Trapped-Ion Quantum Computation" is published in Physical Review Letters</a>
+			<small class="text-muted">Thu, 25 Dec 2025</small>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./neural-network-assisted-yb-quantum-magnetometer.html">"A neural network assisted ¹⁷¹Yb⁺ quantum magnetometer" is published in npj Quantum Information</a>
+			<small class="text-muted">Thu, 22 Dec 2022</small>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./super-resolved-imaging-single-cold-atom-nanosecond.html">"Super-resolved Imaging of a Single Cold Atom on a Nanosecond Timescale" is published in Physical Review Letters</a>
+			<small class="text-muted">Fri, 24 Dec 2021</small>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./riemann-zeros-floquet-engineering-trapped-ion.html">"Riemann zeros from Floquet engineering a trapped-ion qubit" is published in npj Quantum Information</a>
+			<small class="text-muted">Thu, 01 Jul 2021</small>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./quantum-thermodynamics-adiabatic-open-systems-trapped-ion.html">"Quantum thermodynamics in adiabatic open systems and its trapped-ion experimental realization" is published in npj Quantum Information</a>
+			<small class="text-muted">Fri, 18 Sep 2020</small>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./experimentally-testing-quantum-critical-dynamics-beyond-kibble-zurek.html">"Experimentally testing quantum critical dynamics beyond the Kibble-Zurek mechanism" is published in Communications Physics</a>
+			<small class="text-muted">Fri, 14 Feb 2020</small>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./experimental-demonstration-suppressing-residual-geometric-dephasing.html">"Experimental demonstration of suppressing residual geometric dephasing" is published in Science Bulletin</a>
+			<small class="text-muted">Fri, 20 Sep 2019</small>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html">"An Ultraviolet Fiber Fabry–Pérot Cavity for Florescence Collection of Trapped Ions" is published</a>
+			<small class="text-muted">Sun, 22 Jan 2017</small>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./experimental-trapped-ion-quantum-simulation-of-the-kibble-zurek-dynamics-in-momentum-space-is-published.html">"Experimental Trapped-ion Quantum Simulation of the Kibble-Zurek dynamics in momentum space" is published</a>
+			<small class="text-muted">Thu, 22 Sep 2016</small>
+		  </li>
+		</ul>
+	  </div>
+	</div>
   </div>
 
 
+
+		
+  <div class="accordion-item" id="tag-People">
+	<div class="accordion-header d-flex justify-content-between align-items-center" id="heading-People">
+	  <h3 class="mb-0 px-3 py-3 flex-grow-1" id="People">
+		<a href="./category/people.html">People</a>
+	  </h3>
+	  <div class="accordion-header__meta">
+	    <span class="badge bg-primary rounded-pill">7</span>
+	  </div>
+	  <button class="accordion-button flex-shrink-0" style="width: 3.25rem;" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-People" aria-expanded="true" aria-controls="collapse-People" aria-label="Expand or collapse People"></button>
+	</div>
+
+	<div id="collapse-People" class="accordion-collapse collapse show" aria-labelledby="heading-People" data-bs-parent="#accordionCategories">
+	  <div class="accordion-body">
+		<ul class="list-group">
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./Members/Yun-Feng_Huang.html">Yun-Feng Huang</a>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./Members/Chen-Xu_Wang.html">Chen-Xu Wang</a>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./Members/Ming-Zhong_Ai.html">Mingzhong Ai</a>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./Members/Ran_He.html">Ran He</a>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./Members/Chang-Kang_Hu.html">Chang-Kang Hu</a>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./Members/Jin-Ming_Cui.html">Jin-Ming Cui</a>
+		  </li>
+		  <li class="list-group-item btn-secondary text-primary-emphasis d-flex justify-content-between align-items-center">
+			<a href="./Members/Wei-Min_Lv.html">Wei-Min Lv</a>
+		  </li>
+		</ul>
+	  </div>
+	</div>
   </div>
 
-        </div>
 
-        <div class="row">
-        </div>
-
-      </div>
-
-      <div class="col-md-2">
-      </div>
-    </div>
-
-
+	  </div>
+	</div>
   </div>
+</div>
 
-    <nav id="footer" class="navbar navbar-default">
-    <div class="container">
-        <p id="footer-text" class="navbar-text text-center">
-          <span id="engine">
-            Compiled using
-            <a href="https://docs.getpelican.com">Pelican</a>
-          </span>
-          <span id="theme">
-            with theme
-            <a href="https://github.com/yuex/pelican-chameleon">Chameleon</a>
-          </span>
-          <span id="bootstrap">
-            on top of
-            <a href="https://getbootstrap.com/">Bootstrap</a>
-          </span>
-        </p>
+
+	  <!-- Footer  ================================================== -->
+   <footer id="footer">
+    <div class="row">
+      <div class="col-lg-12">
+        <ul class="list-unstyled">
+          <li class="float-end"><a href="#Top">Back to top</a></li>
+          <li><a href="http://www.ustc.edu.cn">USTC</a></li>
+          <li><a href="http://lqcc.ustc.edu.cn">LQCC</a></li>
+          <li><a href="https://github.com/ustc-iontrap">GitHub</a></li>
+          <li><a href="./feeds/all-en.atom.xml" type="application/atom+xml"><i class="bi bi-rss-fill"></i> Atom</a></li>
+          <li><a href="./feeds/all-en.rss.xml" type="application/rss+xml">RSS</a></li>
+        </ul>
+        <p>Made by <a href="mailto:jmcui000@gmail.com">Jin-Ming Cui</a>.</p>
       </div>
     </div>
-  </nav>
+  </footer>
 
+	</div>
 
-</body>
+	<script src="./theme/bootstrap.bundle.min.js"></script>
+	<script src="./theme/prism.js"></script>
+	<script src="./theme/custom.js"></script>
+	<script src="./theme/prism-autoloader.js"></script>
+	<script src="./theme/prism-toolbar.js"></script>
+	<script src="./theme/prism-copy-to-clipboard.js"></script>
+<script>
+  (function () {
+    let site;
+    let endpoint;
+    try {
+      site = new URL("https://ustc-iontrap.github.io");
+      endpoint = new URL("https://ustc-iontrap.goatcounter.com/count");
+    } catch (_) {
+      return;
+    }
+
+    // Published HTML may also be served locally for debugging.
+    const host = window.location.hostname.toLowerCase().replace(/\.$/, '');
+    const localHost = /^(localhost|0\.0\.0\.0|\[::1\])$/.test(host)
+      || /\.(localhost|local)$/.test(host)
+      || /^(127\.|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2[0-9]|3[01])\.)/.test(host)
+      || /^\[(::|f[cd][0-9a-f]{2}:.*|fe[89ab][0-9a-f]:.*)\]$/.test(host);
+    if (localHost || !/^https?:$/.test(window.location.protocol)
+        || window.location.origin !== site.origin || endpoint.protocol !== 'https:') {
+      return;
+    }
+
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://gc.zgo.at/count.js';
+    script.setAttribute('data-goatcounter', endpoint.href);
+    script.setAttribute('data-goatcounter-settings', '{"allow_local": false}');
+    document.body.appendChild(script);
+  })();
+</script>
+  </body>
 </html>

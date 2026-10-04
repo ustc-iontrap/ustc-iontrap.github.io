@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>USTC IonQNet Group</title><link href="https://ustc-iontrap.github.io/" rel="alternate" /><link href="https://ustc-iontrap.github.io/feeds/all-zh.atom.xml" rel="self" /><id>https://ustc-iontrap.github.io/</id><updated>2026-10-03T00:00:00+08:00</updated><entry><title>高通光离子阱（HOA trap）</title><link href="https://ustc-iontrap.github.io/zh/gallery/high-optical-access-trap.html" rel="alternate" /><published>2026-10-03T00:00:00+08:00</published><updated>2026-10-03T00:00:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2026-10-03:/zh/gallery/high-optical-access-trap.html</id><summary type="html">微型刀片阱置于全玻璃腔体中，支持四个方向的大数值孔径光学接口，为精确寻址、成像读出与光镊操控提供平台。</summary><content type="html">&lt;h2 id="四个方向的高数值孔径光学接口"&gt;四个方向的高数值孔径光学接口&lt;/h2&gt;
+&lt;p&gt;我们研制的&lt;a
+href="https://doi.org/10.1063/5.0043985"&gt;高通光离子阱装置（Review of
+Scientific
+Instruments，2021）&lt;/a&gt;将小型化的刀片离子阱放入全玻璃腔体中，为紧聚焦操控光束和荧光收集提供开放的光学通道。该结构能够支持四个方向的大数值孔径物镜，分别承担多方向光学寻址、离子成像与量子态读出等任务，使光学系统可以围绕实验需要灵活配置。&lt;/p&gt;
+&lt;h2 id="从精确寻址到新型量子门"&gt;从精确寻址到新型量子门&lt;/h2&gt;
+&lt;p&gt;HOA
+平台服务于紧聚焦光场与光镊操控离子的研究。我们利用多方向光学接口发展了&lt;a
+href="https://doi.org/10.1103/PhysRevApplied.22.054003"&gt;双侧低串扰拉曼寻址&lt;/a&gt;，随后通过光学
+Magnus 效应，将可寻址纠缠门简化为&lt;a
+href="https://doi.org/10.1103/w5l6-wmrl"&gt;单侧偏振梯度操控&lt;/a&gt;。结合&lt;a
+href="https://doi.org/10.3788/COL202624.010201"&gt;以离子为探针的原位像差校正&lt;/a&gt;，高质量聚焦光场能够在离子阵列中选择目标比特，并耦合沿离子链方向的轴向运动模式。&lt;/p&gt;
+&lt;h2 id="用光镊调控离子晶体的运动谱"&gt;用光镊调控离子晶体的运动谱&lt;/h2&gt;
+&lt;p&gt;开放的光学接口也使光镊势能够与电学囚禁相结合。我们已演示光镊对离子振动频率的调控，并进一步研究通过局域光场动态改变晶体的声子频率与模式分布，降低非目标运动模式引起的串扰，为直接在离子晶体中实施高保真量子门提供更多控制自由度。&lt;/p&gt;
+&lt;p&gt;&lt;a
+href="/zh/pages/researches/trapped-ion-qip.html"&gt;进一步了解离子阱量子计算节点
+→&lt;/a&gt;&lt;/p&gt;
+</content><category term="gallery" /></entry><entry><title>光镊离子门</title><link href="https://ustc-iontrap.github.io/zh/gallery/optical-tweezer-ion-gates.html" rel="alternate" /><published>2026-10-03T00:00:00+08:00</published><updated>2026-10-03T00:00:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2026-10-03:/zh/gallery/optical-tweezer-ion-gates.html</id><summary type="html">利用紧聚焦光场精确寻址离子、构造新型纠缠门，并通过光镊调控离子晶体的集体运动。</summary><content type="html">&lt;h2 id="利用光学-magnus-效应构造可寻址量子门"&gt;利用光学 Magnus
+效应构造可寻址量子门&lt;/h2&gt;
+&lt;p&gt;紧聚焦光场不仅能形成精细的寻址光斑，其空间偏振梯度也为离子的自旋与运动耦合提供了新的途径。我们利用光学
+Magnus
+效应，实现由同向传播的拉曼光驱动的可寻址纠缠门：操控光从离子阱一侧入射，经同一物镜聚焦，在简化光学接口的同时，保留对目标离子的灵活选择能力。&lt;/p&gt;
+&lt;p&gt;这项工作发表于 &lt;a href="https://doi.org/10.1103/w5l6-wmrl"&gt;Physical
+Review Letters 135,
+260604（2025）&lt;/a&gt;。经态制备与测量误差校正后，两离子链和四离子链中的
+Bell 态保真度分别为 &lt;strong&gt;98.7(1)% 和 97.2(4)%&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2 id="从精确寻址走向声子调控"&gt;从精确寻址走向声子调控&lt;/h2&gt;
+&lt;p&gt;我们将单侧偏振梯度操控与原位像差校正、轴向运动模式耦合相结合，发展低串扰、灵活的离子门技术。光镊形成的局域势还可以调节离子的运动：在已演示的离子振动频率调控基础上，我们进一步研究动态重塑离子晶体中的声子模式，降低非目标运动模式引起的串扰。&lt;/p&gt;
+&lt;p&gt;&lt;a
+href="/zh/pages/researches/trapped-ion-qip.html"&gt;进一步了解离子阱量子计算节点
+→&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+href="/zh/gallery/high-optical-access-trap.html"&gt;查看高通光离子阱（HOA
+trap）装置相册 →&lt;/a&gt;&lt;/p&gt;
+</content><category term="gallery" /></entry><entry><title>量子接口概念</title><link href="https://ustc-iontrap.github.io/zh/gallery/quantum-interface-concept.html" rel="alternate" /><published>2026-03-28T10:23:00+08:00</published><updated>2026-03-28T10:23:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2026-03-28:/zh/gallery/quantum-interface-concept.html</id><summary type="html">通过光学量子信道连接静止物质量子比特。</summary><content type="html">&lt;p&gt;量子接口将静止的物质量子比特与光子相连接，让量子信息能够在远距离节点之间传递。在我们的研究中，离子阱承担相干的本地量子操控，微腔接口和量子频率转换则将离子处理器接入光学信道，并连接其他物理体系。&lt;/p&gt;
+&lt;p&gt;&lt;a href="/zh/pages/research.html"&gt;了解我们的量子网络研究 →&lt;/a&gt;&lt;/p&gt;
+</content><category term="gallery" /></entry><entry><title>混合量子网络</title><link href="https://ustc-iontrap.github.io/zh/gallery/hybrid-quantum-network.html" rel="alternate" /><published>2026-03-28T10:21:00+08:00</published><updated>2026-03-28T10:21:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2026-03-28:/zh/gallery/hybrid-quantum-network.html</id><summary type="html">通过量子频率转换连接离子阱处理器与固态量子存储器，构建跨物理体系的混合量子网络。</summary><content type="html">&lt;p&gt;离子阱提供长相干时间和高保真量子操控，固态量子存储器则存储光量子态。我们发展连接这两类体系的量子接口，让离子节点的本地操控与远端光学存储协同工作，构建混合量子网络。&lt;/p&gt;
+&lt;p&gt;保偏频率转换接口将镱离子的 369.5 nm 光子转换到铕掺杂晶体存储器的 580
+nm 波段。Sagnac
+环稳定偏振分量间的相对相位，离轴抛物面镜提供跨波段消色差耦合（&lt;a
+href="https://doi.org/10.3788/COL202624.021901"&gt;Chinese Optics
+Letters，2026&lt;/a&gt;）。上方两幅图分别展示网络架构，以及连接离子节点、频率转换模块和存储器的实验系统。&lt;/p&gt;
+&lt;p&gt;我们与周宗权教授团队合作，在相距 75 m、通过 90 m
+光纤连接的两个实验室间实现离子—存储器纠缠，并通过存储和读出后的联合测量验证异构链路中的量子关联。相关成果见预印本
+&lt;a href="https://arxiv.org/abs/2603.05836"&gt;Heterogeneous entanglement
+between a trapped ion and a solid-state quantum
+memory（arXiv:2603.05836）&lt;/a&gt;，实验细节亦收录于&lt;a
+href="http://lqcc.ustc.edu.cn/iontrap/publications/files/thesis/2026_hybrid-quantum-networks-trapped-ions-solid-state-memories_wang-chenxu.pdf"&gt;王晨旭博士学位论文（2026）&lt;/a&gt;。未来，我们还将开发离子与中性原子系统的接口，探索跨物理体系的协同分布式量子计算。&lt;/p&gt;
+&lt;p&gt;&lt;a
+href="/zh/pages/researches/hybrid-quantum-network.html"&gt;进一步了解混合量子网络研究
+→&lt;/a&gt;&lt;/p&gt;
+</content><category term="gallery" /></entry><entry><title>腔 QED 接口</title><link href="https://ustc-iontrap.github.io/zh/gallery/cavity-qed-interface.html" rel="alternate" /><published>2026-03-28T10:20:00+08:00</published><updated>2026-03-28T10:20:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2026-03-28:/zh/gallery/cavity-qed-interface.html</id><summary type="html">从镀金光纤腔镜到针状离子阱集成，构建兼具高带宽与高效率的离子—光子量子接口。</summary><content type="html">&lt;p&gt;我们将光纤微腔与针状离子阱集成，构建面向量子网络的离子—光子接口。微腔的小模体积增强离子与腔场的耦合，光纤则提供光子的收集与传输通道。通过协同设计腔镜、囚禁结构与光学耦合，我们致力于构建兼具高带宽与高效率的量子网络节点。&lt;/p&gt;
+&lt;p&gt;这组照片展示了接口的实物装置。光纤腔镜的侧面及端面外围镀金，在保留中央光学孔径的同时提供电学屏蔽；两面腔镜相向组装成微腔，再与针状离子阱集成并安装于真空腔体内。腔镜之间单个
+Ba⁺ 离子的荧光图像，展示了这一腔结构中的单离子囚禁。&lt;/p&gt;
+&lt;p&gt;&lt;a
+href="/zh/pages/researches/quantum-network-cavity-qed.html"&gt;进一步了解腔
+QED 量子网络 →&lt;/a&gt;&lt;/p&gt;
+</content><category term="gallery" /></entry><entry><title>横向偏振梯度离子纠缠门成果发表于 Physical Review Letters，并获编辑推荐</title><link href="https://ustc-iontrap.github.io/zh/transverse-polarization-gradient-entangling-gates-trapped-ion.html" rel="alternate" /><published>2025-12-25T10:00:00+08:00</published><updated>2025-12-25T10:00:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2025-12-25:/zh/transverse-polarization-gradient-entangling-gates-trapped-ion.html</id><summary type="html">利用紧聚焦光场的横向偏振梯度实现离子纠缠门，简化光路并兼容光镊架构。成果发表于 Physical Review Letters，获编辑推荐。</summary><content type="html">&lt;p&gt;我们的工作“Transverse Polarization Gradient Entangling Gates for
+Trapped-Ion Quantum Computation”于 2025 年 12 月 24 日发表于
+&lt;strong&gt;Physical Review
+Letters&lt;/strong&gt;，并获选为&lt;strong&gt;编辑推荐（Editors’
+Suggestion）&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;我们利用紧聚焦光场的偏振梯度实现了高保真囚禁离子纠缠门。这一方案简化了现有纠缠门的光路配置，并与光镊架构兼容，为大规模离子阱量子计算提供了新的技术路径。&lt;/p&gt;
+&lt;div class="figure" style="max-width: 600px;"&gt;
+&lt;p&gt;&lt;img src="/images/shared/polarization-gradient-gates.webp" style="max-width: 600px;" title="光学 Magnus 效应量子门" alt="光学 Magnus 效应量子门的概念图"&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 id="研究背景与挑战"&gt;研究背景与挑战&lt;/h3&gt;
+&lt;p&gt;离子阱量子系统具有很高的操作保真度和相干性，是构建大规模量子计算机的主要物理平台之一。基于离子阵列的量子计算架构通过光学寻址，并行操控各个离子量子比特，具有高连接度和并行计算效率。然而，这一架构的扩展面临一个关键挑战：大离子阵列中密集的声子模式会引起&lt;strong&gt;量子门串扰&lt;/strong&gt;，使高保真纠缠门难以直接实现。近年来，研究者提出利用紧聚焦光镊阵列重塑离子的声子谱并抑制串扰，但在光学寻址的离子阱量子计算机中演示光镊门仍有待突破。&lt;/p&gt;
+&lt;h3 id="基于光学-magnus-效应的方案"&gt;基于光学 Magnus 效应的方案&lt;/h3&gt;
+&lt;p&gt;在离子阱量子计算的长期研究和自主平台建设基础上，我们实现了一种基于&lt;strong&gt;光学
+Magnus 效应&lt;/strong&gt;的纠缠门方案：类似于流体力学中的 Magnus
+效应，具有自旋的离子在聚焦光流（光镊）中受到垂直于光传播方向的横向力。该方案利用紧聚焦激光的横向场梯度产生与量子态相关的推力，从而在离子之间建立量子纠缠。它省去了传统方案中复杂的反向传播激光配置，简化了实验光路与操作。&lt;/p&gt;
+&lt;h3 id="主要结果"&gt;主要结果&lt;/h3&gt;
+&lt;p&gt;在 &lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt;
+离子系统中，经态制备与测量误差校正后，我们在双离子链和四离子链中测得的
+Bell 态保真度分别为 &lt;strong&gt;98.7(1)%&lt;/strong&gt; 和
+&lt;strong&gt;97.2(4)%&lt;/strong&gt;。理论上，这种量子门能够达到高于
+&lt;strong&gt;99.99%&lt;/strong&gt;
+的保真度。我们分析了当前实验中限制保真度的主要因素，并预计未来可将误差降低一个数量级以上。&lt;/p&gt;
+&lt;div class="figure" style="max-width: 600px;"&gt;
+&lt;img src="/images/news/entangling_gates_2025/fig1.jpg" style="max-width: 600px;" title="实验装置" alt="基于偏振梯度的单离子寻址原理"&gt;
+&lt;p class="caption"&gt;
+图 1.
+基于偏振梯度的单离子寻址原理。声光偏转器（AOD）通过高数值孔径物镜产生多个激光光斑，光斑中的偏振梯度为各个离子提供自旋相关力。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 id="研究意义"&gt;研究意义&lt;/h3&gt;
+&lt;p&gt;该技术的关键在于与光镊门的兼容性：光镊操作本身涉及横向运动，而该方案显著简化了光路配置，提高了光镊门在实验中的可实现性。这为构建大规模、可扩展的离子阱量子计算机提供了更简单、灵活的路径。&lt;/p&gt;
+&lt;p&gt;审稿人评价：“本文展示了光镊与线性离子链的成功结合，提出了一种巧妙而有力的机制，可在任意离子对之间实现双比特门操作……”以及“实现这类量子门的结果令人鼓舞，该方法解决了扩展离子阱量子计算中的一项重要挑战……”&lt;/p&gt;
+&lt;p&gt;论文链接：&lt;a
+href="https://doi.org/10.1103/w5l6-wmrl"&gt;https://doi.org/10.1103/w5l6-wmrl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;相关报道（光子盒）：&lt;a
+href="https://news.qq.com/rain/a/20251225A06IAR00"&gt;https://news.qq.com/rain/a/20251225A06IAR00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;（来源：中国科学报，王敏）&lt;/p&gt;
+</content><category term="News" /></entry><entry><title>“神经网络辅助的 ¹⁷¹Yb⁺ 量子磁力计”发表于 npj Quantum Information</title><link href="https://ustc-iontrap.github.io/zh/neural-network-assisted-yb-quantum-magnetometer.html" rel="alternate" /><published>2022-12-22T10:00:00+08:00</published><updated>2022-12-22T10:00:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2022-12-22:/zh/neural-network-assisted-yb-quantum-magnetometer.html</id><summary type="html">将神经网络引入囚禁离子磁力计的数据处理，在散粒噪声与连续单次测量条件下提取射频场参数，成果发表于 npj Quantum Information。</summary><content type="html">&lt;p&gt;我们的工作“神经网络辅助的 &lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt;
+量子磁力计”已发表于 &lt;strong&gt;npj Quantum
+Information&lt;/strong&gt;。我们将神经网络引入离子阱磁力计的数据处理环节，展示了机器学习与量子传感相结合的能力，显著拓展了磁力计的工作范围。&lt;/p&gt;
+&lt;h3 id="面临的挑战"&gt;面临的挑战&lt;/h3&gt;
+&lt;p&gt;通用量子磁力计必须在较宽的目标场参数范围内提供可读出的响应。标准原子磁力计工作在传感器呈现谐波响应的区间，射频目标场的参数被编码在简单的正弦模式中。然而，当射频驱动引起的响应超出这种标准谐波行为时，例如存在较大的散粒噪声或采用连续单次测量时，传感器响应与目标参数之间的简单关系便不再成立，使得准确表征场参数极具挑战。&lt;/p&gt;
+&lt;h3 id="我们的方法"&gt;我们的方法&lt;/h3&gt;
+&lt;p&gt;我们通过实验展示，将 &lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt;
+原子传感器与经过充分训练的神经网络结合，能够在不同的挑战性情形下研究目标场。具体而言，我们在存在较大散粒噪声的条件下表征了射频（RF）场，其中包括通过单次测量连续采集数据这一极限情形。神经网络学习测得的传感器响应与其背后的场参数之间的复杂映射，从而有效解读复杂传感器响应中包含的信息。&lt;/p&gt;
+&lt;h3 id="主要结果"&gt;主要结果&lt;/h3&gt;
+&lt;p&gt;在减少测量平均次数的情形下，我们的神经网络仅用每个数据点 100
+次测量，就实现了 &lt;strong&gt;98.76%&lt;/strong&gt;
+的平均估计准确率。即使每个数据点仅测量 30 次，准确率仍保持在
+&lt;strong&gt;98.31%&lt;/strong&gt;。对于连续单次测量，神经网络输出与目标值之间的回归相关系数超过
+&lt;strong&gt;R =
+0.999&lt;/strong&gt;。这些结果表明，将机器学习工具与量子传感技术相结合，是一种可以方便地推广到其他量子平台的策略，例如金刚石中的氮空位色心。&lt;/p&gt;
+&lt;div class="figure" style="max-width: 600px;"&gt;
+&lt;img src="/images/news/neural_network_magnetometer_2022/fig1.jpg" style="max-width: 600px;" title="示意图" alt="神经网络辅助量子磁力计示意图"&gt;
+&lt;p class="caption"&gt;
+图 1. &lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt;
+原子传感器的能级示意图（a、b）、针形离子阱配置（c）及神经网络架构（d）。光电倍增管（PMT）获得的传感器响应由训练好的神经网络处理，从复杂响应中提取射频场参数。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;这项工作与西班牙巴斯克大学（UPV/EHU）的研究人员合作完成。&lt;/p&gt;
+&lt;p&gt;论文链接：&lt;a
+href="https://doi.org/10.1038/s41534-022-00669-2"&gt;https://doi.org/10.1038/s41534-022-00669-2&lt;/a&gt;&lt;/p&gt;
+</content><category term="News" /></entry><entry><title>“单冷原子的纳秒尺度超分辨成像”发表于 Physical Review Letters</title><link href="https://ustc-iontrap.github.io/zh/super-resolved-imaging-single-cold-atom-nanosecond.html" rel="alternate" /><published>2021-12-24T10:00:00+08:00</published><updated>2021-12-24T10:00:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2021-12-24:/zh/super-resolved-imaging-single-cold-atom-nanosecond.html</id><summary type="html">将基态耗尽显微成像引入离子阱系统，实现单离子的二维超分辨成像与纳秒尺度频闪探测。成果发表于 Physical Review Letters。</summary><content type="html">&lt;p&gt;我们的工作“单冷原子的纳秒尺度超分辨成像”已发表于 &lt;strong&gt;Physical
+Review
+Letters&lt;/strong&gt;。我们展示了一种突破性方法，以前所未有的空间和时间分辨率对单个囚禁离子成像，突破了光学衍射极限。&lt;/p&gt;
+&lt;h3 id="突破衍射极限"&gt;突破衍射极限&lt;/h3&gt;
+&lt;p&gt;对冷原子系统中单个粒子进行高分辨率光学探测和成像，是直接研究输运、关联及相变等量子现象的重要手段。然而，传统显微成像技术从根本上受到波长尺度衍射极限的限制，不适合研究多体系统波函数的细节。我们将已在生物学和化学中发展为强大工具的超分辨显微成像概念引入冷原子领域。&lt;/p&gt;
+&lt;h3 id="我们的方法基态耗尽显微成像"&gt;我们的方法：基态耗尽显微成像&lt;/h3&gt;
+&lt;p&gt;我们首次在离子阱系统中演示了&lt;strong&gt;基态耗尽（GSD）显微成像&lt;/strong&gt;。通过将
+GSD 控制序列与 &lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt;
+离子的量子比特态极化和探测方法相结合，我们实现了突破光学衍射极限的二维超分辨成像。关键创新在于，利用&lt;strong&gt;数字微镜器件（DMD）&lt;/strong&gt;及原位像差校正产生高纯度的环形激光束，选择性地耗尽离子的量子态。&lt;/p&gt;
+&lt;h3 id="实验结果"&gt;实验结果&lt;/h3&gt;
+&lt;p&gt;使用数值孔径 NA = 0.1 的成像物镜，我们实现了 &lt;strong&gt;175 nm&lt;/strong&gt;
+的空间分辨率，相比直接荧光成像&lt;strong&gt;提升了 13
+倍&lt;/strong&gt;。此外，在较强激光功率下，耗尽过程可以短至约 50
+ns，使我们能够在纳秒时间尺度上进行频闪成像。我们通过在 &lt;strong&gt;735
+ns&lt;/strong&gt; 内观测离子久期运动的一个完整周期，展示了这一能力，并实现了
+&lt;strong&gt;10 nm&lt;/strong&gt; 的位移探测灵敏度。&lt;/p&gt;
+&lt;div class="figure" style="max-width: 600px;"&gt;
+&lt;img src="/images/news/super_resolved_imaging_2021/fig1.jpg" style="max-width: 600px;" title="实验方案" alt="超分辨成像的实验方案与装置"&gt;
+&lt;p class="caption"&gt;
+图 1. 实验方案与装置。（a）&lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt; 的能级以及三激光
+GSD 成像序列。（b）环形光束经顶部窗口聚焦的 Paul
+阱。（c）超分辨成像过程示意图：逐像素扫描环形光斑，构建超分辨图像。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;我们的方法为研究冷原子系统中的粒子位置、动量、关联和动力学提供了强有力的工具，并且可以方便地推广到光镊中的中性原子。&lt;/p&gt;
+&lt;p&gt;论文链接：&lt;a
+href="https://doi.org/10.1103/PhysRevLett.127.263603"&gt;https://doi.org/10.1103/PhysRevLett.127.263603&lt;/a&gt;&lt;/p&gt;
+</content><category term="News" /></entry><entry><title>利用离子量子比特的 Floquet 工程测量黎曼零点，成果发表于 npj Quantum Information</title><link href="https://ustc-iontrap.github.io/zh/riemann-zeros-floquet-engineering-trapped-ion.html" rel="alternate" /><published>2021-07-01T10:00:00+08:00</published><updated>2021-07-01T10:00:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2021-07-01:/zh/riemann-zeros-floquet-engineering-trapped-ion.html</id><summary type="html">通过周期驱动囚禁离子量子比特，利用 Floquet 动力学测量黎曼零点，连接量子物理与数论。成果发表于 npj Quantum Information。</summary><content type="html">&lt;p&gt;我们的工作“Riemann zeros from Floquet engineering a trapped-ion
+qubit”于 2021 年 7 月 14 日发表于 &lt;strong&gt;npj Quantum
+Information&lt;/strong&gt;。该工作利用离子阱量子系统在实验中测量黎曼 ζ
+函数的零点，连接了量子物理与数论研究。&lt;/p&gt;
+&lt;h3 id="研究背景"&gt;研究背景&lt;/h3&gt;
+&lt;p&gt;Bernhard Riemann 于 1859 年提出黎曼猜想：黎曼 ζ
+函数的所有非平凡零点，其实部均为
+1/2。黎曼猜想是七个千禧年难题之一，其证明将促进人们理解质数分布。与之相关的
+Hilbert–Pólya
+猜想提出，可能存在一个量子系统，其哈密顿量的本征值与黎曼零点一一对应。&lt;/p&gt;
+&lt;h3 id="我们的方法"&gt;我们的方法&lt;/h3&gt;
+&lt;p&gt;我们在国际上首次提出了准静态哈密顿量方法。通过设计周期驱动函数来调制离子量子比特，实现量子态的准静态演化。当驱动参数对应黎曼零点时，所构造系统的准能级发生简并，量子态在驱动周期的整数倍时刻保持不变，即发生&lt;strong&gt;相干隧穿抑制&lt;/strong&gt;。这一过程由
+Floquet
+理论描述，周期驱动系统的准能量受到驱动参数调控。通过扫描驱动幅度，可以高精度地测量黎曼零点的位置。&lt;/p&gt;
+&lt;h3 id="实验结果"&gt;实验结果&lt;/h3&gt;
+&lt;p&gt;利用自主研制、具有长相干时间的离子阱系统，我们实现了 30
+个周期的高保真驱动，成功测量了&lt;strong&gt;前 80
+个非平凡黎曼零点&lt;/strong&gt;，相比此前该领域的工作提升了近&lt;strong&gt;两个数量级&lt;/strong&gt;。实验结果为研究
+Hilbert–Pólya
+猜想，以及理解黎曼猜想与量子系统之间的联系提供了重要依据。&lt;/p&gt;
+&lt;p&gt;审稿人评价：“我推荐发表这篇论文，原因包括：实现该方案所需的高度实验独创性，理论与实验描述清晰，以及测得的零点数量多、精度高。”&lt;/p&gt;
+&lt;div class="figure" style="max-width: 600px;"&gt;
+&lt;img src="/images/news/riemann_zeros_2021/fig1.jpg" style="max-width: 600px;" title="实验流程" alt="离子阱系统中的 Floquet 动力学测量"&gt;
+&lt;p class="caption"&gt;
+图 1. 测量离子阱系统中 Floquet
+动力学的实验流程。（a）由任意波形发生器（AWG）产生的微波场对量子比特进行周期驱动。（b）Bloch
+球上，量子比特初始化为 |0⟩，在 n 个驱动周期后演化为
+U(nT)|0⟩；动力学冻结的位置揭示黎曼零点。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;论文第一作者为本实验室贺冉博士。该工作得到科技部、国家自然科学基金委、中国科学院和安徽省的支持。&lt;/p&gt;
+&lt;p&gt;论文链接：&lt;a
+href="https://doi.org/10.1038/s41534-021-00446-7"&gt;https://doi.org/10.1038/s41534-021-00446-7&lt;/a&gt;&lt;/p&gt;
+</content><category term="News" /></entry><entry><title>绝热开放系统量子热力学的离子阱实验发表于 npj Quantum Information</title><link href="https://ustc-iontrap.github.io/zh/quantum-thermodynamics-adiabatic-open-systems-trapped-ion.html" rel="alternate" /><published>2020-09-18T10:00:00+08:00</published><updated>2020-09-18T10:00:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2020-09-18:/zh/quantum-thermodynamics-adiabatic-open-systems-trapped-ion.html</id><summary type="html">建立绝热开放系统中热、功、内能与熵的一般公式，利用离子阱实验研究量子绝热过程与热力学绝热过程的关系。成果发表于 npj Quantum Information。</summary><content type="html">&lt;p&gt;我们的工作“Quantum thermodynamics in adiabatic open systems and its
+trapped-ion experimental realization”发表于 &lt;strong&gt;npj Quantum
+Information&lt;/strong&gt;。通过与巴西研究者合作，我们建立了绝热开放系统量子热力学的一般公式，连接量子绝热过程与热力学绝热过程，并利用囚禁离子在实验中验证了理论。&lt;/p&gt;
+&lt;h3 id="研究动机"&gt;研究动机&lt;/h3&gt;
+&lt;p&gt;热力学建立在对物质宏观行为的观察之上，在众多系统中取得了成功。随着量子技术的发展，人们能够精确制备和操控量子系统，由此产生一个基本问题：&lt;strong&gt;热力学定律在量子尺度是否仍然适用？&lt;/strong&gt;
+量子热力学逐步发展，从量子力学的微观视角研究热力学定律的涌现及适用边界，并探讨
+Maxwell 妖等长期存在的问题。&lt;/p&gt;
+&lt;h3 id="主要贡献"&gt;主要贡献&lt;/h3&gt;
+&lt;p&gt;量子绝热过程与热力学绝热过程分别是量子理论和热力学的重要组成部分，二者的关系复杂而值得研究。我们推导了开放量子系统中热、功、内能和熵的一般公式，并明确了量子力学绝热性与热力学绝热性&lt;strong&gt;通常并不等价&lt;/strong&gt;；沿稳态轨迹绝热演化的量子系统满足热力学绝热性的一项充分条件。&lt;/p&gt;
+&lt;h3 id="实验验证"&gt;实验验证&lt;/h3&gt;
+&lt;p&gt;实验在我们的离子阱系统中完成。囚禁离子具有长相干时间，以及自旋、运动等多个可控自由度，是量子信息处理的理想平台。我们通过噪声调制载波频率，发展了模拟随时间变化退相干通道的方案，模拟量子退相干通道的保真度超过
+&lt;strong&gt;99.5%&lt;/strong&gt;。借助高保真量子态操控，我们在完全可控的动力学过程中分析了热与内能。&lt;/p&gt;
+&lt;div class="figure" style="max-width: 600px;"&gt;
+&lt;img src="/images/news/quantum_thermodynamics_2020/fig1.jpg" style="max-width: 600px;" title="实验方案" alt="开放量子系统绝热性热力学的实验方案"&gt;
+&lt;p class="caption"&gt;
+图 1. 研究开放量子系统中绝热性热力学的实验方案。（a）六针 Paul
+阱及相关能级示意图。（b）实验微波装置，用于产生驱动场，并控制作为退相干通道的高斯噪声。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;审稿人评价：“关于开放量子系统中热力学绝热过程与量子绝热过程之间的关系，当前工作是为数不多、也可能是最有说服力的理论和实验讨论之一。”&lt;/p&gt;
+&lt;p&gt;论文第一作者为本实验室毕业博士胡长康。该工作得到科技部、国家自然科学基金委、中国科学院、安徽省和博士后科学基金的支持。&lt;/p&gt;
+&lt;p&gt;论文链接：&lt;a
+href="https://doi.org/10.1038/s41534-020-00300-2"&gt;https://doi.org/10.1038/s41534-020-00300-2&lt;/a&gt;&lt;/p&gt;
+</content><category term="News" /></entry><entry><title>超越 Kibble–Zurek 机制的量子临界动力学实验发表于 Communications Physics</title><link href="https://ustc-iontrap.github.io/zh/experimentally-testing-quantum-critical-dynamics-beyond-kibble-zurek.html" rel="alternate" /><published>2020-02-14T10:00:00+08:00</published><updated>2020-02-14T10:00:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2020-02-14:/zh/experimentally-testing-quantum-critical-dynamics-beyond-kibble-zurek.html</id><summary type="html">利用单个囚禁离子重建量子相变中拓扑缺陷的完整概率分布，检验超越平均缺陷数量的普适临界动力学。成果发表于 Communications Physics。</summary><content type="html">&lt;p&gt;我们的工作“Experimentally testing quantum critical dynamics beyond
+the Kibble-Zurek mechanism”发表于 Nature 旗下的 &lt;strong&gt;Communications
+Physics&lt;/strong&gt;。在此前 Kibble–Zurek
+实验的基础上，我们进一步超越标准机制，研究量子相变中形成的拓扑缺陷的&lt;strong&gt;完整概率分布&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id="从平均值到完整计数统计"&gt;从平均值到完整计数统计&lt;/h3&gt;
+&lt;p&gt;Kibble–Zurek
+机制（KZM）描述跨越相变时的普适动力学，预言拓扑缺陷的平均数量随淬火速率遵循普适幂律。然而，KZM
+关注的是缺陷数量的&lt;strong&gt;平均值&lt;/strong&gt;。本工作检验了更丰富的预言：畴壁对的数量服从&lt;strong&gt;泊松二项分布&lt;/strong&gt;，其各个低阶累积量均遵循普适幂律标度。&lt;/p&gt;
+&lt;h3 id="动量空间中的量子模拟"&gt;动量空间中的量子模拟&lt;/h3&gt;
+&lt;p&gt;我们利用单个囚禁 &lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt;
+离子作为动量空间量子模拟器，研究一维量子 Ising
+链在跨越顺磁—铁磁量子相变过程中产生的畴壁对分布。量子 Ising
+模型的每个模式均可映射到一次 Landau–Zener
+能级穿越，其动力学由离子量子比特模拟。通过测量各个模式的激发概率，我们重建了拓扑缺陷的完整计数统计。&lt;/p&gt;
+&lt;h3 id="主要结果"&gt;主要结果&lt;/h3&gt;
+&lt;p&gt;我们在实验中验证了低阶累积量的普适标度，并观察、分析了离子噪声引起的退相干所导致的偏离。结果表明，&lt;strong&gt;临界动力学的普适性超越了
+KZM
+对平均缺陷数量的描述&lt;/strong&gt;，扩展到拓扑缺陷的完整概率分布，为量子相变中的普适性提供了更严格的实验检验。&lt;/p&gt;
+&lt;div class="figure" style="max-width: 600px;"&gt;
+&lt;img src="/images/news/kibble_zurek_2020/fig1.jpg" style="max-width: 600px;" title="实验装置" alt="检验量子临界动力学的离子阱实验装置"&gt;
+&lt;p class="caption"&gt;
+图 1. 实验装置。（a）针状离子阱中囚禁的单个 &lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt;
+离子。（b）量子比特的能级。（c）量子比特由微波场驱动，操作通过任意波形发生器（AWG）编程控制。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;本工作与西班牙 Donostia 国际物理中心的 Fernando Javier Gómez-Ruiz 和
+Adolfo del Campo 合作完成。&lt;/p&gt;
+&lt;p&gt;论文链接：&lt;a
+href="https://doi.org/10.1038/s42005-020-0306-6"&gt;https://doi.org/10.1038/s42005-020-0306-6&lt;/a&gt;&lt;/p&gt;
+</content><category term="News" /></entry><entry><title>抑制残余几何退相干的实验成果发表于 Science Bulletin</title><link href="https://ustc-iontrap.github.io/zh/experimental-demonstration-suppressing-residual-geometric-dephasing.html" rel="alternate" /><published>2019-09-20T10:00:00+08:00</published><updated>2019-09-20T10:00:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2019-09-20:/zh/experimental-demonstration-suppressing-residual-geometric-dephasing.html</id><summary type="html">在单个囚禁离子上验证改进的动力学解耦序列，抑制传统自旋回波与 CPMG 序列中的残余几何退相干。成果发表于 Science Bulletin。</summary><content type="html">&lt;p&gt;我们的工作“Experimental demonstration of suppressing residual
+geometric dephasing”发表于 &lt;strong&gt;Science
+Bulletin&lt;/strong&gt;。我们在单个囚禁 &lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt;
+离子上，利用改进的动力学解耦序列有效抑制了残余几何退相干——这一效应是实现高保真几何量子门的重要障碍。&lt;/p&gt;
+&lt;h3 id="残余几何退相干问题"&gt;残余几何退相干问题&lt;/h3&gt;
+&lt;p&gt;几何相位（Berry
+相位）只依赖演化路径的几何性质，而不依赖具体的动力学过程，因此为容错量子信息处理提供了一条有前景的路径。然而，环境噪声导致的退相干会破坏几何相位。传统的自旋回波（SE）和
+CPMG
+等动力学解耦序列可以消除&lt;strong&gt;动力学退相干&lt;/strong&gt;，却无法降低&lt;strong&gt;残余几何退相干&lt;/strong&gt;，后者限制了高精度几何量子操控。&lt;/p&gt;
+&lt;h3 id="我们的方案"&gt;我们的方案&lt;/h3&gt;
+&lt;p&gt;我们设计了&lt;strong&gt;改进的动力学解耦序列&lt;/strong&gt;，精确选择 Bloch
+球上相邻绝热演化路径的角度。通过调整 SE 和 CPMG
+序列中的倾角，使连续演化区段中积累的几何退相干相互抵消。具体包括两种方案：&lt;/p&gt;
+&lt;ol type="1"&gt;
+&lt;li&gt;&lt;strong&gt;改进的 SE
+序列&lt;/strong&gt;：为相邻演化区段选取不同的倾角，使几何退相干贡献相互抵消。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;改进的 CPMG
+序列&lt;/strong&gt;：将绝热演化路径分为四个部分，并插入交换作用的 π
+脉冲，使净几何退相干为零。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="实验结果"&gt;实验结果&lt;/h3&gt;
+&lt;p&gt;在残余几何退相干占主导的条件下，改进序列相比传统动力学解耦序列将退相干速率降低了&lt;strong&gt;一个数量级以上&lt;/strong&gt;。我们还研究了噪声强度和关联时间对量子系统相干性的影响，验证了这些方法在较宽噪声条件范围内的有效性。&lt;/p&gt;
+&lt;div class="figure" style="max-width: 600px;"&gt;
+&lt;img src="/images/news/geometric_dephasing_2019/fig1.jpg" style="max-width: 600px;" title="Bloch 球上的动力学" alt="Bloch 球上哈密顿量的演化与几何相位"&gt;
+&lt;p class="caption"&gt;
+图 1. Bloch 球上哈密顿量 H 的演化及相应几何相位。（a）哈密顿量 H 与 z
+轴夹角为 θ，绕 z
+轴演化，同时积累动力学相位和几何相位。（b）自旋回波方案使哈密顿量沿相反方向转动，消除动力学相位并获得纯几何相位。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;论文链接：&lt;a
+href="https://doi.org/10.1016/j.scib.2019.09.007"&gt;https://doi.org/10.1016/j.scib.2019.09.007&lt;/a&gt;&lt;/p&gt;
+</content><category term="News" /></entry><entry><title>用于囚禁离子荧光收集的紫外光纤微腔成果发表于 Chinese Physics Letters</title><link href="https://ustc-iontrap.github.io/zh/an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html" rel="alternate" /><published>2017-01-22T10:20:00+08:00</published><updated>2017-01-22T10:20:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2017-01-22:/zh/an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html</id><summary type="html">研制工作在 369 nm 紫外波段的光纤 Fabry–Pérot 微腔，用于增强镱离子的荧光收集，为远程量子连接提供器件基础。成果发表于 Chinese Physics Letters。</summary><content type="html">&lt;p&gt;我们的工作“An Ultraviolet Fiber Fabry–Pérot Cavity for Florescence
+Collection of Trapped Ions”发表于 &lt;strong&gt;Chinese Physics
+Letters&lt;/strong&gt;。我们研制了工作在 369 nm 紫外波段的光纤 Fabry–Pérot
+腔（FFPC），用于增强囚禁 &lt;sup&gt;171&lt;/sup&gt;Yb&lt;sup&gt;+&lt;/sup&gt;
+离子的荧光收集，为可扩展量子网络提供关键器件。&lt;/p&gt;
+&lt;h3 id="为什么使用光纤微腔"&gt;为什么使用光纤微腔？&lt;/h3&gt;
+&lt;p&gt;囚禁离子是量子信息处理的重要平台，而大规模量子计算与远距离量子通信需要在离子之间&lt;strong&gt;远程分发纠缠&lt;/strong&gt;。其中的关键是高效收集光子。光纤
+Fabry–Pérot 腔能够通过较大的 Purcell
+因子增强光子发射速率，同时保持光纤单模与腔模之间的高耦合效率，为低光子收集效率问题提供解决途径。&lt;/p&gt;
+&lt;h3 id="技术进展"&gt;技术进展&lt;/h3&gt;
+&lt;p&gt;我们在坏腔极限下设计 FFPC，以增强 Yb&lt;sup&gt;+&lt;/sup&gt; 离子
+&lt;sup&gt;2&lt;/sup&gt;P&lt;sub&gt;1/2&lt;/sub&gt; 至 &lt;sup&gt;2&lt;/sup&gt;S&lt;sub&gt;1/2&lt;/sub&gt;
+跃迁波段的荧光。利用经过空间滤波的 CO&lt;sub&gt;2&lt;/sub&gt;
+激光加工光纤端面凹镜，获得平均偏心率仅为 &lt;strong&gt;0.22 ± 0.04&lt;/strong&gt;
+的镜面。采用离子束溅射制备紫外高反射膜后，镜面反射率达到
+&lt;strong&gt;99.76%&lt;/strong&gt;，腔精细度为 &lt;strong&gt;1300 ± 100&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id="主要结果"&gt;主要结果&lt;/h3&gt;
+&lt;p&gt;根据实验测得的参数与数值模拟，我们估计：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Purcell 因子&lt;/strong&gt;大于 2.5。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;单模光纤收集效率&lt;/strong&gt;大于 10%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些结果展示了 FFPC
+用于远程离子纠缠的潜力，而远程离子纠缠是构建量子网络与发展分布式量子计算的基础。&lt;/p&gt;
+&lt;div class="figure" style="max-width: 600px;"&gt;
+&lt;img src="/images/news/fiber_cavity_2017/fig1.jpg" style="max-width: 600px;" title="光纤微腔示意图" alt="光纤 Fabry–Pérot 腔的加工装置与镜面表征"&gt;
+&lt;p class="caption"&gt;
+图 1. 制备 FFPC
+的激光加工装置示意图，以及利用原子力显微镜（AFM）获得的光纤端面形貌。装置采用经过空间滤波的
+CO₂ 激光，制备圆度较高的凹镜面。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;论文链接：&lt;a
+href="https://doi.org/10.1088/0256-307X/34/1/013701"&gt;https://doi.org/10.1088/0256-307X/34/1/013701&lt;/a&gt;&lt;/p&gt;
+</content><category term="News" /></entry><entry><title>“动量空间中 Kibble–Zurek 动力学的离子阱量子模拟实验”发表</title><link href="https://ustc-iontrap.github.io/zh/experimental-trapped-ion-quantum-simulation-of-the-kibble-zurek-dynamics-in-momentum-space-is-published.html" rel="alternate" /><published>2016-09-22T10:20:00+08:00</published><updated>2016-09-22T10:20:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2016-09-22:/zh/experimental-trapped-ion-quantum-simulation-of-the-kibble-zurek-dynamics-in-momentum-space-is-published.html</id><summary type="html">研究组首项离子阱实验成果发表于 Scientific Reports：在动量空间模拟量子 Ising 链，实验检验量子区域的 Kibble–Zurek 标度规律。</summary><content type="html">&lt;p&gt;我们的工作“动量空间中 Kibble–Zurek 动力学的离子阱量子模拟实验”发表于
+&lt;strong&gt;Scientific Reports&lt;/strong&gt;。这是课题组自 2013
+年开始建设离子阱平台以来的首项离子阱实验成果。感谢合作者 Le Luo 和
+Adolfo del Campo 在实验与理论方面的贡献。&lt;/p&gt;
+&lt;h3 id="模拟量子相变"&gt;模拟量子相变&lt;/h3&gt;
+&lt;p&gt;Kibble–Zurek
+机制描述了系统跨越连续相变时拓扑缺陷的产生规律。在量子系统中检验这一标度关系，需要精确的初态制备、可控的演化过程，以及对最终激发的准确测量。&lt;/p&gt;
+&lt;p&gt;我们利用单个囚禁离子，在动量空间模拟横场 Ising
+链。每个动量模式都对应一个可单独操控的二能级系统，通过测量各模式的激发概率，重建模拟自旋链中的缺陷密度。&lt;/p&gt;
+&lt;p&gt;实验观察到，以不同速率跨越量子临界点后，缺陷密度遵循预期的幂律标度关系，从而在量子区间检验了
+Kibble–Zurek 机制。&lt;/p&gt;
+&lt;div class="figure" style="max-width: 600px;"&gt;
+&lt;img src="/images/news/scientific_report2016/SetUp.jpg" style="max-width: 600px;" title="实验装置" alt="六针离子阱、镱离子量子比特能级与微波控制装置"&gt;
+&lt;p class="caption"&gt;
+图 1.
+实验平台：六针离子阱、用于编码量子比特的超精细能级，以及驱动模拟动力学的微波控制系统。
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;论文链接：&lt;a href="https://doi.org/10.1038/srep33381"&gt;Scientific
+Reports 6, 33381 (2016)&lt;/a&gt;&lt;/p&gt;
+</content><category term="News" /></entry></feed>

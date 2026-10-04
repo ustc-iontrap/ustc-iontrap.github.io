@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Trapped-ion quantum network — cavities</title>
+  <desc id="desc">Three ion-cavity interfaces joined by photonic links. Opposing white arcs represent cavity mirrors surrounding gold ions.</desc>
+  <rect width="96" height="96" rx="22" fill="#193b80"/>
+  <path d="M39 30 28 52M57 30 68 52M36 68h24" fill="none" stroke="#67d9ec" stroke-width="5" stroke-linecap="round"/>
+  <g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round">
+    <path d="M40 14q-7 9 0 18M56 14q7 9 0 18M16 59q-7 9 0 18M32 59q7 9 0 18M64 59q-7 9 0 18M80 59q7 9 0 18"/>
+  </g>
+  <g fill="#ffc56b"><circle cx="48" cy="23" r="5"/><circle cx="24" cy="68" r="5"/><circle cx="72" cy="68" r="5"/></g>
+</svg>

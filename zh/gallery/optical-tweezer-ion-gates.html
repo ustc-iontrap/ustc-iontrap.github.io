@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="zh" data-bs-theme='light'>
+  <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" >
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" >
+	<meta name="description" content="USTC IonQNet Group" >
+	<meta name="author" content="qng" />
+	<link
+		rel="icon"
+		type="image/svg+xml"
+		href="../../images/brand-concepts/ustc-ion-trap/plum-blade.svg"
+		/>
+ 
+	<link rel="alternate" type="application/atom+xml" title="USTC IonQNet Group Atom Feed" href="../../feeds/all.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="USTC IonQNet Group RSS Feed" href="../../feeds/all.rss.xml" />
+	<link rel="alternate" hreflang="zh" type="application/atom+xml" title="USTC IonQNet Group 中文 Atom Feed" href="../../feeds/all-zh.atom.xml" />
+	<link rel="alternate" hreflang="zh" type="application/rss+xml" title="USTC IonQNet Group 中文 RSS Feed" href="../../feeds/all-zh.rss.xml" />
+	<link rel="alternate" type="application/atom+xml" title="gallery Atom Feed" href="../../feeds/gallery.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="gallery RSS Feed" href="../../feeds/gallery.rss.xml" />
+ 
+	    <title>光镊离子门 · USTC IonQNet Group</title>
+
+
+	<!-- Bootstrap core CSS -->
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="../../theme/bootstrap.css" >
+	<link rel="stylesheet" href="../../theme/bootstrap-icons.css" >
+	<link rel="stylesheet" href="../../theme/prism-okaidia.css" >
+	<link rel="stylesheet" href="../../theme/prism-toolbar.css" >
+	<link rel="stylesheet" href="../../theme/custom.min.css" >
+
+ 
+ 
+
+ 
+	<link rel="stylesheet" href="../../srcs/brand.css" />
+
+  </head>
+
+  <body>
+	<!-- Top link ================================================ -->
+	<span id="Top"></span>
+	<!-- Navbar 2 ================================================ -->
+	<!-- Navbar ================================================== -->
+ 
+
+<nav class="navbar navbar-expand-lg fixed-top bg-primary" data-bs-theme="dark" aria-label="主导航">
+  <div class="container">
+    <a class="navbar-brand site-brand" href="../../zh/index.html" aria-label="USTC IonQNet Group">
+      <img class="site-brand__mark" src="../../images/brand-concepts/ustc-ion-trap/ustc-ionqnet-seal.svg" alt="USTC IonQNet Group logo" />
+      <span class="site-brand__name" aria-hidden="true">
+<span class="site-brand__line">USTC</span><span class="site-brand__line">IonQNet</span><span class="site-brand__line">Group</span>      </span>
+    </a>
+    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+	  data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+	  aria-label="展开或收起导航">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="navbarResponsive">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="../../zh/index.html" >首页</a>
+        </li>
+
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-2" aria-expanded="false">研究方向</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-2">
+            <a class="dropdown-item" href="../../zh/pages/research.html" >研究介绍</a>
+			<div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="../../zh/pages/researches/trapped-ion-qip.html" >离子阱量子计算节点</a>
+            <a class="dropdown-item" href="../../zh/pages/researches/quantum-network-cavity-qed.html" >腔 QED 量子网络</a>
+            <a class="dropdown-item" href="../../zh/pages/researches/hybrid-quantum-network.html" >混合量子网络</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../../zh/pages/people.html" >成员</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../zh/pages/publications.html" >研究论文</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="../../zh/category/news.html" >新闻</a>
+        </li>
+
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-6" aria-expanded="false">联系我们</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-6">
+            <a class="dropdown-item" href="../../zh/pages/contact.html" >地址</a>
+            <a class="dropdown-item" href="../../zh/pages/join-us.html" >加入我们</a>
+            <a class="dropdown-item" href="https://github.com/ustc-iontrap"     target="_blank" rel="noopener noreferrer"
+>Github</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-7" aria-expanded="false">归档</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-7">
+            <a class="dropdown-item" href="../../categories.html" >分类</a>
+          </div>
+        </li>
+      </ul>
+
+      <ul class="nav navbar-nav ml-auto">
+      </ul>
+
+      <!-- Language Switcher -->
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" id="langDropdown"
+             data-bs-toggle="dropdown" aria-expanded="false">
+            <i class="bi bi-globe2" aria-hidden="true"></i>
+            中文
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="langDropdown" data-bs-theme="light">
+              <li><a class="dropdown-item" href="../../gallery/optical-tweezer-ion-gates.html" lang="en" hreflang="en">English</a></li>
+              <li><a class="dropdown-item active" href="../../zh/gallery/optical-tweezer-ion-gates.html" lang="zh" hreflang="zh" aria-current="page">中文</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+	<!-- Header  ================================================== -->
+
+	<!-- Content ================================================== -->
+	<div class="container site-main-shell">
+
+<style>
+  .gallery-album {
+    max-width: 1120px;
+    margin: clamp(2rem, 5vw, 4rem) auto 0;
+  }
+
+  .gallery-album__header {
+    max-width: 800px;
+    margin-bottom: 2rem;
+  }
+
+  .gallery-album__eyebrow {
+    margin-bottom: 0.75rem;
+    color: #55758f;
+    font-size: 0.8rem;
+    font-weight: 650;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+  }
+
+  .gallery-album h1 {
+    margin: 0 0 1.1rem;
+    color: #122f49;
+    font-size: clamp(2rem, 4.5vw, 3.5rem);
+    line-height: 1.12;
+    letter-spacing: -0.025em;
+  }
+
+  .gallery-album__intro {
+    color: #526578;
+    font-size: clamp(1rem, 1.6vw, 1.12rem);
+    line-height: 1.8;
+  }
+
+  .gallery-album__intro p:last-child {
+    margin-bottom: 0;
+  }
+
+  .gallery-album__grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2rem 1.5rem;
+  }
+
+  .gallery-album__photo {
+    min-width: 0;
+    margin: 0;
+  }
+
+  .gallery-album__photo--wide {
+    grid-column: 1 / -1;
+  }
+
+  .gallery-album__photo--compact {
+    grid-column: 1 / -1;
+    width: min(100%, 420px);
+    justify-self: center;
+  }
+
+  .gallery-album__photo--compact .gallery-album__photo-link {
+    aspect-ratio: 1;
+  }
+
+  .gallery-album__photo-link {
+    display: block;
+    overflow: hidden;
+    aspect-ratio: 3 / 2;
+    border-radius: 0.85rem;
+    background: #09151e;
+    box-shadow: 0 0.6rem 1.6rem rgba(12, 35, 54, 0.08);
+    cursor: zoom-in;
+  }
+
+  .gallery-album__photo--portrait .gallery-album__photo-link {
+    aspect-ratio: 2 / 3;
+  }
+
+  .gallery-album__photo-link:focus-visible {
+    outline: 3px solid #2588b6;
+    outline-offset: 5px;
+  }
+
+  .gallery-album__photo-link img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .gallery-album__photo figcaption {
+    margin-top: 0.85rem;
+    color: #526578;
+    font-size: 0.95rem;
+    line-height: 1.65;
+  }
+
+  .gallery-album__story {
+    grid-column: 1 / -1;
+    width: 100%;
+    max-width: 820px;
+    margin: 0.5rem auto;
+    color: #3e5264;
+    font-size: 1.04rem;
+    line-height: 1.85;
+    overflow-wrap: break-word;
+  }
+
+  .gallery-album__story p {
+    margin-bottom: 1.1rem;
+  }
+
+  .gallery-album__story p:last-child {
+    margin-bottom: 0;
+  }
+
+  .gallery-album__story img {
+    display: block;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    max-height: 480px;
+    object-fit: contain;
+    margin: 1.5rem auto;
+    border-radius: 0.65rem;
+  }
+
+  .gallery-album__story h2 {
+    margin: 1.75rem 0 0.8rem;
+    color: #173f5c;
+    font-size: 1.4rem;
+    line-height: 1.4;
+  }
+
+  .gallery-album__story > :first-child {
+    margin-top: 0;
+  }
+
+  .gallery-lightbox {
+    width: min(1200px, calc(100vw - 2rem));
+    height: min(960px, calc(100dvh - 2rem));
+    max-width: none;
+    max-height: none;
+    padding: 1rem;
+    border: 1px solid #31414e;
+    border-radius: 1rem;
+    background: #08121b;
+    color: #f5f8fb;
+  }
+
+  .gallery-lightbox[open] {
+    display: grid;
+    grid-template-rows: auto minmax(0, 1fr) auto;
+    gap: 0.85rem;
+  }
+
+  .gallery-lightbox::backdrop {
+    background: rgba(3, 9, 15, 0.9);
+  }
+
+  .gallery-lightbox__toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .gallery-lightbox__title {
+    margin: 0;
+    color: #d8e4ee;
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  .gallery-lightbox__count {
+    margin-left: 0.8rem;
+    color: #97aec0;
+    white-space: nowrap;
+  }
+
+  .gallery-lightbox button {
+    display: grid;
+    place-items: center;
+    flex-shrink: 0;
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0;
+    border: 1px solid rgba(214, 231, 243, 0.35);
+    border-radius: 50%;
+    background: rgba(8, 18, 27, 0.8);
+    color: #fff;
+    font-size: 1.5rem;
+    line-height: 1;
+  }
+
+  .gallery-lightbox button:hover {
+    background: #26445a;
+  }
+
+  .gallery-lightbox button:focus-visible {
+    outline: 2px solid #90d7fb;
+    outline-offset: 3px;
+  }
+
+  .gallery-lightbox__stage {
+    position: relative;
+    min-height: 0;
+  }
+
+  .gallery-lightbox__image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .gallery-lightbox__previous,
+  .gallery-lightbox__next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .gallery-lightbox__previous {
+    left: 0.3rem;
+  }
+
+  .gallery-lightbox__next {
+    right: 0.3rem;
+  }
+
+  .gallery-lightbox__caption {
+    max-height: 6rem;
+    overflow-y: auto;
+    margin: 0;
+    padding: 0 0.3rem;
+    color: #c1d0dc;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    text-align: center;
+  }
+
+  @media (max-width: 639px) {
+    .gallery-album__grid {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 1.6rem;
+    }
+
+    .gallery-album__header {
+      margin-bottom: 1.5rem;
+    }
+
+    .gallery-lightbox {
+      width: calc(100vw - 1rem);
+      height: calc(100dvh - 1rem);
+      padding: 0.65rem;
+      border-radius: 0.65rem;
+    }
+  }
+</style>
+
+<article class="gallery-album">
+  <header class="gallery-album__header">
+    <p class="gallery-album__eyebrow">量子操控</p>
+    <h1>光镊离子门</h1>
+    <div class="gallery-album__intro">利用紧聚焦光场精确寻址离子、构造新型纠缠门，并通过光镊调控离子晶体的集体运动。</div>
+  </header>
+
+  <div class="gallery-album__grid">
+    <figure class="gallery-album__photo gallery-album__photo--wide">
+      <a class="gallery-album__photo-link" href="../../images/shared/polarization-gradient-gates.webp"
+         data-gallery-photo data-caption="紧聚焦光场驱动横向偏振梯度量子门的概念图。"
+         aria-label="放大查看：紧聚焦光场驱动横向偏振梯度量子门的概念图。">
+        <img src="../../images/shared/polarization-gradient-gates.webp"
+             width="1600" height="1600"
+             loading="eager" decoding="async"
+fetchpriority="high"             alt="紧聚焦光场驱动横向偏振梯度量子门的概念图。">
+      </a>
+      <figcaption>紧聚焦光场驱动横向偏振梯度量子门的概念图。</figcaption>
+    </figure>
+    <div class="gallery-album__story"><h2 id="利用光学-magnus-效应构造可寻址量子门">利用光学 Magnus
+效应构造可寻址量子门</h2>
+<p>紧聚焦光场不仅能形成精细的寻址光斑，其空间偏振梯度也为离子的自旋与运动耦合提供了新的途径。我们利用光学
+Magnus
+效应，实现由同向传播的拉曼光驱动的可寻址纠缠门：操控光从离子阱一侧入射，经同一物镜聚焦，在简化光学接口的同时，保留对目标离子的灵活选择能力。</p>
+<p>这项工作发表于 <a href="https://doi.org/10.1103/w5l6-wmrl">Physical
+Review Letters 135,
+260604（2025）</a>。经态制备与测量误差校正后，两离子链和四离子链中的
+Bell 态保真度分别为 <strong>98.7(1)% 和 97.2(4)%</strong>。</p>
+<h2 id="从精确寻址走向声子调控">从精确寻址走向声子调控</h2>
+<p>我们将单侧偏振梯度操控与原位像差校正、轴向运动模式耦合相结合，发展低串扰、灵活的离子门技术。光镊形成的局域势还可以调节离子的运动：在已演示的离子振动频率调控基础上，我们进一步研究动态重塑离子晶体中的声子模式，降低非目标运动模式引起的串扰。</p>
+<p><a
+href="/zh/pages/researches/trapped-ion-qip.html">进一步了解离子阱量子计算节点
+→</a></p>
+<p><a
+href="/zh/gallery/high-optical-access-trap.html">查看高通光离子阱（HOA
+trap）装置相册 →</a></p>
+</div>
+  </div>
+</article>
+
+<dialog class="gallery-lightbox" id="gallery-lightbox" aria-labelledby="gallery-lightbox-title"
+        aria-describedby="gallery-lightbox-caption">
+  <div class="gallery-lightbox__toolbar">
+    <h2 class="gallery-lightbox__title" id="gallery-lightbox-title">
+      图片预览
+      <span class="gallery-lightbox__count" aria-live="polite"></span>
+    </h2>
+    <button type="button" class="gallery-lightbox__close" autofocus
+            aria-label="关闭图片预览">&times;</button>
+  </div>
+  <div class="gallery-lightbox__stage">
+    <img class="gallery-lightbox__image" alt="">
+  </div>
+  <p class="gallery-lightbox__caption" id="gallery-lightbox-caption"></p>
+</dialog>
+
+<script>
+  (function () {
+    const dialog = document.getElementById('gallery-lightbox');
+    const photos = Array.from(document.querySelectorAll('[data-gallery-photo]'));
+    if (!dialog || typeof dialog.showModal !== 'function' || !photos.length) return;
+
+    const image = dialog.querySelector('.gallery-lightbox__image');
+    const caption = dialog.querySelector('.gallery-lightbox__caption');
+    const count = dialog.querySelector('.gallery-lightbox__count');
+    let currentIndex = 0;
+    let opener = null;
+    let previousBodyOverflow = '';
+
+    function showPhoto(index) {
+      currentIndex = (index + photos.length) % photos.length;
+      const photo = photos[currentIndex];
+      image.src = photo.href;
+      image.alt = photo.dataset.caption;
+      caption.textContent = photo.dataset.caption;
+      count.textContent = (currentIndex + 1) + ' / ' + photos.length;
+    }
+
+    photos.forEach(function (photo, index) {
+      photo.addEventListener('click', function (event) {
+        if (event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+        event.preventDefault();
+        opener = photo;
+        previousBodyOverflow = document.body.style.overflow;
+        showPhoto(index);
+        dialog.showModal();
+        document.body.style.overflow = 'hidden';
+      });
+    });
+
+    dialog.querySelector('.gallery-lightbox__close').addEventListener('click', function () {
+      dialog.close();
+    });
+    dialog.querySelector('.gallery-lightbox__previous')?.addEventListener('click', function () {
+      showPhoto(currentIndex - 1);
+    });
+    dialog.querySelector('.gallery-lightbox__next')?.addEventListener('click', function () {
+      showPhoto(currentIndex + 1);
+    });
+    dialog.addEventListener('keydown', function (event) {
+      if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
+        event.preventDefault();
+        showPhoto(currentIndex + (event.key === 'ArrowRight' ? 1 : -1));
+      }
+    });
+    // Native dialog handles Escape and keyboard focus confinement.
+    dialog.addEventListener('close', function () {
+      document.body.style.overflow = previousBodyOverflow;
+      if (opener) opener.focus({ preventScroll: true });
+    });
+  }());
+</script>
+
+	  <!-- Footer  ================================================== -->
+   <footer id="footer">
+    <div class="row">
+      <div class="col-lg-12">
+        <ul class="list-unstyled">
+          <li class="float-end"><a href="#Top">返回顶部</a></li>
+          <li><a href="http://www.ustc.edu.cn">USTC</a></li>
+          <li><a href="http://lqcc.ustc.edu.cn">LQCC</a></li>
+          <li><a href="https://github.com/ustc-iontrap">GitHub</a></li>
+          <li><a href="../../feeds/all-zh.atom.xml" type="application/atom+xml"><i class="bi bi-rss-fill"></i> Atom</a></li>
+          <li><a href="../../feeds/all-zh.rss.xml" type="application/rss+xml">RSS</a></li>
+        </ul>
+        <p>维护：<a href="mailto:jmcui000@gmail.com">Jin-Ming Cui</a>.</p>
+      </div>
+    </div>
+  </footer>
+
+	</div>
+
+	<script src="../../theme/bootstrap.bundle.min.js"></script>
+	<script src="../../theme/prism.js"></script>
+	<script src="../../theme/custom.js"></script>
+	<script src="../../theme/prism-autoloader.js"></script>
+	<script src="../../theme/prism-toolbar.js"></script>
+	<script src="../../theme/prism-copy-to-clipboard.js"></script>
+<script>
+  (function () {
+    let site;
+    let endpoint;
+    try {
+      site = new URL("https://ustc-iontrap.github.io");
+      endpoint = new URL("https://ustc-iontrap.goatcounter.com/count");
+    } catch (_) {
+      return;
+    }
+
+    // Published HTML may also be served locally for debugging.
+    const host = window.location.hostname.toLowerCase().replace(/\.$/, '');
+    const localHost = /^(localhost|0\.0\.0\.0|\[::1\])$/.test(host)
+      || /\.(localhost|local)$/.test(host)
+      || /^(127\.|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2[0-9]|3[01])\.)/.test(host)
+      || /^\[(::|f[cd][0-9a-f]{2}:.*|fe[89ab][0-9a-f]:.*)\]$/.test(host);
+    if (localHost || !/^https?:$/.test(window.location.protocol)
+        || window.location.origin !== site.origin || endpoint.protocol !== 'https:') {
+      return;
+    }
+
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://gc.zgo.at/count.js';
+    script.setAttribute('data-goatcounter', endpoint.href);
+    script.setAttribute('data-goatcounter-settings', '{"allow_local": false}');
+    document.body.appendChild(script);
+  })();
+</script>
+  </body>
+</html>

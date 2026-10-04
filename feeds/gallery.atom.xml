@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>USTC IonQNet Group - gallery</title><link href="https://ustc-iontrap.github.io/" rel="alternate" /><link href="https://ustc-iontrap.github.io/feeds/gallery.atom.xml" rel="self" /><id>https://ustc-iontrap.github.io/</id><updated>2026-10-03T00:00:00+08:00</updated><entry><title>High optical access (HOA) trap</title><link href="https://ustc-iontrap.github.io/gallery/high-optical-access-trap.html" rel="alternate" /><published>2026-10-03T00:00:00+08:00</published><updated>2026-10-03T00:00:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2026-10-03:/gallery/high-optical-access-trap.html</id><summary type="html">A miniature blade trap in an all-glass cell, with high-NA optical access from four directions for precise addressing, imaging, readout and optical-tweezer control.</summary><content type="html">&lt;html&gt;&lt;body&gt;&lt;h2 id="four-directions-of-high-na-optical-access"&gt;Four directions of
+high-NA optical access&lt;/h2&gt;
+&lt;p&gt;Our &lt;a href="https://doi.org/10.1063/5.0043985"&gt;high-optical-access
+apparatus (Review of Scientific Instruments, 2021)&lt;/a&gt; places a
+miniaturized blade-electrode ion trap in an all-glass cell, opening
+optical paths for tightly focused control beams and fluorescence
+collection. The geometry supports high-numerical-aperture objectives
+from four directions. These objectives provide multi-directional
+addressing, ion imaging and quantum-state readout, allowing the optical
+system to be configured around the needs of each experiment.&lt;/p&gt;
+&lt;h2 id="from-precise-addressing-to-new-quantum-gates"&gt;From precise
+addressing to new quantum gates&lt;/h2&gt;
+&lt;p&gt;The HOA platform supports our research on ion control with tightly
+focused light and optical tweezers. We used its optical access to
+develop &lt;a href="https://doi.org/10.1103/PhysRevApplied.22.054003"&gt;low-crosstalk
+dual-sided Raman addressing&lt;/a&gt;, then used the optical Magnus effect to
+implement &lt;a href="https://doi.org/10.1103/w5l6-wmrl"&gt;addressed
+entangling gates with single-sided polarization-gradient control&lt;/a&gt;.
+Together with &lt;a href="https://doi.org/10.3788/COL202624.010201"&gt;in-situ
+aberration correction using an ion probe&lt;/a&gt;, high-quality focused
+fields allow us to select individual qubits and couple to axial motion
+along an ion chain.&lt;/p&gt;
+&lt;h2 id="optical-control-of-the-crystals-motional-spectrum"&gt;Optical
+control of the crystal’s motional spectrum&lt;/h2&gt;
+&lt;p&gt;The open optical geometry also allows local optical-tweezer
+potentials to be combined with electrical confinement. We have
+demonstrated optical control of an ion’s vibrational frequency and are
+investigating how local light fields can dynamically reshape the
+frequencies and spatial structure of phonon modes in a crystal. This
+approach aims to reduce crosstalk from unwanted motional modes and
+provide additional control for high-fidelity gates directly within ion
+crystals.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/pages/researches/trapped-ion-qip.html"&gt;Explore our
+trapped-ion quantum computing research →&lt;/a&gt;&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</content><category term="gallery" /></entry><entry><title>Optical-tweezer ion gates</title><link href="https://ustc-iontrap.github.io/gallery/optical-tweezer-ion-gates.html" rel="alternate" /><published>2026-10-03T00:00:00+08:00</published><updated>2026-10-03T00:00:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2026-10-03:/gallery/optical-tweezer-ion-gates.html</id><summary type="html">Tightly focused light opens new ways to address trapped ions, generate entangling gates and control their collective motion.</summary><content type="html">&lt;html&gt;&lt;body&gt;&lt;h2 id="addressed-gates-with-the-optical-magnus-effect"&gt;Addressed gates
+with the optical Magnus effect&lt;/h2&gt;
+&lt;p&gt;Tightly focused light provides more than a small addressing spot: its
+spatially varying polarization offers a new way to couple an ion’s spin
+to its motion. Using the optical Magnus effect, we implemented addressed
+entangling gates driven by co-propagating Raman light through a single
+objective. This geometry simplifies the optical interface while
+retaining flexible selection of the ions involved in the gate.&lt;/p&gt;
+&lt;p&gt;The work was reported in &lt;a href="https://doi.org/10.1103/w5l6-wmrl"&gt;Physical Review Letters 135,
+260604 (2025)&lt;/a&gt;. After correcting for state-preparation and
+measurement errors, the measured Bell-state fidelities were
+&lt;strong&gt;98.7(1)% in a two-ion chain and 97.2(4)% in a four-ion
+chain&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id="from-precise-addressing-to-phonon-control"&gt;From precise
+addressing to phonon control&lt;/h2&gt;
+&lt;p&gt;We combine single-sided polarization-gradient control with in-situ
+aberration correction and coupling to axial motional modes. Optical
+tweezers also provide local potentials for tuning ion motion; building
+on demonstrated control of an ion’s vibrational frequency, we are
+developing ways to reshape phonon modes within ion crystals and reduce
+unwanted motional crosstalk.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/pages/researches/trapped-ion-qip.html"&gt;Explore the
+trapped-ion quantum computing research →&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/gallery/high-optical-access-trap.html"&gt;See the high optical
+access (HOA) trap →&lt;/a&gt;&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</content><category term="gallery" /></entry><entry><title>Quantum Interface Concept</title><link href="https://ustc-iontrap.github.io/gallery/quantum-interface-concept.html" rel="alternate" /><published>2026-03-28T10:23:00+08:00</published><updated>2026-03-28T10:23:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2026-03-28:/gallery/quantum-interface-concept.html</id><summary type="html">Connecting stationary matter qubits through optical quantum channels.</summary><content type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;Quantum interfaces connect stationary matter qubits to photons that
+carry quantum information between remote nodes. In our research, trapped
+ions provide coherent local processing, while cavity interfaces and
+frequency conversion connect those processors to optical channels and
+other quantum systems.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/pages/research.html"&gt;Explore our quantum-network research
+→&lt;/a&gt;&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</content><category term="gallery" /></entry><entry><title>Hybrid Quantum Network</title><link href="https://ustc-iontrap.github.io/gallery/hybrid-quantum-network.html" rel="alternate" /><published>2026-03-28T10:21:00+08:00</published><updated>2026-03-28T10:21:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2026-03-28:/gallery/hybrid-quantum-network.html</id><summary type="html">Connecting trapped-ion processors and solid-state quantum memories through quantum frequency conversion.</summary><content type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;Trapped ions provide long-lived coherence and high-fidelity quantum
+operations, while solid-state memories store photonic quantum states. We
+develop interfaces that combine these capabilities in a hybrid network,
+connecting local ion control with remote optical storage.&lt;/p&gt;
+&lt;p&gt;Our polarization-preserving frequency converter bridges the 369.5 nm
+emission of a ytterbium ion and the 580 nm transition of a
+europium-doped crystal memory. A Sagnac loop stabilizes the polarization
+components, and off-axis parabolic mirrors provide achromatic coupling
+across the wavelength bands (&lt;a href="https://doi.org/10.3788/COL202624.021901"&gt;Chinese Optics Letters,
+2026&lt;/a&gt;). The two figures show the network architecture and the
+experimental system linking the ion node, frequency converter and
+memory.&lt;/p&gt;
+&lt;p&gt;Working with Professor Zong-Quan Zhou’s team, we established
+ion–memory entanglement between laboratories separated by 75 m and
+connected by 90 m of optical fiber. Joint measurements after storage and
+retrieval verify quantum correlations across this heterogeneous link.
+The experiment is reported in the preprint &lt;a href="https://arxiv.org/abs/2603.05836"&gt;Heterogeneous entanglement
+between a trapped ion and a solid-state quantum memory
+(arXiv:2603.05836)&lt;/a&gt;, with further details in &lt;a href="http://lqcc.ustc.edu.cn/iontrap/publications/files/thesis/2026_hybrid-quantum-networks-trapped-ions-solid-state-memories_wang-chenxu.pdf"&gt;Chen-Xu
+Wang’s doctoral thesis (2026)&lt;/a&gt;. We plan to extend these interfaces to
+neutral-atom systems and explore distributed quantum computing across
+physical platforms.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/pages/researches/hybrid-quantum-network.html"&gt;Explore our
+hybrid quantum network research →&lt;/a&gt;&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</content><category term="gallery" /></entry><entry><title>Cavity QED Interface</title><link href="https://ustc-iontrap.github.io/gallery/cavity-qed-interface.html" rel="alternate" /><published>2026-03-28T10:20:00+08:00</published><updated>2026-03-28T10:20:00+08:00</updated><author><name>qng</name></author><id>tag:ustc-iontrap.github.io,2026-03-28:/gallery/cavity-qed-interface.html</id><summary type="html">From gold-coated fiber mirrors to needle-trap integration: building high-bandwidth, high-efficiency ion–photon interfaces.</summary><content type="html">&lt;html&gt;&lt;body&gt;&lt;p&gt;We integrate fiber microcavities with needle ion traps to develop
+ion–photon interfaces for quantum networks. The small cavity mode volume
+enhances ion–cavity coupling, while the fibers provide channels for
+collecting and transmitting photons. By designing the mirrors, trapping
+geometry and optical coupling together, we aim to build network nodes
+that combine high bandwidth with high efficiency.&lt;/p&gt;
+&lt;p&gt;The photographs show the hardware behind this interface. Gold coating
+on the fiber sides and the outer regions of the end faces provides
+electrical shielding while leaving the central optical apertures open.
+Two opposing fiber mirrors form a microcavity, which is integrated with
+the needle trap inside the vacuum chamber. The fluorescence image of a
+single Ba⁺ ion between the mirrors shows the ion confined within this
+cavity geometry.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/pages/researches/quantum-network-cavity-qed.html"&gt;Explore
+quantum networking with cavity QED →&lt;/a&gt;&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</content><category term="gallery" /></entry></feed>

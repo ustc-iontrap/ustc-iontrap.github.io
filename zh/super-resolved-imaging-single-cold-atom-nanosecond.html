@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="zh" data-bs-theme='light'>
+  <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" >
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" >
+	<meta name="description" content="USTC IonQNet Group" >
+	<meta name="author" content="qng" />
+	<link
+		rel="icon"
+		type="image/svg+xml"
+		href="../images/brand-concepts/ustc-ion-trap/plum-blade.svg"
+		/>
+ 
+	<link rel="alternate" type="application/atom+xml" title="USTC IonQNet Group Atom Feed" href="../feeds/all.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="USTC IonQNet Group RSS Feed" href="../feeds/all.rss.xml" />
+	<link rel="alternate" hreflang="zh" type="application/atom+xml" title="USTC IonQNet Group 中文 Atom Feed" href="../feeds/all-zh.atom.xml" />
+	<link rel="alternate" hreflang="zh" type="application/rss+xml" title="USTC IonQNet Group 中文 RSS Feed" href="../feeds/all-zh.rss.xml" />
+	<link rel="alternate" type="application/atom+xml" title="News Atom Feed" href="../feeds/news.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="News RSS Feed" href="../feeds/news.rss.xml" />
+ 
+	    <title>“单冷原子的纳秒尺度超分辨成像”发表于 Physical Review Letters · USTC IonQNet Group</title>
+
+
+	<!-- Bootstrap core CSS -->
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="../theme/bootstrap.css" >
+	<link rel="stylesheet" href="../theme/bootstrap-icons.css" >
+	<link rel="stylesheet" href="../theme/prism-okaidia.css" >
+	<link rel="stylesheet" href="../theme/prism-toolbar.css" >
+	<link rel="stylesheet" href="../theme/custom.min.css" >
+
+ 
+ 
+
+ 
+	<link rel="stylesheet" href="../srcs/brand.css" />
+
+  </head>
+
+  <body>
+	<!-- Top link ================================================ -->
+	<span id="Top"></span>
+	<!-- Navbar 2 ================================================ -->
+	<!-- Navbar ================================================== -->
+ 
+
+<nav class="navbar navbar-expand-lg fixed-top bg-primary" data-bs-theme="dark" aria-label="主导航">
+  <div class="container">
+    <a class="navbar-brand site-brand" href="../zh/index.html" aria-label="USTC IonQNet Group">
+      <img class="site-brand__mark" src="../images/brand-concepts/ustc-ion-trap/ustc-ionqnet-seal.svg" alt="USTC IonQNet Group logo" />
+      <span class="site-brand__name" aria-hidden="true">
+<span class="site-brand__line">USTC</span><span class="site-brand__line">IonQNet</span><span class="site-brand__line">Group</span>      </span>
+    </a>
+    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+	  data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+	  aria-label="展开或收起导航">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="navbarResponsive">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/index.html" >首页</a>
+        </li>
+
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-2" aria-expanded="false">研究方向</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-2">
+            <a class="dropdown-item" href="../zh/pages/research.html" >研究介绍</a>
+			<div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="../zh/pages/researches/trapped-ion-qip.html" >离子阱量子计算节点</a>
+            <a class="dropdown-item" href="../zh/pages/researches/quantum-network-cavity-qed.html" >腔 QED 量子网络</a>
+            <a class="dropdown-item" href="../zh/pages/researches/hybrid-quantum-network.html" >混合量子网络</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/pages/people.html" >成员</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/pages/publications.html" >研究论文</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/category/news.html" >新闻</a>
+        </li>
+
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-6" aria-expanded="false">联系我们</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-6">
+            <a class="dropdown-item" href="../zh/pages/contact.html" >地址</a>
+            <a class="dropdown-item" href="../zh/pages/join-us.html" >加入我们</a>
+            <a class="dropdown-item" href="https://github.com/ustc-iontrap"     target="_blank" rel="noopener noreferrer"
+>Github</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-7" aria-expanded="false">归档</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-7">
+            <a class="dropdown-item" href="../categories.html" >分类</a>
+          </div>
+        </li>
+      </ul>
+
+      <ul class="nav navbar-nav ml-auto">
+      </ul>
+
+      <!-- Language Switcher -->
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" id="langDropdown"
+             data-bs-toggle="dropdown" aria-expanded="false">
+            <i class="bi bi-globe2" aria-hidden="true"></i>
+            中文
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="langDropdown" data-bs-theme="light">
+              <li><a class="dropdown-item" href="../super-resolved-imaging-single-cold-atom-nanosecond.html" lang="en" hreflang="en">English</a></li>
+              <li><a class="dropdown-item active" href="../zh/super-resolved-imaging-single-cold-atom-nanosecond.html" lang="zh" hreflang="zh" aria-current="page">中文</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+	<!-- Header  ================================================== -->
+
+	<!-- Content ================================================== -->
+	<div class="container site-main-shell news-detail-page">
+
+    <div class="bs-docs-section">
+      <div class="row">
+            <div class="page-header">
+        <h1><a href="../zh/super-resolved-imaging-single-cold-atom-nanosecond.html">“单冷原子的纳秒尺度超分辨成像”发表于 Physical Review Letters</a></h1>
+    </div>
+
+      </div>
+    </div>
+
+    <div class="bs-docs-section">
+
+        <span id="article_info">
+    <a class="label label-primary"
+      href="../category/news.html">News</a>
+    <!--<span class="glyphicon glyphicon-calendar"></span>-->
+      <b> · </b>
+      <a href="../archives.html#Year2021">2021</a>-<a href="../archives.html#Year2021Month12">12</a>-<a href="../archives.html#Year2021Month12">24</a>
+
+    <!--<span class="glyphicon glyphicon-user"></span>-->
+      <b> · </b>
+    <a href="../author/qng.html">qng</a>
+  </span>
+
+      <hr/>
+
+      <div id="article_content">
+        <p>我们的工作“单冷原子的纳秒尺度超分辨成像”已发表于 <strong>Physical
+Review
+Letters</strong>。我们展示了一种突破性方法，以前所未有的空间和时间分辨率对单个囚禁离子成像，突破了光学衍射极限。</p>
+<h3 id="突破衍射极限">突破衍射极限</h3>
+<p>对冷原子系统中单个粒子进行高分辨率光学探测和成像，是直接研究输运、关联及相变等量子现象的重要手段。然而，传统显微成像技术从根本上受到波长尺度衍射极限的限制，不适合研究多体系统波函数的细节。我们将已在生物学和化学中发展为强大工具的超分辨显微成像概念引入冷原子领域。</p>
+<h3 id="我们的方法基态耗尽显微成像">我们的方法：基态耗尽显微成像</h3>
+<p>我们首次在离子阱系统中演示了<strong>基态耗尽（GSD）显微成像</strong>。通过将
+GSD 控制序列与 <sup>171</sup>Yb<sup>+</sup>
+离子的量子比特态极化和探测方法相结合，我们实现了突破光学衍射极限的二维超分辨成像。关键创新在于，利用<strong>数字微镜器件（DMD）</strong>及原位像差校正产生高纯度的环形激光束，选择性地耗尽离子的量子态。</p>
+<h3 id="实验结果">实验结果</h3>
+<p>使用数值孔径 NA = 0.1 的成像物镜，我们实现了 <strong>175 nm</strong>
+的空间分辨率，相比直接荧光成像<strong>提升了 13
+倍</strong>。此外，在较强激光功率下，耗尽过程可以短至约 50
+ns，使我们能够在纳秒时间尺度上进行频闪成像。我们通过在 <strong>735
+ns</strong> 内观测离子久期运动的一个完整周期，展示了这一能力，并实现了
+<strong>10 nm</strong> 的位移探测灵敏度。</p>
+<div class="figure" style="max-width: 600px;">
+<img src="/images/news/super_resolved_imaging_2021/fig1.jpg" style="max-width: 600px;" title="实验方案" alt="超分辨成像的实验方案与装置">
+<p class="caption">
+图 1. 实验方案与装置。（a）<sup>171</sup>Yb<sup>+</sup> 的能级以及三激光
+GSD 成像序列。（b）环形光束经顶部窗口聚焦的 Paul
+阱。（c）超分辨成像过程示意图：逐像素扫描环形光斑，构建超分辨图像。
+</p>
+</div>
+<p>我们的方法为研究冷原子系统中的粒子位置、动量、关联和动力学提供了强有力的工具，并且可以方便地推广到光镊中的中性原子。</p>
+<p>论文链接：<a
+href="https://doi.org/10.1103/PhysRevLett.127.263603">https://doi.org/10.1103/PhysRevLett.127.263603</a></p>
+
+      </div>
+
+      <hr/>
+
+          <nav class="d-flex justify-content-between gap-3 my-4" aria-label="新闻翻页">
+              <a href="../zh/neural-network-assisted-yb-quantum-magnetometer.html">&laquo; 较新新闻</a>
+              <a href="../zh/riemann-zeros-floquet-engineering-trapped-ion.html">较早新闻 &raquo;</a>
+          </nav>
+
+    </div>
+
+	  <!-- Footer  ================================================== -->
+   <footer id="footer">
+    <div class="row">
+      <div class="col-lg-12">
+        <ul class="list-unstyled">
+          <li class="float-end"><a href="#Top">返回顶部</a></li>
+          <li><a href="http://www.ustc.edu.cn">USTC</a></li>
+          <li><a href="http://lqcc.ustc.edu.cn">LQCC</a></li>
+          <li><a href="https://github.com/ustc-iontrap">GitHub</a></li>
+          <li><a href="../feeds/all-zh.atom.xml" type="application/atom+xml"><i class="bi bi-rss-fill"></i> Atom</a></li>
+          <li><a href="../feeds/all-zh.rss.xml" type="application/rss+xml">RSS</a></li>
+        </ul>
+        <p>维护：<a href="mailto:jmcui000@gmail.com">Jin-Ming Cui</a>.</p>
+      </div>
+    </div>
+  </footer>
+
+	</div>
+
+	<script src="../theme/bootstrap.bundle.min.js"></script>
+	<script src="../theme/prism.js"></script>
+	<script src="../theme/custom.js"></script>
+	<script src="../theme/prism-autoloader.js"></script>
+	<script src="../theme/prism-toolbar.js"></script>
+	<script src="../theme/prism-copy-to-clipboard.js"></script>
+<script>
+  (function () {
+    let site;
+    let endpoint;
+    try {
+      site = new URL("https://ustc-iontrap.github.io");
+      endpoint = new URL("https://ustc-iontrap.goatcounter.com/count");
+    } catch (_) {
+      return;
+    }
+
+    // Published HTML may also be served locally for debugging.
+    const host = window.location.hostname.toLowerCase().replace(/\.$/, '');
+    const localHost = /^(localhost|0\.0\.0\.0|\[::1\])$/.test(host)
+      || /\.(localhost|local)$/.test(host)
+      || /^(127\.|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2[0-9]|3[01])\.)/.test(host)
+      || /^\[(::|f[cd][0-9a-f]{2}:.*|fe[89ab][0-9a-f]:.*)\]$/.test(host);
+    if (localHost || !/^https?:$/.test(window.location.protocol)
+        || window.location.origin !== site.origin || endpoint.protocol !== 'https:') {
+      return;
+    }
+
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://gc.zgo.at/count.js';
+    script.setAttribute('data-goatcounter', endpoint.href);
+    script.setAttribute('data-goatcounter-settings', '{"allow_local": false}');
+    document.body.appendChild(script);
+  })();
+</script>
+  </body>
+</html>

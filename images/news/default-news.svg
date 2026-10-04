@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-labelledby="title desc">
+  <title>News</title>
+  <desc>Default newspaper illustration for news items.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#eef6ff"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="180" rx="24" fill="url(#bg)"/>
+  <rect x="34" y="28" width="172" height="124" rx="12" fill="#ffffff" stroke="#86b7fe" stroke-width="4"/>
+  <rect x="50" y="46" width="54" height="42" rx="6" fill="#cfe2ff"/>
+  <rect x="114" y="48" width="74" height="8" rx="4" fill="#6ea8fe"/>
+  <rect x="114" y="63" width="62" height="8" rx="4" fill="#9ec5fe"/>
+  <rect x="114" y="78" width="70" height="8" rx="4" fill="#9ec5fe"/>
+  <rect x="50" y="102" width="138" height="8" rx="4" fill="#9ec5fe"/>
+  <rect x="50" y="117" width="128" height="8" rx="4" fill="#9ec5fe"/>
+  <rect x="50" y="132" width="90" height="8" rx="4" fill="#9ec5fe"/>
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1040" viewBox="0 0 1200 1040" role="img" aria-labelledby="title desc">
+<title id="title">中国科大东校区实验室位置图</title><desc id="desc">Simplified campus orientation map. Laboratory highlighted in red; surrounding main roads and nearby hotels labelled.</desc>
+<g font-family="Source Han Sans CN, Noto Sans CJK SC, PingFang SC, Microsoft YaHei, Arial, sans-serif">
+<rect x="0" y="0" width="1200" height="1040" rx="0" fill="#fff" stroke="none"/>
+<text x="56" y="65" font-size="34" fill="#183a5a" font-weight="700" text-anchor="start">中国科大 · 东校区</text>
+<text x="56" y="100" font-size="20" fill="#677b8e" font-weight="400" text-anchor="start">实验室位置与周边交通</text>
+<rect x="36" y="132" width="1128" height="832" rx="18" fill="#f5f7fa" stroke="#e0e6ed"/>
+<path d="M 75,300 L 1130,300" fill="none" stroke="#d6dde5" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M 990,210 L 990,928" fill="none" stroke="#d6dde5" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M 240,900 L 990,926" fill="none" stroke="#d6dde5" stroke-width="42" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M 560,300 L 250,900" fill="none" stroke="#d6dde5" stroke-width="44" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M 75,300 L 1130,300" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 12"/>
+<path d="M 990,210 L 990,928" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 12"/>
+<path d="M 240,900 L 990,926" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 12"/>
+<path d="M 560,300 L 250,900" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 12"/>
+<path d="M580 326 L963 326 L963 892 L280 874 Z" fill="#eaf2ec" stroke="#c3d3c7" stroke-width="2"/>
+<path d="M 565,386 L 935,386" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M 488,488 L 935,488" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M 442,620 L 935,620" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M 335,790 L 935,790" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M 695,385 L 695,872" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M 865,385 L 865,872" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="612" y="340" width="130" height="32" rx="8" fill="#c6d8e7" stroke="#aac2d6"/>
+<text x="677" y="362" font-size="17" fill="#344960" font-weight="400" text-anchor="middle">教学行政楼</text>
+<rect x="796" y="340" width="152" height="32" rx="8" fill="#c6d8e7" stroke="#aac2d6"/>
+<text x="872" y="362" font-size="17" fill="#344960" font-weight="400" text-anchor="middle">管理科研楼</text>
+<rect x="752" y="397" width="122" height="48" rx="8" fill="#c6d8e7" stroke="#aac2d6"/>
+<text x="813" y="427" font-size="17" fill="#344960" font-weight="400" text-anchor="middle">第五教学楼</text>
+<rect x="590" y="445" width="68" height="45" rx="8" fill="#e9dcca" stroke="#d4c3a7"/>
+<text x="625" y="438" font-size="18" fill="#344960" font-weight="400" text-anchor="middle">专家楼</text>
+<path d="M563 503 Q533 488 527 523 Q529 560 550 554 Q573 577 583 546 Q598 519 563 503Z" fill="#acd3e4"/>
+<text x="557" y="584" font-size="18" fill="#344960" font-weight="400" text-anchor="middle">眼镜湖</text>
+<rect x="557" y="603" width="106" height="41" rx="8" fill="#c6d8e7" stroke="#aac2d6"/>
+<text x="610" y="628" font-size="16" fill="#344960" font-weight="400" text-anchor="middle">第一教学楼</text>
+<rect x="557" y="688" width="106" height="42" rx="8" fill="#c6d8e7" stroke="#aac2d6"/>
+<text x="610" y="715" font-size="18" fill="#344960" font-weight="400" text-anchor="middle">图书馆</text>
+<rect x="430" y="701" width="78" height="108" rx="30" fill="#c9dfbf" stroke="#b1cba4"/>
+<text x="469" y="762" font-size="18" fill="#344960" font-weight="400" text-anchor="middle">运动场</text>
+<rect x="754" y="788" width="115" height="67" rx="8" fill="#c6d8e7" stroke="#aac2d6"/>
+<text x="811" y="827" font-size="18" fill="#344960" font-weight="400" text-anchor="middle">物质科研楼</text>
+<text x="792" y="571" font-size="26" fill="#6f8878" font-weight="600" text-anchor="middle">中国科学技术大学</text>
+<text x="792" y="603" font-size="23" fill="#6f8878" font-weight="500" text-anchor="middle">东校区</text>
+<rect x="578" y="319" width="24" height="14" rx="3" fill="#234e78" stroke="none"/>
+<rect x="439" y="563" width="24" height="14" rx="3" fill="#234e78" stroke="none"/>
+<rect x="893" y="892" width="24" height="14" rx="3" fill="#234e78" stroke="none"/>
+<text x="595" y="279" font-size="20" fill="#344960" font-weight="400" text-anchor="middle">北门</text>
+<text x="415" y="567" font-size="20" fill="#234e78" font-weight="600" text-anchor="end">西门</text>
+<text x="900" y="871" font-size="20" fill="#344960" font-weight="400" text-anchor="middle">南门</text>
+<text x="772" y="307" font-size="25" fill="#344960" font-weight="400" text-anchor="middle">黄 山 路</text>
+<text x="1034" y="658" font-size="25" fill="#52677b" font-weight="500" text-anchor="middle" transform="rotate(-90 1034 658)">宿 松 路</text>
+<text x="332" y="739" font-size="25" fill="#52677b" font-weight="500" text-anchor="middle" transform="rotate(-62 332 739)">金 寨 路</text>
+<text x="651" y="923" font-size="25" fill="#344960" font-weight="400" text-anchor="middle">太 湖 路</text>
+<rect x="143" y="218" width="30" height="30" rx="7" fill="#ad7a35" stroke="none"/>
+<text x="158" y="241" font-size="21" fill="#fff" font-weight="700" text-anchor="middle">H</text>
+<text x="183" y="232" font-size="21" fill="#6f502a" font-weight="600" text-anchor="start">亚朵酒店</text>
+<text x="183" y="257" font-size="16" fill="#7e7467" font-weight="400" text-anchor="start">黄山路中科大店</text>
+<rect x="677" y="164" width="30" height="30" rx="7" fill="#ad7a35" stroke="none"/>
+<text x="692" y="187" font-size="21" fill="#fff" font-weight="700" text-anchor="middle">H</text>
+<text x="717" y="178" font-size="21" fill="#6f502a" font-weight="600" text-anchor="start">汉庭酒店</text>
+<text x="717" y="203" font-size="16" fill="#7e7467" font-weight="400" text-anchor="start">金寨路安医附院店</text>
+<rect x="78" y="845" width="30" height="30" rx="7" fill="#ad7a35" stroke="none"/>
+<text x="93" y="868" font-size="21" fill="#fff" font-weight="700" text-anchor="middle">H</text>
+<text x="118" y="859" font-size="21" fill="#6f502a" font-weight="600" text-anchor="start">悦雅江南春酒店</text>
+<text x="118" y="884" font-size="16" fill="#7e7467" font-weight="400" text-anchor="start">金寨路64号</text>
+<rect x="1037" y="348" width="34" height="30" rx="6" fill="#207b8b" stroke="none"/>
+<text x="1054" y="370" font-size="21" fill="#fff" font-weight="700" text-anchor="middle">5</text>
+<text x="1020" y="405" font-size="18" fill="#207b8b" font-weight="600" text-anchor="middle">中国科大东区站</text>
+<text x="1020" y="430" font-size="17" fill="#207b8b" font-weight="400" text-anchor="middle">地铁5号线</text>
+<rect x="897" y="389" width="46" height="74" rx="5" fill="#eeb2ad" stroke="#c83732"/>
+<circle cx="920" cy="426" r="20" fill="#fff" stroke="#c83732" stroke-width="3"/><circle cx="920" cy="426" r="9" fill="#c83732"/>
+<path d="M 943,426 L 970,426 L 970,290 L 1043,290 L 1043,281" fill="none" stroke="#c83732" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="834" y="209" width="293" height="72" rx="10" fill="#fff" stroke="#c83732"/>
+<text x="980" y="239" font-size="24" fill="#b92f2c" font-weight="700" text-anchor="middle">量子信息重点实验室</text>
+<text x="980" y="265" font-size="18" fill="#b92f2c" font-weight="500" text-anchor="middle">我们在这里</text>
+<text x="1103" y="43" font-size="18" fill="#183a5a" font-weight="600" text-anchor="middle">北 / N</text>
+<path d="M1103 96 L1103 59" fill="none" stroke="#183a5a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M1103 54 L1096 69 L1110 69Z" fill="#183a5a"/>
+<text x="55" y="993" font-size="18" fill="#52677b" font-weight="400" text-anchor="start">位置示意 · 非等比例  |  红色：实验室  蓝色：校门  H：宾馆</text>
+<text x="55" y="1020" font-size="16" fill="#7b8c9a" font-weight="400" text-anchor="start">参考：中国科大官方校园地图；地点核对：高德地图 · 2026.10</text>
+</g></svg>

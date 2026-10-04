@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Trapped-ion quantum network — hub</title>
+  <desc id="desc">A central trapped-ion interface connected to three remote quantum nodes by cyan photonic channels.</desc>
+  <rect width="96" height="96" rx="22" fill="#193b80"/>
+  <path d="M48 36V23M37 54 24 65M59 54 72 65" fill="none" stroke="#67d9ec" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#193b80" stroke="#fff" stroke-width="5"><circle cx="48" cy="47" r="14"/><circle cx="48" cy="17" r="7"/><circle cx="18" cy="71" r="7"/><circle cx="78" cy="71" r="7"/></g>
+  <circle cx="48" cy="47" r="6" fill="#ffc56b"/>
+</svg>

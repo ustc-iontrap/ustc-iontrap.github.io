@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="128" viewBox="0 0 352 128" role="img" aria-labelledby="title desc">
+<title id="title">USTC IonQNet — 书页离子阵列</title><desc id="desc">Original group emblem inspired by USTC heritage. Four stylized blade electrodes surround a three-ion register; a cyan accent denotes optical access. Conceptual brand geometry, not to scale.</desc>
+<g id="emblem"><g id="plum-book-base" data-physics-role="annotation">
+  <rect x="5" y="5" width="118" height="118" rx="26" fill="#193b80"/>
+</g>
+<g id="linear-trap-electrodes" data-physics-role="trap-electrode" fill="#ffffff">
+  <path d="M22 33 51 45 51 54 22 47Z"/>
+  <path d="M106 33 77 45 77 54 106 47Z"/>
+  <path d="M22 81 51 72 51 81 22 95Z"/>
+  <path d="M106 81 77 72 77 81 106 95Z"/>
+</g>
+<g id="ion-register" data-physics-role="ion-chain" fill="#ffc56b">
+  <circle cx="49" cy="64" r="4.6"/><circle cx="64" cy="64" r="4.6"/><circle cx="79" cy="64" r="4.6"/>
+</g>
+<g id="open-book-spine" data-physics-role="annotation" fill="none" stroke="#ffffff" stroke-width="3.8" stroke-linecap="round">
+  <path d="M28 101Q45 94 64 102Q83 94 100 101M64 102V111"/>
+</g>
+<g id="optical-access-port" data-physics-role="optical-path" stroke="#67d9ec" stroke-width="3.2" stroke-linecap="round">
+  <path d="M89 64h18"/>
+</g></g>
+<g id="institution-wordmark" data-physics-role="annotation" fill="#193b80" font-family="Arial, Helvetica, PingFang SC, Microsoft YaHei, sans-serif">
+  <text x="146" y="82" font-size="50" font-weight="700" letter-spacing="-0.5">IonQNet</text>
+</g>
+</svg>

@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="zh" data-bs-theme='light'>
+  <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1" >
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" >
+	<meta name="description" content="USTC IonQNet Group" >
+	<meta name="author" content="qng" />
+	<link
+		rel="icon"
+		type="image/svg+xml"
+		href="../images/brand-concepts/ustc-ion-trap/plum-blade.svg"
+		/>
+ 
+	<link rel="alternate" type="application/atom+xml" title="USTC IonQNet Group Atom Feed" href="../feeds/all.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="USTC IonQNet Group RSS Feed" href="../feeds/all.rss.xml" />
+	<link rel="alternate" hreflang="zh" type="application/atom+xml" title="USTC IonQNet Group 中文 Atom Feed" href="../feeds/all-zh.atom.xml" />
+	<link rel="alternate" hreflang="zh" type="application/rss+xml" title="USTC IonQNet Group 中文 RSS Feed" href="../feeds/all-zh.rss.xml" />
+	<link rel="alternate" type="application/atom+xml" title="News Atom Feed" href="../feeds/news.atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="News RSS Feed" href="../feeds/news.rss.xml" />
+ 
+	    <title>“神经网络辅助的 ¹⁷¹Yb⁺ 量子磁力计”发表于 npj Quantum Information · USTC IonQNet Group</title>
+
+
+	<!-- Bootstrap core CSS -->
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="../theme/bootstrap.css" >
+	<link rel="stylesheet" href="../theme/bootstrap-icons.css" >
+	<link rel="stylesheet" href="../theme/prism-okaidia.css" >
+	<link rel="stylesheet" href="../theme/prism-toolbar.css" >
+	<link rel="stylesheet" href="../theme/custom.min.css" >
+
+ 
+ 
+
+ 
+	<link rel="stylesheet" href="../srcs/brand.css" />
+
+  </head>
+
+  <body>
+	<!-- Top link ================================================ -->
+	<span id="Top"></span>
+	<!-- Navbar 2 ================================================ -->
+	<!-- Navbar ================================================== -->
+ 
+
+<nav class="navbar navbar-expand-lg fixed-top bg-primary" data-bs-theme="dark" aria-label="主导航">
+  <div class="container">
+    <a class="navbar-brand site-brand" href="../zh/index.html" aria-label="USTC IonQNet Group">
+      <img class="site-brand__mark" src="../images/brand-concepts/ustc-ion-trap/ustc-ionqnet-seal.svg" alt="USTC IonQNet Group logo" />
+      <span class="site-brand__name" aria-hidden="true">
+<span class="site-brand__line">USTC</span><span class="site-brand__line">IonQNet</span><span class="site-brand__line">Group</span>      </span>
+    </a>
+    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
+	  data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+	  aria-label="展开或收起导航">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="navbarResponsive">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/index.html" >首页</a>
+        </li>
+
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-2" aria-expanded="false">研究方向</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-2">
+            <a class="dropdown-item" href="../zh/pages/research.html" >研究介绍</a>
+			<div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="../zh/pages/researches/trapped-ion-qip.html" >离子阱量子计算节点</a>
+            <a class="dropdown-item" href="../zh/pages/researches/quantum-network-cavity-qed.html" >腔 QED 量子网络</a>
+            <a class="dropdown-item" href="../zh/pages/researches/hybrid-quantum-network.html" >混合量子网络</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/pages/people.html" >成员</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/pages/publications.html" >研究论文</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="../zh/category/news.html" >新闻</a>
+        </li>
+
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-6" aria-expanded="false">联系我们</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-6">
+            <a class="dropdown-item" href="../zh/pages/contact.html" >地址</a>
+            <a class="dropdown-item" href="../zh/pages/join-us.html" >加入我们</a>
+            <a class="dropdown-item" href="https://github.com/ustc-iontrap"     target="_blank" rel="noopener noreferrer"
+>Github</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown" data-bs-theme="light">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" data-bs-toggle="dropdown" id="navbar-menu-7" aria-expanded="false">归档</button>
+          <div class="dropdown-menu" aria-labelledby="navbar-menu-7">
+            <a class="dropdown-item" href="../categories.html" >分类</a>
+          </div>
+        </li>
+      </ul>
+
+      <ul class="nav navbar-nav ml-auto">
+      </ul>
+
+      <!-- Language Switcher -->
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item dropdown">
+          <button class="nav-link dropdown-toggle border-0 bg-transparent" type="button" id="langDropdown"
+             data-bs-toggle="dropdown" aria-expanded="false">
+            <i class="bi bi-globe2" aria-hidden="true"></i>
+            中文
+          </button>
+          <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="langDropdown" data-bs-theme="light">
+              <li><a class="dropdown-item" href="../neural-network-assisted-yb-quantum-magnetometer.html" lang="en" hreflang="en">English</a></li>
+              <li><a class="dropdown-item active" href="../zh/neural-network-assisted-yb-quantum-magnetometer.html" lang="zh" hreflang="zh" aria-current="page">中文</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+	<!-- Header  ================================================== -->
+
+	<!-- Content ================================================== -->
+	<div class="container site-main-shell news-detail-page">
+
+    <div class="bs-docs-section">
+      <div class="row">
+            <div class="page-header">
+        <h1><a href="../zh/neural-network-assisted-yb-quantum-magnetometer.html">“神经网络辅助的 ¹⁷¹Yb⁺ 量子磁力计”发表于 npj Quantum Information</a></h1>
+    </div>
+
+      </div>
+    </div>
+
+    <div class="bs-docs-section">
+
+        <span id="article_info">
+    <a class="label label-primary"
+      href="../category/news.html">News</a>
+    <!--<span class="glyphicon glyphicon-calendar"></span>-->
+      <b> · </b>
+      <a href="../archives.html#Year2022">2022</a>-<a href="../archives.html#Year2022Month12">12</a>-<a href="../archives.html#Year2022Month12">22</a>
+
+    <!--<span class="glyphicon glyphicon-user"></span>-->
+      <b> · </b>
+    <a href="../author/qng.html">qng</a>
+  </span>
+
+      <hr/>
+
+      <div id="article_content">
+        <p>我们的工作“神经网络辅助的 <sup>171</sup>Yb<sup>+</sup>
+量子磁力计”已发表于 <strong>npj Quantum
+Information</strong>。我们将神经网络引入离子阱磁力计的数据处理环节，展示了机器学习与量子传感相结合的能力，显著拓展了磁力计的工作范围。</p>
+<h3 id="面临的挑战">面临的挑战</h3>
+<p>通用量子磁力计必须在较宽的目标场参数范围内提供可读出的响应。标准原子磁力计工作在传感器呈现谐波响应的区间，射频目标场的参数被编码在简单的正弦模式中。然而，当射频驱动引起的响应超出这种标准谐波行为时，例如存在较大的散粒噪声或采用连续单次测量时，传感器响应与目标参数之间的简单关系便不再成立，使得准确表征场参数极具挑战。</p>
+<h3 id="我们的方法">我们的方法</h3>
+<p>我们通过实验展示，将 <sup>171</sup>Yb<sup>+</sup>
+原子传感器与经过充分训练的神经网络结合，能够在不同的挑战性情形下研究目标场。具体而言，我们在存在较大散粒噪声的条件下表征了射频（RF）场，其中包括通过单次测量连续采集数据这一极限情形。神经网络学习测得的传感器响应与其背后的场参数之间的复杂映射，从而有效解读复杂传感器响应中包含的信息。</p>
+<h3 id="主要结果">主要结果</h3>
+<p>在减少测量平均次数的情形下，我们的神经网络仅用每个数据点 100
+次测量，就实现了 <strong>98.76%</strong>
+的平均估计准确率。即使每个数据点仅测量 30 次，准确率仍保持在
+<strong>98.31%</strong>。对于连续单次测量，神经网络输出与目标值之间的回归相关系数超过
+<strong>R =
+0.999</strong>。这些结果表明，将机器学习工具与量子传感技术相结合，是一种可以方便地推广到其他量子平台的策略，例如金刚石中的氮空位色心。</p>
+<div class="figure" style="max-width: 600px;">
+<img src="/images/news/neural_network_magnetometer_2022/fig1.jpg" style="max-width: 600px;" title="示意图" alt="神经网络辅助量子磁力计示意图">
+<p class="caption">
+图 1. <sup>171</sup>Yb<sup>+</sup>
+原子传感器的能级示意图（a、b）、针形离子阱配置（c）及神经网络架构（d）。光电倍增管（PMT）获得的传感器响应由训练好的神经网络处理，从复杂响应中提取射频场参数。
+</p>
+</div>
+<p>这项工作与西班牙巴斯克大学（UPV/EHU）的研究人员合作完成。</p>
+<p>论文链接：<a
+href="https://doi.org/10.1038/s41534-022-00669-2">https://doi.org/10.1038/s41534-022-00669-2</a></p>
+
+      </div>
+
+      <hr/>
+
+          <nav class="d-flex justify-content-between gap-3 my-4" aria-label="新闻翻页">
+              <a href="../zh/transverse-polarization-gradient-entangling-gates-trapped-ion.html">&laquo; 较新新闻</a>
+              <a href="../zh/super-resolved-imaging-single-cold-atom-nanosecond.html">较早新闻 &raquo;</a>
+          </nav>
+
+    </div>
+
+	  <!-- Footer  ================================================== -->
+   <footer id="footer">
+    <div class="row">
+      <div class="col-lg-12">
+        <ul class="list-unstyled">
+          <li class="float-end"><a href="#Top">返回顶部</a></li>
+          <li><a href="http://www.ustc.edu.cn">USTC</a></li>
+          <li><a href="http://lqcc.ustc.edu.cn">LQCC</a></li>
+          <li><a href="https://github.com/ustc-iontrap">GitHub</a></li>
+          <li><a href="../feeds/all-zh.atom.xml" type="application/atom+xml"><i class="bi bi-rss-fill"></i> Atom</a></li>
+          <li><a href="../feeds/all-zh.rss.xml" type="application/rss+xml">RSS</a></li>
+        </ul>
+        <p>维护：<a href="mailto:jmcui000@gmail.com">Jin-Ming Cui</a>.</p>
+      </div>
+    </div>
+  </footer>
+
+	</div>
+
+	<script src="../theme/bootstrap.bundle.min.js"></script>
+	<script src="../theme/prism.js"></script>
+	<script src="../theme/custom.js"></script>
+	<script src="../theme/prism-autoloader.js"></script>
+	<script src="../theme/prism-toolbar.js"></script>
+	<script src="../theme/prism-copy-to-clipboard.js"></script>
+<script>
+  (function () {
+    let site;
+    let endpoint;
+    try {
+      site = new URL("https://ustc-iontrap.github.io");
+      endpoint = new URL("https://ustc-iontrap.goatcounter.com/count");
+    } catch (_) {
+      return;
+    }
+
+    // Published HTML may also be served locally for debugging.
+    const host = window.location.hostname.toLowerCase().replace(/\.$/, '');
+    const localHost = /^(localhost|0\.0\.0\.0|\[::1\])$/.test(host)
+      || /\.(localhost|local)$/.test(host)
+      || /^(127\.|10\.|192\.168\.|169\.254\.|172\.(1[6-9]|2[0-9]|3[01])\.)/.test(host)
+      || /^\[(::|f[cd][0-9a-f]{2}:.*|fe[89ab][0-9a-f]:.*)\]$/.test(host);
+    if (localHost || !/^https?:$/.test(window.location.protocol)
+        || window.location.origin !== site.origin || endpoint.protocol !== 'https:') {
+      return;
+    }
+
+    const script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://gc.zgo.at/count.js';
+    script.setAttribute('data-goatcounter', endpoint.href);
+    script.setAttribute('data-goatcounter-settings', '{"allow_local": false}');
+    document.body.appendChild(script);
+  })();
+</script>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">USTC IonQNet — 离子阱圆章</title><desc id="desc">Original group emblem inspired by USTC heritage. Four stylized blade electrodes surround a three-ion register; a cyan accent denotes optical access. Conceptual brand geometry, not to scale.</desc>
+<g id="institutional-seal" data-physics-role="annotation">
+  <circle cx="64" cy="64" r="58" fill="#193b80" stroke="#ffffff" stroke-width="3.5"/>
+  <path d="M28 104Q44 99 64 104Q84 99 100 104" fill="none" stroke="#ffffff" stroke-width="3.2"/>
+</g>
+<g id="trap-register" transform="translate(0,-8)"><g id="blade-electrodes" data-physics-role="trap-electrode" fill="#ffffff">
+  <path d="M32 32 56 50 50 57 27 42Z"/>
+  <path d="M96 32 72 50 78 57 101 42Z"/>
+  <path d="M27 86 50 71 56 78 32 96Z"/>
+  <path d="M101 86 78 71 72 78 96 96Z"/>
+</g><g id="ion-register" data-physics-role="ion-chain" fill="#ffc56b">
+  <circle cx="49" cy="64" r="4.6"/><circle cx="64" cy="64" r="4.6"/><circle cx="79" cy="64" r="4.6"/>
+</g></g>
+<g id="open-book" data-physics-role="annotation" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linejoin="round">
+  <path d="M36 92Q51 86 64 94Q77 86 92 92M64 94v6"/>
+</g>
+<g id="optical-access-port" data-physics-role="optical-path" stroke="#67d9ec" stroke-width="3.2" stroke-linecap="round">
+  <path d="M92 56h14"/>
+</g>
+</svg>

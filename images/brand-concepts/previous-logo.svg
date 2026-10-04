@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">USTC Ion Trap Distributed Quantum Network Logo</title>
+  <desc id="desc">Three computer-like quantum nodes, each containing an ion in an optical cavity, linked by photonic channels to represent trapped-ion distributed quantum computing and quantum networking.</desc>
+  <defs>
+    <style>
+      .link{fill:none;stroke:#39a7c8;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+      .photon{fill:#f3b33d}
+      .shell{fill:#a11f32}
+      .screen{fill:#fbfdff}
+      .stand{fill:#6e1825}
+      .mirror{fill:#1b4b77}
+      .mode{fill:none;stroke:#72c6dd;stroke-width:2.6;stroke-linecap:round;opacity:.92}
+      .ion{fill:#f3b33d}
+      .glow{fill:none;stroke:#f3b33d;stroke-width:1.8;opacity:.45}
+    </style>
+  </defs>
+
+  <path class="link" d="M64 25C50 33 42 40 35 50"/>
+  <path class="link" d="M64 25C78 33 86 40 93 50"/>
+  <path class="link" d="M38 85C51 95 77 95 90 85"/>
+
+  <circle class="photon" cx="53" cy="33" r="3.2"/>
+  <circle class="photon" cx="77" cy="33" r="3.2"/>
+  <circle class="photon" cx="64" cy="95" r="3.2"/>
+
+  <g transform="translate(64 22)">
+    <rect class="shell" x="-19" y="-13" width="38" height="28" rx="6"/>
+    <rect class="screen" x="-15" y="-9" width="30" height="20" rx="4"/>
+    <rect class="stand" x="-4.6" y="15" width="9.2" height="4" rx="2"/>
+    <rect class="stand" x="-12" y="19" width="24" height="4" rx="2"/>
+    <rect class="mirror" x="-8.5" y="-4.8" width="3.4" height="11.6" rx="1.7"/>
+    <rect class="mirror" x="5.1" y="-4.8" width="3.4" height="11.6" rx="1.7"/>
+    <path class="mode" d="M-4.1 1.1C-1.8-1 1.8-1 4.1 1.1"/>
+    <circle class="glow" cx="0" cy="1.2" r="4.8"/>
+    <circle class="ion" cx="0" cy="1.2" r="3.3"/>
+  </g>
+
+  <g transform="translate(32 84)">
+    <rect class="shell" x="-19" y="-13" width="38" height="28" rx="6"/>
+    <rect class="screen" x="-15" y="-9" width="30" height="20" rx="4"/>
+    <rect class="stand" x="-4.6" y="15" width="9.2" height="4" rx="2"/>
+    <rect class="stand" x="-12" y="19" width="24" height="4" rx="2"/>
+    <rect class="mirror" x="-8.5" y="-4.8" width="3.4" height="11.6" rx="1.7"/>
+    <rect class="mirror" x="5.1" y="-4.8" width="3.4" height="11.6" rx="1.7"/>
+    <path class="mode" d="M-4.1 1.1C-1.8-1 1.8-1 4.1 1.1"/>
+    <circle class="glow" cx="0" cy="1.2" r="4.8"/>
+    <circle class="ion" cx="0" cy="1.2" r="3.3"/>
+  </g>
+
+  <g transform="translate(96 84)">
+    <rect class="shell" x="-19" y="-13" width="38" height="28" rx="6"/>
+    <rect class="screen" x="-15" y="-9" width="30" height="20" rx="4"/>
+    <rect class="stand" x="-4.6" y="15" width="9.2" height="4" rx="2"/>
+    <rect class="stand" x="-12" y="19" width="24" height="4" rx="2"/>
+    <rect class="mirror" x="-8.5" y="-4.8" width="3.4" height="11.6" rx="1.7"/>
+    <rect class="mirror" x="5.1" y="-4.8" width="3.4" height="11.6" rx="1.7"/>
+    <path class="mode" d="M-4.1 1.1C-1.8-1 1.8-1 4.1 1.1"/>
+    <circle class="glow" cx="0" cy="1.2" r="4.8"/>
+    <circle class="ion" cx="0" cy="1.2" r="3.3"/>
+  </g>
+</svg>
