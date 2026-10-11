@@ -1,5 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>USTC IonQNet Group</title><link>https://ustc-iontrap.github.io/</link><description/><atom:link href="https://ustc-iontrap.github.io/feeds/all.rss.xml" rel="self"/><lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0800</lastBuildDate><item><title>High optical access (HOA) trap</title><link>https://ustc-iontrap.github.io/gallery/high-optical-access-trap.html</link><description>A miniature blade trap in an all-glass cell, with high-NA optical access from four directions for precise addressing, imaging, readout and optical-tweezer control.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-03:/gallery/high-optical-access-trap.html</guid><category>gallery</category></item><item><title>Optical-tweezer ion gates</title><link>https://ustc-iontrap.github.io/gallery/optical-tweezer-ion-gates.html</link><description>Tightly focused light opens new ways to address trapped ions, generate entangling gates and control their collective motion.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-03:/gallery/optical-tweezer-ion-gates.html</guid><category>gallery</category></item><item><title>高通光离子阱（HOA trap）</title><link>https://ustc-iontrap.github.io/zh/gallery/high-optical-access-trap.html</link><description>微型刀片阱置于全玻璃腔体中，支持四个方向的大数值孔径光学接口，为精确寻址、成像读出与光镊操控提供平台。</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-03:/zh/gallery/high-optical-access-trap.html</guid><category>gallery</category></item><item><title>光镊离子门</title><link>https://ustc-iontrap.github.io/zh/gallery/optical-tweezer-ion-gates.html</link><description>利用紧聚焦光场精确寻址离子、构造新型纠缠门，并通过光镊调控离子晶体的集体运动。</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-03:/zh/gallery/optical-tweezer-ion-gates.html</guid><category>gallery</category></item><item><title>Yun-Feng Huang</title><link>https://ustc-iontrap.github.io/Members/Yun-Feng_Huang.html</link><description>&lt;h2 id="profile"&gt;Profile&lt;/h2&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>USTC IonQNet Group</title><link>https://ustc-iontrap.github.io/</link><description/><atom:link href="https://ustc-iontrap.github.io/feeds/all.rss.xml" rel="self"/><lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0800</lastBuildDate><item><title>Yan Chen</title><link>https://ustc-iontrap.github.io/Members/Yan_Chen.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2019.9-2025.3, University of Science and Technology of China,
+Department of Optics and Optical Engineering, Doctor&lt;/li&gt;
+&lt;li&gt;2015.9-2019.6, Dalian University of Technology, School of Physics,
+Bachelor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="experience"&gt;Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025.7-present, University of Science and Technology of China,
+Department of Optics and Optical Engineering, Postdoc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Research interests:&lt;/strong&gt; Quantum …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sun, 11 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-11:/Members/Yan_Chen.html</guid><category>People</category></item><item><title>陈炎</title><link>https://ustc-iontrap.github.io/zh/Members/Yan_Chen.html</link><description>&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2019.9–2025.3，中国科学技术大学光学与光学工程系，博士&lt;/li&gt;
+&lt;li&gt;2015.9–2019.6，大连理工大学物理学院，学士&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="工作经历"&gt;工作经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025.7–至今 …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sun, 11 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-11:/zh/Members/Yan_Chen.html</guid><category>People</category></item><item><title>Cheng-Hao Zhang</title><link>https://ustc-iontrap.github.io/Members/Cheng-Hao_Zhang.html</link><description>&lt;h2 id="contact"&gt;Contact&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a
+href="mailto:zch184@mail.ustc.edu.cn"&gt;zch184@mail.ustc.edu.cn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Room: D417&lt;/li&gt;
+&lt;li&gt;Address: Hefei National Laboratory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025.6-now, University of Science and Technology of China, School of
+Emerging Technology, Doctor&lt;/li&gt;
+&lt;li&gt;2023.9-2025.6, University of Science and Technology of China,
+Department of Optics and Optical Engineering, Master&lt;/li&gt;
+&lt;li&gt;2019.9-2023.6, University of …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 10 Oct 2026 11:13:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-10:/Members/Cheng-Hao_Zhang.html</guid><category>People</category></item><item><title>章成昊</title><link>https://ustc-iontrap.github.io/zh/Members/Cheng-Hao_Zhang.html</link><description>&lt;h2 id="联系方式"&gt;联系方式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;电子邮件：&lt;a
+href="mailto:zch184@mail.ustc.edu.cn"&gt;zch184@mail.ustc.edu.cn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;办公室：D417&lt;/li&gt;
+&lt;li&gt;地址：合肥国家实验室&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025.6–至今，中国科学技术大学未来技术学院，博士 …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 10 Oct 2026 11:13:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-10:/zh/Members/Cheng-Hao_Zhang.html</guid><category>People</category></item><item><title>Jia-Chen Zhang</title><link>https://ustc-iontrap.github.io/Members/Jia-Chen_Zhang.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2024.9-now, University of Science and Technology of China,
+Department of Optics and Optical Engineering, Doctor&lt;/li&gt;
+&lt;li&gt;2020.8-2024.6, Nanjing University of Posts and Telecommunications,
+School of Science, Bachelor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Quantum information with trapped ions. Quantum simulation, Quantum
+network, Distributed quantum computation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 10 Oct 2026 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-10:/Members/Jia-Chen_Zhang.html</guid><category>People</category></item><item><title>张家晨</title><link>https://ustc-iontrap.github.io/zh/Members/Jia-Chen_Zhang.html</link><description>&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2024.9–至今，中国科学技术大学光学与光学工程系，博士研究生&lt;/li&gt;
+&lt;li&gt;2020.8–2024.6，南京邮电大学理学院，学士&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="研究方向"&gt;研究方向&lt;/h2&gt;
+&lt;p&gt;基于 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 10 Oct 2026 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-10:/zh/Members/Jia-Chen_Zhang.html</guid><category>People</category></item><item><title>Si-Yuan Tao</title><link>https://ustc-iontrap.github.io/Members/Si-Yuan_Tao.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025.9-now, University of Science and Technology of China,
+Electronic Information, Master&lt;/li&gt;
+&lt;li&gt;2021.9-2025.6, Anhui University,Optoelectronic Information Science
+and Engineering , Bachelor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Quantum information with trapped ions. Quantum simulation, quantum
+network, distributed quantum computation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 10 Oct 2026 08:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-10:/Members/Si-Yuan_Tao.html</guid><category>People</category></item><item><title>陶思远</title><link>https://ustc-iontrap.github.io/zh/Members/Si-Yuan_Tao.html</link><description>&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025.9–至今，中国科学技术大学，电子信息专业硕士研究生&lt;/li&gt;
+&lt;li&gt;2021.9–2025.6，安徽大学，光电信息科学与工程专业学士&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="研究方向"&gt;研究 …&lt;/h2&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 10 Oct 2026 08:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-10:/zh/Members/Si-Yuan_Tao.html</guid><category>People</category></item><item><title>Quan Long</title><link>https://ustc-iontrap.github.io/Members/Quan_Long.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2024.09–present, University of Science and Technology of China,
+Department of Optics and Optical Engineering, Doctoral student in
+Electronic Information&lt;/li&gt;
+&lt;li&gt;2020.09–2024.09, Wuhan University of Technology, Department of
+Physics, Bachelor’s degree in Optoelectronic Information Science and
+Technology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Quantum information with trapped ions. Construction of …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-09:/Members/Quan_Long.html</guid><category>People</category></item><item><title>龙泉</title><link>https://ustc-iontrap.github.io/zh/Members/Quan_Long.html</link><description>&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2024.9–至今，中国科学技术大学光学与光学工程系，电子信息专业博士研究生&lt;/li&gt;
+&lt;li&gt;2020.9–2024.9，武汉理工大学物理系，光电 …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-09:/zh/Members/Quan_Long.html</guid><category>People</category></item><item><title>Qing-Quan Yao</title><link>https://ustc-iontrap.github.io/Members/Qing-Quan_Yao.html</link><description>&lt;h2 id="contact"&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Email: &lt;a
+href="mailto:qingquanyao@mail.ustc.edu.cn"&gt;qingquanyao@mail.ustc.edu.cn&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2022.9-present, University of Science and Technology of China,
+Ph.D. candidate in Physics&lt;/li&gt;
+&lt;li&gt;2020.7-2022.7, Australian National University, B.Sc. in Physics
+(Exchange Program)&lt;/li&gt;
+&lt;li&gt;2018.9-2022.7, Beijing University of Technology, B.Sc. in Applied
+Physics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Quantum networks and …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-08:/Members/Qing-Quan_Yao.html</guid><category>People</category></item><item><title>姚清泉</title><link>https://ustc-iontrap.github.io/zh/Members/Qing-Quan_Yao.html</link><description>&lt;h2 id="联系方式"&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;电子邮件：&lt;a
+href="mailto:qingquanyao@mail.ustc.edu.cn"&gt;qingquanyao@mail.ustc.edu.cn&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2022.9–至今，中国科学技术大学，物理学博士研究生&lt;/li&gt;
+&lt;li&gt;2020.7–2022.7，澳大利亚国立大学，物 …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-08:/zh/Members/Qing-Quan_Yao.html</guid><category>People</category></item><item><title>Wen-Hao Qi</title><link>https://ustc-iontrap.github.io/Members/Wen-Hao_Qi.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2023.9-now, University of Science and Technology of China,
+Department of Optics and Optical Engineering, Doctor&lt;/li&gt;
+&lt;li&gt;2019.9-2023.6, University of Science and Technology of China, School
+of the Gifted Young, Bachelor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Quantum information with trapped ions. Quantum simulation, quantum
+network, distributed quantum computation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-04:/Members/Wen-Hao_Qi.html</guid><category>People</category></item><item><title>亓文浩</title><link>https://ustc-iontrap.github.io/zh/Members/Wen-Hao_Qi.html</link><description>&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2023.9–至今，中国科学技术大学光学与光学工程系，博士研究生&lt;/li&gt;
+&lt;li&gt;2019.9–2023.6，中国科学技术大学少年班学院，学士&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="研究方向"&gt;研究 …&lt;/h2&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-04:/zh/Members/Wen-Hao_Qi.html</guid><category>People</category></item><item><title>High optical access (HOA) trap</title><link>https://ustc-iontrap.github.io/gallery/high-optical-access-trap.html</link><description>A miniature blade trap in an all-glass cell, with high-NA optical access from four directions for precise addressing, imaging, readout and optical-tweezer control.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-03:/gallery/high-optical-access-trap.html</guid><category>gallery</category></item><item><title>Optical-tweezer ion gates</title><link>https://ustc-iontrap.github.io/gallery/optical-tweezer-ion-gates.html</link><description>Tightly focused light opens new ways to address trapped ions, generate entangling gates and control their collective motion.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-03:/gallery/optical-tweezer-ion-gates.html</guid><category>gallery</category></item><item><title>高通光离子阱（HOA trap）</title><link>https://ustc-iontrap.github.io/zh/gallery/high-optical-access-trap.html</link><description>微型刀片阱置于全玻璃腔体中，支持四个方向的大数值孔径光学接口，为精确寻址、成像读出与光镊操控提供平台。</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-03:/zh/gallery/high-optical-access-trap.html</guid><category>gallery</category></item><item><title>光镊离子门</title><link>https://ustc-iontrap.github.io/zh/gallery/optical-tweezer-ion-gates.html</link><description>利用紧聚焦光场精确寻址离子、构造新型纠缠门，并通过光镊调控离子晶体的集体运动。</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-10-03:/zh/gallery/optical-tweezer-ion-gates.html</guid><category>gallery</category></item><item><title>Yun-Feng Huang</title><link>https://ustc-iontrap.github.io/Members/Yun-Feng_Huang.html</link><description>&lt;h2 id="profile"&gt;Profile&lt;/h2&gt;
 &lt;p&gt;Yun-Feng Huang is a Researcher in the Department of Optics and
 Optical Engineering at the University of Science and Technology of
 China. His research interests include quantum communication, photonic
@@ -8,9 +128,10 @@ processing.&lt;/p&gt;
 &lt;h2 id="education"&gt;Education&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;1998-2003, Ph.D. program, Department of Physics, University of
-Science and …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 01 Apr 2026 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-04-01:/Members/Yun-Feng_Huang.html</guid><category>People</category></item><item><title>Chen-Xu Wang</title><link>https://ustc-iontrap.github.io/Members/Chen-Xu_Wang.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+Science and …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 01 Apr 2026 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-04-01:/Members/Yun-Feng_Huang.html</guid><category>People</category></item><item><title>黄运锋</title><link>https://ustc-iontrap.github.io/zh/Members/Yun-Feng_Huang.html</link><description>&lt;h2 id="个人简介"&gt;个人简介&lt;/h2&gt;
+&lt;p&gt;黄运锋，中国科学技术大学光学与光学工程系研究员。研究方向包括量子通信、光量子信息处理和囚禁离子量子 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 01 Apr 2026 10:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-04-01:/zh/Members/Yun-Feng_Huang.html</guid><category>People</category></item><item><title>Chen-Xu Wang</title><link>https://ustc-iontrap.github.io/Members/Chen-Xu_Wang.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;2021.9-now, University of Science and Technology of China,
+&lt;li&gt;2021.9-2026.9, University of Science and Technology of China,
 Department of Optics and Optical Engineering, Doctor&lt;/li&gt;
 &lt;li&gt;2017.8-2021.6, Ocean University of China, Faculty of Information
 Science and Engineering, Bachelor&lt;/li&gt;
@@ -18,7 +139,71 @@ Science and Engineering, Bachelor&lt;/li&gt;
 &lt;h2 id="research"&gt;Research&lt;/h2&gt;
 &lt;p&gt;Quantum information with trapped ions. Quantum simulation, quantum
 network, distributed quantum computation.&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/Members/Chen-Xu_Wang.html</guid><category>People</category></item><item><title>Quantum Interface Concept</title><link>https://ustc-iontrap.github.io/gallery/quantum-interface-concept.html</link><description>Connecting stationary matter qubits through optical quantum channels.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:23:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/gallery/quantum-interface-concept.html</guid><category>gallery</category></item><item><title>量子接口概念</title><link>https://ustc-iontrap.github.io/zh/gallery/quantum-interface-concept.html</link><description>通过光学量子信道连接静止物质量子比特。</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:23:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/zh/gallery/quantum-interface-concept.html</guid><category>gallery</category></item><item><title>Hybrid Quantum Network</title><link>https://ustc-iontrap.github.io/gallery/hybrid-quantum-network.html</link><description>Connecting trapped-ion processors and solid-state quantum memories through quantum frequency conversion.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:21:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/gallery/hybrid-quantum-network.html</guid><category>gallery</category></item><item><title>混合量子网络</title><link>https://ustc-iontrap.github.io/zh/gallery/hybrid-quantum-network.html</link><description>通过量子频率转换连接离子阱处理器与固态量子存储器，构建跨物理体系的混合量子网络。</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:21:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/zh/gallery/hybrid-quantum-network.html</guid><category>gallery</category></item><item><title>Cavity QED Interface</title><link>https://ustc-iontrap.github.io/gallery/cavity-qed-interface.html</link><description>From gold-coated fiber mirrors to needle-trap integration: building high-bandwidth, high-efficiency ion–photon interfaces.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/gallery/cavity-qed-interface.html</guid><category>gallery</category></item><item><title>腔 QED 接口</title><link>https://ustc-iontrap.github.io/zh/gallery/cavity-qed-interface.html</link><description>从镀金光纤腔镜到针状离子阱集成，构建兼具高带宽与高效率的离子—光子量子接口。</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/zh/gallery/cavity-qed-interface.html</guid><category>gallery</category></item><item><title>"Transverse Polarization Gradient Entangling Gates for Trapped-Ion Quantum Computation" is published in Physical Review Letters</title><link>https://ustc-iontrap.github.io/transverse-polarization-gradient-entangling-gates-trapped-ion.html</link><description>&lt;p&gt;Our work “Transverse Polarization Gradient Entangling Gates for
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/Members/Chen-Xu_Wang.html</guid><category>People</category></item><item><title>Ding Fang</title><link>https://ustc-iontrap.github.io/Members/Ding_Fang.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2019.9-2024, University of Science and Technology of China,
+Department of Optics and Optical Engineering, Doctor&lt;/li&gt;
+&lt;li&gt;2015.8-2019.6, Xi’an Jiaotong University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Quantum information with trapped ions. quantum network, distributed
+quantum computation, Cavity enhanced quantum network.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/Members/Ding_Fang.html</guid><category>People</category></item><item><title>Qi Xin</title><link>https://ustc-iontrap.github.io/Members/Qi_Xin.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025.9-now, University of Science and Technology of China,
+Department of Optics and Optical Engineering, Master&lt;/li&gt;
+&lt;li&gt;2021.9-2025.6, Hebei University of Technology, Department of Applied
+Physics, Bachelor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Quantum information with trapped ions. Quantum simulation, quantum
+network, distributed quantum computation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/Members/Qi_Xin.html</guid><category>People</category></item><item><title>Yi-Fan Zheng</title><link>https://ustc-iontrap.github.io/Members/Yi-Fan_Zheng.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2022.9-now, University of Science and Technology of China,
+Department of Optics and Optical Engineering, Doctor&lt;/li&gt;
+&lt;li&gt;2018.8-2022.6, China University of Geosciences (Wuhan), School of
+Mathematics and Physics , Bachelor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Quantum information with trapped ions. Quantum simulation, quantum
+network, distributed quantum computation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/Members/Yi-Fan_Zheng.html</guid><category>People</category></item><item><title>Yi-Fan Zhou</title><link>https://ustc-iontrap.github.io/Members/Yi-Fan_Zhou.html</link><description>&lt;h2 id="education"&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2024.9-now, University of Science and Technology of China,School of
+Emerging Technology , Doctor&lt;/li&gt;
+&lt;li&gt;2020.9-2024.6,University of Science and Technology of China, School
+of Physical Sciences, Bachelor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Quantum information with trapped ions. Quantum simulation, quantum
+sensing .&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/Members/Yi-Fan_Zhou.html</guid><category>People</category></item><item><title>王晨旭</title><link>https://ustc-iontrap.github.io/zh/Members/Chen-Xu_Wang.html</link><description>&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2021.9–2026.9，中国科学技术大学光学与光学工程系，博士&lt;/li&gt;
+&lt;li&gt;2017.8–2021.6，中国海洋大学信息科学与工程学部，学士&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="研究方向"&gt;研究方 …&lt;/h2&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/zh/Members/Chen-Xu_Wang.html</guid><category>People</category></item><item><title>房鼎</title><link>https://ustc-iontrap.github.io/zh/Members/Ding_Fang.html</link><description>&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2019.9–2024，中国科学技术大学光学与光学工程系，博士&lt;/li&gt;
+&lt;li&gt;2015.8–2019.6，西安交通大学&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="研究方向"&gt;研究方向&lt;/h2&gt;
+&lt;p&gt;基于囚禁离子的量子信息 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/zh/Members/Ding_Fang.html</guid><category>People</category></item><item><title>辛祺</title><link>https://ustc-iontrap.github.io/zh/Members/Qi_Xin.html</link><description>&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2025.9–至今，中国科学技术大学光学与光学工程系，硕士研究生&lt;/li&gt;
+&lt;li&gt;2021.9–2025.6，河北工业大学应用物理系，学士&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="研究方向"&gt;研究方向 …&lt;/h2&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/zh/Members/Qi_Xin.html</guid><category>People</category></item><item><title>郑逸凡</title><link>https://ustc-iontrap.github.io/zh/Members/Yi-Fan_Zheng.html</link><description>&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2022.9–至今，中国科学技术大学光学与光学工程系，博士研究生&lt;/li&gt;
+&lt;li&gt;2018.8–2022.6，中国地质大学（武汉）数学与物理学院，学士 …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/zh/Members/Yi-Fan_Zheng.html</guid><category>People</category></item><item><title>周一帆</title><link>https://ustc-iontrap.github.io/zh/Members/Yi-Fan_Zhou.html</link><description>&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2024.9–至今，中国科学技术大学未来技术学院，博士研究生&lt;/li&gt;
+&lt;li&gt;2020.9–2024.6，中国科学技术大学物理学院，学士&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="研究方向"&gt;研究方向&lt;/h2&gt;
+&lt;p&gt;基 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Tue, 31 Mar 2026 20:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-31:/zh/Members/Yi-Fan_Zhou.html</guid><category>People</category></item><item><title>Quantum Interface Concept</title><link>https://ustc-iontrap.github.io/gallery/quantum-interface-concept.html</link><description>Connecting stationary matter qubits through optical quantum channels.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:23:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/gallery/quantum-interface-concept.html</guid><category>gallery</category></item><item><title>量子接口概念</title><link>https://ustc-iontrap.github.io/zh/gallery/quantum-interface-concept.html</link><description>通过光学量子信道连接静止物质量子比特。</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:23:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/zh/gallery/quantum-interface-concept.html</guid><category>gallery</category></item><item><title>Hybrid Quantum Network</title><link>https://ustc-iontrap.github.io/gallery/hybrid-quantum-network.html</link><description>Connecting trapped-ion processors and solid-state quantum memories through quantum frequency conversion.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:21:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/gallery/hybrid-quantum-network.html</guid><category>gallery</category></item><item><title>混合量子网络</title><link>https://ustc-iontrap.github.io/zh/gallery/hybrid-quantum-network.html</link><description>通过量子频率转换连接离子阱处理器与固态量子存储器，构建跨物理体系的混合量子网络。</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:21:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/zh/gallery/hybrid-quantum-network.html</guid><category>gallery</category></item><item><title>Cavity QED Interface</title><link>https://ustc-iontrap.github.io/gallery/cavity-qed-interface.html</link><description>From gold-coated fiber mirrors to needle-trap integration: building high-bandwidth, high-efficiency ion–photon interfaces.</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/gallery/cavity-qed-interface.html</guid><category>gallery</category></item><item><title>腔 QED 接口</title><link>https://ustc-iontrap.github.io/zh/gallery/cavity-qed-interface.html</link><description>从镀金光纤腔镜到针状离子阱集成，构建兼具高带宽与高效率的离子—光子量子接口。</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Sat, 28 Mar 2026 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2026-03-28:/zh/gallery/cavity-qed-interface.html</guid><category>gallery</category></item><item><title>"Transverse Polarization Gradient Entangling Gates for Trapped-Ion Quantum Computation" is published in Physical Review Letters</title><link>https://ustc-iontrap.github.io/transverse-polarization-gradient-entangling-gates-trapped-ion.html</link><description>&lt;p&gt;Our work “Transverse Polarization Gradient Entangling Gates for
 Trapped-Ion Quantum Computation” has been published in &lt;strong&gt;Physical
 Review Letters&lt;/strong&gt; as an &lt;strong&gt;Editors’ Suggestion&lt;/strong&gt; on
 December 24, 2025.&lt;/p&gt;
@@ -76,7 +261,12 @@ Road #96, Hefei, Anhui, P. R. China, 230026&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Ph.D. (enrolled September 2016), Key Lab of Quantum Information,
 Department of Optics and Optical Engineering, University of Science and
-Technology …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 09 May 2018 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2018-05-09:/Members/Ming-Zhong_Ai.html</guid><category>People</category></item><item><title>"An Ultraviolet Fiber Fabry–Pérot Cavity for Florescence Collection of Trapped Ions" is published</title><link>https://ustc-iontrap.github.io/an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html</link><description>&lt;p&gt;Our work “An Ultraviolet Fiber Fabry–Pérot Cavity for Florescence
+Technology …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 09 May 2018 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2018-05-09:/Members/Ming-Zhong_Ai.html</guid><category>People</category></item><item><title>艾铭忠</title><link>https://ustc-iontrap.github.io/zh/Members/Ming-Zhong_Ai.html</link><description>&lt;h2 id="联系方式"&gt;联系方式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;地址：安徽省合肥市金寨路 96
+号，中国科学技术大学，中国科学院量子信息重点实验室，邮编 230026&lt;/li&gt;
+&lt;li&gt;电话：(+86) 18214880012&lt;/li&gt;
+&lt;li&gt;电子邮件 …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 09 May 2018 00:00:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2018-05-09:/zh/Members/Ming-Zhong_Ai.html</guid><category>People</category></item><item><title>"An Ultraviolet Fiber Fabry–Pérot Cavity for Florescence Collection of Trapped Ions" is published</title><link>https://ustc-iontrap.github.io/an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html</link><description>&lt;p&gt;Our work “An Ultraviolet Fiber Fabry–Pérot Cavity for Florescence
 Collection of Trapped Ions” has been published in &lt;strong&gt;Chinese
 Physics Letters&lt;/strong&gt;. We demonstrate a fiber Fabry–Pérot cavity
 (FFPC) operating in the ultraviolet range at 369 nm, specifically
@@ -95,7 +285,15 @@ for their contributions to …&lt;/p&gt;</description><dc:creator xmlns:dc="http
 &lt;p&gt;I received my bachelor’s degree from Dalian University of Technology
 (DUT). During a summer visit to USTC, I became interested in trapping
 single ions and manipulating their quantum states with lasers, and
-subsequently joined the ion-trap group as …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 21 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-21:/Members/Ran_He.html</guid><category>People</category></item><item><title>Chang-Kang Hu</title><link>https://ustc-iontrap.github.io/Members/Chang-Kang_Hu.html</link><description>&lt;figure&gt;
+subsequently joined the ion-trap group as …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 21 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-21:/Members/Ran_He.html</guid><category>People</category></item><item><title>贺冉</title><link>https://ustc-iontrap.github.io/zh/Members/Ran_He.html</link><description>&lt;h2 id="个人信息"&gt;个人信息&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;身份：毕业博士&lt;/li&gt;
+&lt;li&gt;办公室：316&lt;/li&gt;
+&lt;li&gt;电子邮件：&lt;a
+href="mailto:heran@mail.ustc.edu.cn"&gt;heran@mail.ustc.edu.cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="个人简介"&gt;个人简介&lt;/h2&gt;
+&lt;p&gt;我在大连理工大学获得学士学位。在中国科学技术大学 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Wed, 21 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-21:/zh/Members/Ran_He.html</guid><category>People</category></item><item><title>Chang-Kang Hu</title><link>https://ustc-iontrap.github.io/Members/Chang-Kang_Hu.html</link><description>&lt;figure&gt;
 &lt;img src="../images/people/hckcontacts.png" alt="Chang-Kang Hu" /&gt;
 &lt;figcaption aria-hidden="true"&gt;Chang-Kang Hu&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -122,4 +320,21 @@ Science and Opto-electronic Engineering, Bachelor&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Tel: +86 13866664268&lt;/li&gt;
 &lt;li&gt;Email: weimin@mail.ustc.edu.cn&lt;/li&gt;
-&lt;li&gt;Address: Key Laboratory of Quantum Information, CAS …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Mon, 19 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-19:/Members/Wei-Min_Lv.html</guid><category>People</category></item></channel></rss>
+&lt;li&gt;Address: Key Laboratory of Quantum Information, CAS …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Mon, 19 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-19:/Members/Wei-Min_Lv.html</guid><category>People</category></item><item><title>胡长康</title><link>https://ustc-iontrap.github.io/zh/Members/Chang-Kang_Hu.html</link><description>&lt;h2 id="联系方式"&gt;联系方式&lt;/h2&gt;
+&lt;figure&gt;
+&lt;img src="/images/people/hckcontacts.png" alt="胡长康的联系方式" /&gt;
+&lt;figcaption aria-hidden="true"&gt;胡长康的联系方式&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Mon, 19 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-19:/zh/Members/Chang-Kang_Hu.html</guid><category>People</category></item><item><title>崔金明</title><link>https://ustc-iontrap.github.io/zh/Members/Jin-Ming_Cui.html</link><description>&lt;h2 id="个人信息"&gt;个人信息&lt;/h2&gt;
+&lt;p&gt;&lt;img src="/images/people/personal_card_cui.svg" width="350" alt="崔金明的联系方式" /&gt;&lt;/p&gt;
+&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2008.9–2013.6，中国科学技术大学光学与光学工程系，博士&lt;/li&gt;
+&lt;li&gt;2004.8–2008.6，中国科学技术大学物理系，学士&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="研究方向"&gt;研究方 …&lt;/h2&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Mon, 19 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-19:/zh/Members/Jin-Ming_Cui.html</guid><category>People</category></item><item><title>吕为民</title><link>https://ustc-iontrap.github.io/zh/Members/Wei-Min_Lv.html</link><description>&lt;h2 id="教育经历"&gt;教育经历&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2013.9–2016.6，中国科学技术大学光学与光学工程系，博士&lt;/li&gt;
+&lt;li&gt;2009.8–2013.6，合肥工业大学仪器科学与光电工程学院，学士&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="联系方式"&gt;联 …&lt;/h2&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">qng</dc:creator><pubDate>Mon, 19 Sep 2016 10:20:00 +0800</pubDate><guid>tag:ustc-iontrap.github.io,2016-09-19:/zh/Members/Wei-Min_Lv.html</guid><category>People</category></item></channel></rss>
