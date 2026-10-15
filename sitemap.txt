@@ -14,6 +14,7 @@ https://ustc-iontrap.github.io/Members/Qing-Quan_Yao.html
 https://ustc-iontrap.github.io/Members/Quan_Long.html
 https://ustc-iontrap.github.io/Members/Ran_He.html
 https://ustc-iontrap.github.io/Members/Rui-Rui_Li.html
+https://ustc-iontrap.github.io/Members/Shu-Qian_Chen.html
 https://ustc-iontrap.github.io/Members/Si-Yuan_Tao.html
 https://ustc-iontrap.github.io/Members/Wei-Min_Lv.html
 https://ustc-iontrap.github.io/Members/Wen-Hao_Qi.html
@@ -21,6 +22,7 @@ https://ustc-iontrap.github.io/Members/Xin-Xia_Gao.html
 https://ustc-iontrap.github.io/Members/Yan_Chen.html
 https://ustc-iontrap.github.io/Members/Yi-Fan_Zheng.html
 https://ustc-iontrap.github.io/Members/Yi-Fan_Zhou.html
+https://ustc-iontrap.github.io/Members/Yi-Long_Chen.html
 https://ustc-iontrap.github.io/Members/Yun-Feng_Huang.html
 https://ustc-iontrap.github.io/Members/Zhong-Hua_Qian.html
 https://ustc-iontrap.github.io/an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html
@@ -80,6 +82,7 @@ https://ustc-iontrap.github.io/zh/Members/Qing-Quan_Yao.html
 https://ustc-iontrap.github.io/zh/Members/Quan_Long.html
 https://ustc-iontrap.github.io/zh/Members/Ran_He.html
 https://ustc-iontrap.github.io/zh/Members/Rui-Rui_Li.html
+https://ustc-iontrap.github.io/zh/Members/Shu-Qian_Chen.html
 https://ustc-iontrap.github.io/zh/Members/Si-Yuan_Tao.html
 https://ustc-iontrap.github.io/zh/Members/Wei-Min_Lv.html
 https://ustc-iontrap.github.io/zh/Members/Wen-Hao_Qi.html
@@ -87,6 +90,7 @@ https://ustc-iontrap.github.io/zh/Members/Xin-Xia_Gao.html
 https://ustc-iontrap.github.io/zh/Members/Yan_Chen.html
 https://ustc-iontrap.github.io/zh/Members/Yi-Fan_Zheng.html
 https://ustc-iontrap.github.io/zh/Members/Yi-Fan_Zhou.html
+https://ustc-iontrap.github.io/zh/Members/Yi-Long_Chen.html
 https://ustc-iontrap.github.io/zh/Members/Yun-Feng_Huang.html
 https://ustc-iontrap.github.io/zh/Members/Zhong-Hua_Qian.html
 https://ustc-iontrap.github.io/zh/an-ultraviolet-fiber-fabry-perot-cavity-for-florescence-collection-of-trapped-ions-is-published.html
